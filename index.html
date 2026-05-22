@@ -6,14 +6,17 @@
   <title>Achei Esse Bagulho</title>
 </head>
 <body style="margin:0; display:flex; justify-content:center; align-items:center; height:100vh; background:#1a1a2e; font-family:sans-serif;">
-  <div style="text-align:center;">
-    <img src="logo_ambos.jpg" alt="Achei Esse Bagulho" style="width:180px; margin-bottom:20px;">
+  <div style="text-align:center; padding:20px;">
     <h1 style="color:white;">🛍️ Achei Esse Bagulho</h1>
     <p style="color:#ccc;">Os melhores achados da internet!</p>
-    <a href="https://t.me/AcheiEsseBagulho"
-       style="background:#0088cc; color:white; padding:16px 32px; border-radius:12px; text-decoration:none; font-size:18px; font-weight:bold;">
-      📲 Entrar no Grupo
-    </a>
+    <p style="color:white; font-size:16px;">👇 Copie o link abaixo e abra no seu navegador:</p>
+    <div style="background:#0d1b2a; border:2px solid #0088cc; border-radius:12px; padding:14px; margin:16px 0;">
+      <span id="link" style="color:#4fc3f7; font-size:17px; font-weight:bold;">t.me/AcheiEsseBagulho</span>
+    </div>
+    <button onclick="navigator.clipboard.writeText('https://t.me/AcheiEsseBagulho').then(() => alert('Link copiado! Cole no navegador.'))"
+      style="background:#0088cc; color:white; padding:16px 32px; border-radius:12px; border:none; font-size:18px; font-weight:bold; cursor:pointer;">
+      📋 Copiar Link
+    </button>
   </div>
 </body>
 </html>
