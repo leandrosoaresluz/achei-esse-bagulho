@@ -9,14 +9,14 @@
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
     :root {
-      --bg:        #0f0f1a;
-      --surface:   #1a1a2e;
-      --card:      #16213e;
-      --accent:    #f97316;
-      --tg:        #0088cc;
-      --text:      #f0f0f0;
-      --muted:     #8888aa;
-      --radius:    14px;
+      --bg:      #0f0f1a;
+      --surface: #1a1a2e;
+      --card:    #16213e;
+      --accent:  #f97316;
+      --tg:      #0088cc;
+      --text:    #f0f0f0;
+      --muted:   #8888aa;
+      --radius:  14px;
     }
 
     body {
@@ -24,14 +24,13 @@
       color: var(--text);
       font-family: 'Inter', sans-serif;
       min-height: 100vh;
-      padding: 0 0 60px;
+      padding-bottom: 60px;
     }
 
     /* ── Header ── */
     .header {
       text-align: center;
       padding: 36px 20px 28px;
-      position: relative;
     }
     .header::after {
       content: '';
@@ -53,11 +52,7 @@
       letter-spacing: 2px;
       line-height: 1;
     }
-    .header p {
-      color: var(--muted);
-      font-size: .9rem;
-      margin-top: 6px;
-    }
+    .header p { color: var(--muted); font-size: .9rem; margin-top: 6px; }
 
     /* ── Botão Telegram ── */
     .btn-tg {
@@ -72,24 +67,31 @@
       font-size: 1rem;
       padding: 16px 24px;
       border-radius: var(--radius);
-      margin: 0 20px 32px;
       max-width: 420px;
-      margin-left: auto;
-      margin-right: auto;
+      margin: 0 auto 32px;
       transition: opacity .2s, transform .15s;
       box-shadow: 0 4px 20px rgba(0,136,204,.3);
     }
     .btn-tg:active { opacity: .85; transform: scale(.98); }
 
     /* ── Seção produtos ── */
+    .section-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 16px;
+      max-width: 480px;
+      margin: 0 auto 16px;
+    }
     .section-title {
       font-family: 'Bebas Neue', sans-serif;
       font-size: 1.5rem;
       letter-spacing: 2px;
       color: var(--accent);
-      text-align: center;
-      margin-bottom: 16px;
-      padding: 0 20px;
+    }
+    .section-count {
+      font-size: .8rem;
+      color: var(--muted);
     }
 
     .grid {
@@ -109,13 +111,12 @@
       display: flex;
       flex-direction: column;
       border: 1px solid rgba(255,255,255,.06);
-      animation: fadeUp .4s ease both;
+      animation: fadeUp .35s ease both;
     }
     @keyframes fadeUp {
-      from { opacity:0; transform:translateY(16px); }
+      from { opacity:0; transform:translateY(14px); }
       to   { opacity:1; transform:translateY(0); }
     }
-
     .card-img {
       width: 100%;
       aspect-ratio: 1;
@@ -132,7 +133,6 @@
       justify-content: center;
       font-size: 2rem;
     }
-
     .card-body {
       padding: 10px 10px 12px;
       flex: 1;
@@ -171,16 +171,23 @@
     }
     .card-btn:active { opacity: .8; }
 
+    /* ── Infinite scroll sentinel ── */
+    #sentinel {
+      height: 1px;
+      margin-top: 20px;
+    }
+
     /* ── Loader ── */
     .loader {
       text-align: center;
-      padding: 40px 20px;
+      padding: 24px 20px;
       color: var(--muted);
-      font-size: .9rem;
+      font-size: .85rem;
+      grid-column: 1 / -1;
     }
     .loader span {
       display: inline-block;
-      width: 8px; height: 8px;
+      width: 7px; height: 7px;
       background: var(--accent);
       border-radius: 50%;
       margin: 0 3px;
@@ -189,11 +196,18 @@
     .loader span:nth-child(2) { animation-delay: .15s; }
     .loader span:nth-child(3) { animation-delay: .30s; }
     @keyframes bounce {
-      0%,80%,100% { transform: translateY(0); }
-      40%          { transform: translateY(-8px); }
+      0%,80%,100% { transform:translateY(0); }
+      40%          { transform:translateY(-7px); }
     }
 
-    /* ── Rodapé ── */
+    .fim-lista {
+      text-align: center;
+      color: var(--muted);
+      font-size: .8rem;
+      padding: 24px;
+      grid-column: 1 / -1;
+    }
+
     .footer {
       text-align: center;
       color: var(--muted);
@@ -204,37 +218,101 @@
 </head>
 <body>
 
-  <!-- Header -->
   <div class="header">
     <img src="logo_ambos.jpg" alt="Achei Esse Bagulho" class="logo">
     <h1>Achei Esse Bagulho</h1>
     <p>Os melhores achados da internet!</p>
   </div>
 
-  <!-- Botão Telegram -->
   <a href="https://t.me/AcheiEsseBagulho" class="btn-tg">
     <svg width="22" height="22" viewBox="0 0 24 24" fill="white"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.562 8.248-1.97 9.289c-.145.658-.537.818-1.084.508l-3-2.21-1.447 1.394c-.16.16-.295.295-.605.295l.213-3.053 5.56-5.023c.242-.213-.054-.333-.373-.12l-6.871 4.326-2.962-.924c-.643-.204-.657-.643.136-.953l11.57-4.461c.537-.194 1.006.131.833.932z"/></svg>
     📲 Entrar no Grupo
   </a>
 
-  <!-- Produtos -->
-  <div class="section-title">🔥 Ofertas do Momento</div>
+  <div class="section-header">
+    <div class="section-title">🔥 Ofertas</div>
+    <div class="section-count" id="contagem"></div>
+  </div>
 
-  <div id="produtos-grid" class="grid">
-    <div class="loader" style="grid-column:1/-1">
+  <div id="grid" class="grid">
+    <div class="loader">
       <span></span><span></span><span></span>
     </div>
   </div>
+
+  <div id="sentinel"></div>
 
   <div class="footer">
     Links de afiliado — você paga o mesmo preço e apoia o canal 🙏
   </div>
 
   <script>
-    async function carregarProdutos() {
-      const grid = document.getElementById('produtos-grid');
+    const POR_PAGINA = 20;
+    let todos = [];
+    let pagina = 0;
+    let carregando = false;
+    let acabou = false;
+
+    function criarCard(p, delay) {
+      const img = p.imagem
+        ? `<img class="card-img" src="${p.imagem}" alt="" loading="lazy"
+             onerror="this.outerHTML='<div class=card-img-placeholder>🛍️</div>'">`
+        : '<div class="card-img-placeholder">🛍️</div>';
+
+      const div = document.createElement('div');
+      div.className = 'card';
+      div.style.animationDelay = delay + 's';
+      div.innerHTML = `
+        ${img}
+        <div class="card-body">
+          <div class="card-name">${p.nome}</div>
+          ${p.preco ? `<div class="card-price">R$ ${p.preco}</div>` : ''}
+          <a href="${p.url}" class="card-btn" target="_blank" rel="noopener">🛒 Comprar</a>
+        </div>`;
+      return div;
+    }
+
+    function mostrarMais() {
+      if (carregando || acabou) return;
+      carregando = true;
+
+      const grid   = document.getElementById('grid');
+      const inicio = pagina * POR_PAGINA;
+      const fatia  = todos.slice(inicio, inicio + POR_PAGINA);
+
+      if (fatia.length === 0) {
+        acabou = true;
+        if (pagina > 0) {
+          const fim = document.createElement('div');
+          fim.className = 'fim-lista';
+          fim.textContent = '✅ Todas as ofertas carregadas';
+          grid.appendChild(fim);
+        }
+        carregando = false;
+        return;
+      }
+
+      fatia.forEach((p, i) => {
+        grid.appendChild(criarCard(p, i * 0.05));
+      });
+
+      pagina++;
+      carregando = false;
+
+      if (pagina * POR_PAGINA >= todos.length) {
+        acabou = true;
+        if (todos.length > POR_PAGINA) {
+          const fim = document.createElement('div');
+          fim.className = 'fim-lista';
+          fim.textContent = '✅ Todas as ofertas carregadas';
+          grid.appendChild(fim);
+        }
+      }
+    }
+
+    async function init() {
+      const grid = document.getElementById('grid');
       try {
-        // Cache-busting para sempre pegar a versão mais recente
         const res  = await fetch('products.json?t=' + Date.now());
         const data = await res.json();
 
@@ -243,32 +321,26 @@
           return;
         }
 
-        // Ordena do mais recente para o mais antigo
-        const lista = [...data.produtos].reverse();
+        // Mais recente primeiro
+        todos = [...data.produtos].reverse();
+        document.getElementById('contagem').textContent = todos.length + ' ofertas';
 
-        grid.innerHTML = lista.map((p, i) => `
-          <div class="card" style="animation-delay:${i * 0.06}s">
-            ${p.imagem
-              ? `<img class="card-img" src="${p.imagem}" alt="${p.nome}" loading="lazy" onerror="this.parentNode.innerHTML='<div class=card-img-placeholder>🛍️</div>'+this.parentNode.innerHTML.replace(this.outerHTML,'')">`
-              : '<div class="card-img-placeholder">🛍️</div>'
-            }
-            <div class="card-body">
-              <div class="card-name">${p.nome}</div>
-              ${p.preco ? `<div class="card-price">R$ ${p.preco}</div>` : ''}
-              <a href="${p.url}" class="card-btn" target="_blank" rel="noopener">
-                🛒 Comprar
-              </a>
-            </div>
-          </div>
-        `).join('');
+        grid.innerHTML = '';
+        mostrarMais();
+
+        // Infinite scroll via IntersectionObserver
+        const sentinel = document.getElementById('sentinel');
+        const observer = new IntersectionObserver(entries => {
+          if (entries[0].isIntersecting) mostrarMais();
+        }, { rootMargin: '200px' });
+        observer.observe(sentinel);
 
       } catch(e) {
-        grid.innerHTML = '<p style="grid-column:1/-1;text-align:center;color:#888;padding:40px">Carregando ofertas...</p>';
+        grid.innerHTML = '<p style="grid-column:1/-1;text-align:center;color:#888;padding:40px">Carregando...</p>';
       }
     }
 
-    carregarProdutos();
+    init();
   </script>
-
 </body>
 </html>
