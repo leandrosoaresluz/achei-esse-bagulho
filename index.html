@@ -219,6 +219,46 @@
     }
     .tiktok-hint strong { color: #aaa; }
 
+    /* ── Busca ── */
+    .search-wrap {
+      padding: 0 16px 20px;
+      max-width: 480px;
+      margin: 0 auto;
+    }
+    .search-input {
+      width: 100%;
+      background: var(--card);
+      border: 1px solid rgba(255,255,255,.1);
+      border-radius: var(--radius);
+      padding: 12px 16px 12px 42px;
+      color: var(--text);
+      font-size: .95rem;
+      font-family: 'Inter', sans-serif;
+      outline: none;
+      transition: border-color .2s;
+      -webkit-appearance: none;
+    }
+    .search-input:focus { border-color: var(--accent); }
+    .search-input::placeholder { color: var(--muted); }
+    .search-wrap-inner {
+      position: relative;
+    }
+    .search-icon {
+      position: absolute;
+      left: 14px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--muted);
+      pointer-events: none;
+    }
+    .search-empty {
+      text-align: center;
+      color: var(--muted);
+      font-size: .9rem;
+      padding: 40px 20px;
+      grid-column: 1 / -1;
+    }
+
     .footer {
       text-align: center;
       color: var(--muted);
@@ -242,6 +282,14 @@
   <p class="tiktok-hint">
     Veio pelo TikTok? Toque em <strong>···</strong> → <strong>Abrir no navegador</strong> primeiro
   </p>
+
+  <div class="search-wrap">
+    <div class="search-wrap-inner">
+      <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+      <input type="search" class="search-input" id="busca"
+             placeholder="Buscar produto..." autocomplete="off">
+    </div>
+  </div>
 
   <div class="section-header">
     <div class="section-title">🔥 Ofertas</div>
@@ -324,6 +372,73 @@
       }
     }
 
+    // ── Busca ──────────────────────────────────────────────
+    let termoBusca = '';
+    let todosFiltrados = [];
+
+    function filtrar(termo) {
+      termoBusca = termo.toLowerCase().trim();
+      todosFiltrados = termoBusca
+        ? todos.filter(p => p.nome.toLowerCase().includes(termoBusca))
+        : todos;
+
+      const count = todosFiltrados.length;
+      document.getElementById('contagem').textContent =
+        termoBusca
+          ? `${count} resultado${count !== 1 ? 's' : ''} para "${termo}"`
+          : `${todos.length} ofertas`;
+
+      pagina   = 0;
+      acabou   = false;
+      carregando = false;
+      document.getElementById('grid').innerHTML = '';
+      document.getElementById('sentinel').style.display = '';
+
+      if (count === 0) {
+        document.getElementById('grid').innerHTML =
+          `<div class="search-empty">Nenhuma oferta encontrada para "<strong>${termo}</strong>"</div>`;
+        document.getElementById('sentinel').style.display = 'none';
+        return;
+      }
+      mostrarMais();
+    }
+
+    function mostrarMais() {
+      if (carregando || acabou) return;
+      carregando = true;
+
+      const lista  = todosFiltrados.length ? todosFiltrados : todos;
+      const grid   = document.getElementById('grid');
+      const inicio = pagina * POR_PAGINA;
+      const fatia  = lista.slice(inicio, inicio + POR_PAGINA);
+
+      if (fatia.length === 0) {
+        acabou = true;
+        if (pagina > 0) {
+          const fim = document.createElement('div');
+          fim.className = 'fim-lista';
+          fim.textContent = '✅ Todas as ofertas carregadas';
+          grid.appendChild(fim);
+        }
+        carregando = false;
+        return;
+      }
+
+      fatia.forEach((p, i) => grid.appendChild(criarCard(p, i * 0.05)));
+      pagina++;
+      carregando = false;
+
+      if (pagina * POR_PAGINA >= lista.length) {
+        acabou = true;
+        if (lista.length > POR_PAGINA) {
+          const fim = document.createElement('div');
+          fim.className = 'fim-lista';
+          fim.textContent = '✅ Todas as ofertas carregadas';
+          grid.appendChild(fim);
+        }
+      }
+    }
+
     async function init() {
       const grid = document.getElementById('grid');
       try {
@@ -335,19 +450,26 @@
           return;
         }
 
-        // Mais recente primeiro
-        todos = [...data.produtos].reverse();
+        todos          = [...data.produtos].reverse();
+        todosFiltrados = todos;
         document.getElementById('contagem').textContent = todos.length + ' ofertas';
 
         grid.innerHTML = '';
         mostrarMais();
 
-        // Infinite scroll via IntersectionObserver
+        // Infinite scroll
         const sentinel = document.getElementById('sentinel');
         const observer = new IntersectionObserver(entries => {
           if (entries[0].isIntersecting) mostrarMais();
         }, { rootMargin: '200px' });
         observer.observe(sentinel);
+
+        // Busca com debounce
+        let debounce;
+        document.getElementById('busca').addEventListener('input', e => {
+          clearTimeout(debounce);
+          debounce = setTimeout(() => filtrar(e.target.value), 300);
+        });
 
       } catch(e) {
         grid.innerHTML = '<p style="grid-column:1/-1;text-align:center;color:#888;padding:40px">Carregando...</p>';
