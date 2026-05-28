@@ -1,4 +1,14 @@
 {
-  "produtos": [],
-  "atualizado": ""
+  "produtos": [
+    {
+      "nome": "3 Corações Café Torrado e Moído Gourmet Cerrado Mineiro, 250G",
+      "preco": "24,99",
+      "nota": "4.8",
+      "avaliacoes": "3,964",
+      "url": "https://www.amazon.com.br/dp/B086F8J671?tag=acheiessebagulho-20",
+      "imagem": "",
+      "data": "2026-05-28"
+    }
+  ],
+  "atualizado": "2026-05-28T16:32:39.555379"
 }
