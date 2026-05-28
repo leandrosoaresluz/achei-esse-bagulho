@@ -93,6 +93,19 @@
       font-size: .8rem;
       color: var(--muted);
     }
+    .btn-refresh {
+      background: none;
+      border: 1px solid rgba(255,255,255,.15);
+      color: var(--muted);
+      border-radius: 8px;
+      padding: 5px 10px;
+      font-size: .75rem;
+      cursor: pointer;
+      transition: border-color .2s, color .2s;
+    }
+    .btn-refresh:hover { border-color: var(--accent); color: var(--accent); }
+    .btn-refresh.girando { animation: girar .6s linear infinite; }
+    @keyframes girar { to { transform: rotate(360deg); } }
 
     .grid {
       display: grid;
@@ -293,7 +306,10 @@
 
   <div class="section-header">
     <div class="section-title">🔥 Ofertas</div>
-    <div class="section-count" id="contagem"></div>
+    <div style="display:flex;align-items:center;gap:10px">
+      <div class="section-count" id="contagem"></div>
+      <button class="btn-refresh" id="btn-refresh" onclick="recarregar()" title="Atualizar ofertas">↻</button>
+    </div>
   </div>
 
   <div id="grid" class="grid">
@@ -474,6 +490,16 @@
       } catch(e) {
         grid.innerHTML = '<p style="grid-column:1/-1;text-align:center;color:#888;padding:40px">Carregando...</p>';
       }
+    }
+
+    function recarregar() {
+      const btn = document.getElementById('btn-refresh');
+      btn.classList.add('girando');
+      todos = []; todosFiltrados = []; pagina = 0; acabou = false; carregando = false;
+      document.getElementById('grid').innerHTML = '<div class="loader"><span></span><span></span><span></span></div>';
+      document.getElementById('busca').value = '';
+      termoBusca = '';
+      init().finally(() => btn.classList.remove('girando'));
     }
 
     init();
