@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Achei Esse Bagulho</title>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:        #0f0f1a;
+      --surface:   #1a1a2e;
+      --card:      #16213e;
+      --accent:    #f97316;
+      --tg:        #0088cc;
+      --text:      #f0f0f0;
+      --muted:     #8888aa;
+      --radius:    14px;
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Inter', sans-serif;
+      min-height: 100vh;
+      padding: 0 0 60px;
+    }
+
+    /* ── Header ── */
+    .header {
+      text-align: center;
+      padding: 36px 20px 28px;
+      position: relative;
+    }
+    .header::after {
+      content: '';
+      display: block;
+      width: 60px; height: 3px;
+      background: var(--accent);
+      margin: 16px auto 0;
+      border-radius: 2px;
+    }
+    .logo {
+      width: 90px;
+      border-radius: 20px;
+      margin-bottom: 14px;
+      box-shadow: 0 8px 32px rgba(249,115,22,.25);
+    }
+    .header h1 {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 2.4rem;
+      letter-spacing: 2px;
+      line-height: 1;
+    }
+    .header p {
+      color: var(--muted);
+      font-size: .9rem;
+      margin-top: 6px;
+    }
+
+    /* ── Botão Telegram ── */
+    .btn-tg {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      background: var(--tg);
+      color: white;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1rem;
+      padding: 16px 24px;
+      border-radius: var(--radius);
+      margin: 0 20px 32px;
+      max-width: 420px;
+      margin-left: auto;
+      margin-right: auto;
+      transition: opacity .2s, transform .15s;
+      box-shadow: 0 4px 20px rgba(0,136,204,.3);
+    }
+    .btn-tg:active { opacity: .85; transform: scale(.98); }
+
+    /* ── Seção produtos ── */
+    .section-title {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 1.5rem;
+      letter-spacing: 2px;
+      color: var(--accent);
+      text-align: center;
+      margin-bottom: 16px;
+      padding: 0 20px;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 14px;
+      padding: 0 16px;
+      max-width: 480px;
+      margin: 0 auto;
+    }
+
+    /* ── Card ── */
+    .card {
+      background: var(--card);
+      border-radius: var(--radius);
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      border: 1px solid rgba(255,255,255,.06);
+      animation: fadeUp .4s ease both;
+    }
+    @keyframes fadeUp {
+      from { opacity:0; transform:translateY(16px); }
+      to   { opacity:1; transform:translateY(0); }
+    }
+
+    .card-img {
+      width: 100%;
+      aspect-ratio: 1;
+      object-fit: contain;
+      background: #fff;
+      padding: 10px;
+    }
+    .card-img-placeholder {
+      width: 100%;
+      aspect-ratio: 1;
+      background: #1e1e3a;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 2rem;
+    }
+
+    .card-body {
+      padding: 10px 10px 12px;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .card-name {
+      font-size: .78rem;
+      font-weight: 600;
+      line-height: 1.35;
+      color: var(--text);
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+    .card-price {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 1.25rem;
+      color: var(--accent);
+      letter-spacing: 1px;
+    }
+    .card-btn {
+      display: block;
+      background: var(--accent);
+      color: white;
+      text-align: center;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: .8rem;
+      padding: 9px 6px;
+      border-radius: 8px;
+      margin-top: auto;
+      transition: opacity .2s;
+    }
+    .card-btn:active { opacity: .8; }
+
+    /* ── Loader ── */
+    .loader {
+      text-align: center;
+      padding: 40px 20px;
+      color: var(--muted);
+      font-size: .9rem;
+    }
+    .loader span {
+      display: inline-block;
+      width: 8px; height: 8px;
+      background: var(--accent);
+      border-radius: 50%;
+      margin: 0 3px;
+      animation: bounce .8s infinite;
+    }
+    .loader span:nth-child(2) { animation-delay: .15s; }
+    .loader span:nth-child(3) { animation-delay: .30s; }
+    @keyframes bounce {
+      0%,80%,100% { transform: translateY(0); }
+      40%          { transform: translateY(-8px); }
+    }
+
+    /* ── Rodapé ── */
+    .footer {
+      text-align: center;
+      color: var(--muted);
+      font-size: .75rem;
+      padding: 32px 20px 0;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Header -->
+  <div class="header">
+    <img src="logo_ambos.jpg" alt="Achei Esse Bagulho" class="logo">
+    <h1>Achei Esse Bagulho</h1>
+    <p>Os melhores achados da internet!</p>
+  </div>
+
+  <!-- Botão Telegram -->
+  <a href="https://t.me/AcheiEsseBagulho" class="btn-tg">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="white"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.562 8.248-1.97 9.289c-.145.658-.537.818-1.084.508l-3-2.21-1.447 1.394c-.16.16-.295.295-.605.295l.213-3.053 5.56-5.023c.242-.213-.054-.333-.373-.12l-6.871 4.326-2.962-.924c-.643-.204-.657-.643.136-.953l11.57-4.461c.537-.194 1.006.131.833.932z"/></svg>
+    📲 Entrar no Grupo
+  </a>
+
+  <!-- Produtos -->
+  <div class="section-title">🔥 Ofertas do Momento</div>
+
+  <div id="produtos-grid" class="grid">
+    <div class="loader" style="grid-column:1/-1">
+      <span></span><span></span><span></span>
+    </div>
+  </div>
+
+  <div class="footer">
+    Links de afiliado — você paga o mesmo preço e apoia o canal 🙏
+  </div>
+
+  <script>
+    async function carregarProdutos() {
+      const grid = document.getElementById('produtos-grid');
+      try {
+        // Cache-busting para sempre pegar a versão mais recente
+        const res  = await fetch('products.json?t=' + Date.now());
+        const data = await res.json();
+
+        if (!data.produtos || data.produtos.length === 0) {
+          grid.innerHTML = '<p style="grid-column:1/-1;text-align:center;color:#888;padding:40px">Em breve!</p>';
+          return;
+        }
+
+        // Ordena do mais recente para o mais antigo
+        const lista = [...data.produtos].reverse();
+
+        grid.innerHTML = lista.map((p, i) => `
+          <div class="card" style="animation-delay:${i * 0.06}s">
+            ${p.imagem
+              ? `<img class="card-img" src="${p.imagem}" alt="${p.nome}" loading="lazy" onerror="this.parentNode.innerHTML='<div class=card-img-placeholder>🛍️</div>'+this.parentNode.innerHTML.replace(this.outerHTML,'')">`
+              : '<div class="card-img-placeholder">🛍️</div>'
+            }
+            <div class="card-body">
+              <div class="card-name">${p.nome}</div>
+              ${p.preco ? `<div class="card-price">R$ ${p.preco}</div>` : ''}
+              <a href="${p.url}" class="card-btn" target="_blank" rel="noopener">
+                🛒 Comprar
+              </a>
+            </div>
+          </div>
+        `).join('');
+
+      } catch(e) {
+        grid.innerHTML = '<p style="grid-column:1/-1;text-align:center;color:#888;padding:40px">Carregando ofertas...</p>';
+      }
+    }
+
+    carregarProdutos();
+  </script>
+
+</body>
+</html>
