@@ -206,7 +206,16 @@
       "url": "https://www.amazon.com.br/dp/B0GSCGBS4K?tag=acheiessebagulho-20",
       "imagem": "https://api.telegram.org/file/bot8644635196:AAE3sZR4sUy3ExJneQZFiXQRixsYwO0NWOE/photos/file_46.jpg",
       "data": "2026-05-29"
+    },
+    {
+      "nome": "CHEGOU BAGULHO NOVO",
+      "preco": "15,90",
+      "nota": "4.8",
+      "avaliacoes": "43,619",
+      "url": "https://www.amazon.com.br/dp/B07SBXMSGB?tag=acheiessebagulho-20",
+      "imagem": "https://api.telegram.org/file/bot8644635196:AAE3sZR4sUy3ExJneQZFiXQRixsYwO0NWOE/photos/file_47.jpg",
+      "data": "2026-05-29"
     }
   ],
-  "atualizado": "2026-05-29T15:46:50.095561"
+  "atualizado": "2026-05-29T16:32:12.343462"
 }
