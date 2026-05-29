@@ -89,7 +89,16 @@
       "url": "https://www.amazon.com.br/dp/B0GY7XQW89?tag=acheiessebagulho-20",
       "imagem": "https://api.telegram.org/file/bot8644635196:AAE3sZR4sUy3ExJneQZFiXQRixsYwO0NWOE/photos/file_33.jpg",
       "data": "2026-05-29"
+    },
+    {
+      "nome": "Marvel's Spider-Man 2 PS5",
+      "preco": "160,99",
+      "nota": "4.9",
+      "avaliacoes": "2,996",
+      "url": "https://www.amazon.com.br/dp/B0CHZ18WJW?tag=acheiessebagulho-20",
+      "imagem": "https://api.telegram.org/file/bot8644635196:AAE3sZR4sUy3ExJneQZFiXQRixsYwO0NWOE/photos/file_34.jpg",
+      "data": "2026-05-29"
     }
   ],
-  "atualizado": "2026-05-29T07:03:00.965303"
+  "atualizado": "2026-05-29T07:46:16.702612"
 }
