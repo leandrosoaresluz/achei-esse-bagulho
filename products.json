@@ -368,7 +368,16 @@
       "url": "https://www.amazon.com.br/dp/B0GZJDYP3K?tag=acheiessebagulho-20",
       "imagem": "https://api.telegram.org/file/bot8644635196:AAE3sZR4sUy3ExJneQZFiXQRixsYwO0NWOE/photos/file_64.jpg",
       "data": "2026-05-30"
+    },
+    {
+      "nome": "Kit Sabonete, PHEBO, Amarelo, 720g",
+      "preco": "35,99",
+      "nota": "4.8",
+      "avaliacoes": "9,818",
+      "url": "https://www.amazon.com.br/dp/B00N6AKNQW?tag=acheiessebagulho-20",
+      "imagem": "https://api.telegram.org/file/bot8644635196:AAE3sZR4sUy3ExJneQZFiXQRixsYwO0NWOE/photos/file_65.jpg",
+      "data": "2026-05-30"
     }
   ],
-  "atualizado": "2026-05-30T11:33:31.407757"
+  "atualizado": "2026-05-30T12:35:35.921039"
 }
