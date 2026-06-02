@@ -861,8 +861,19 @@
       "url": "https://s.shopee.com.br/30lJAaDf6U",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_6b1e2f45dd.jpg",
       "data": "2026-06-02"
+    },
+    {
+      "nome": "Yoshi and the Mysterious Book – Nintendo Switch 2",
+      "preco": "419,25",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "5.0",
+      "avaliacoes": "1",
+      "url": "https://www.amazon.com.br/dp/B0GX7FXTWN?tag=acheiessebagulho-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0GX7FXTWN.jpg",
+      "data": "2026-06-02"
     }
   ],
-  "atualizado": "2026-06-02T07:45:22.897034",
+  "atualizado": "2026-06-02T08:31:29.879525",
   "_backfill_count": 25
 }
