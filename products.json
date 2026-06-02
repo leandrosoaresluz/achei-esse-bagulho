@@ -828,8 +828,19 @@
       "url": "https://s.shopee.com.br/5VSdaArUDq",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_ca48c67d86.jpg",
       "data": "2026-06-01"
+    },
+    {
+      "nome": "Downy Amaciante Concentrado Brisa de Verão 3L, Rende 12L, Perfume com Notas de Flores e Ar fresco",
+      "preco": "69,90",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.9",
+      "avaliacoes": "42685",
+      "url": "https://www.amazon.com.br/dp/B07MBXDB51?tag=acheiessebagulho-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B07MBXDB51.jpg",
+      "data": "2026-06-02"
     }
   ],
-  "atualizado": "2026-06-01T23:15:47.489799",
+  "atualizado": "2026-06-02T00:01:20.007135",
   "_backfill_count": 25
 }
