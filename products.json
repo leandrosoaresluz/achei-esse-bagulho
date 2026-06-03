@@ -1323,8 +1323,19 @@
       "url": "https://www.amazon.com.br/dp/B0BLZVD5S5?tag=acheiessebagulho-20",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0BLZVD5S5.jpg",
       "data": "2026-06-03"
+    },
+    {
+      "nome": "Scotch, 3M, Fixa Forte, Fita Dupla Face, Fixação Extrema, 24mm x 2m",
+      "preco": "25,19",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.7",
+      "avaliacoes": "20726",
+      "url": "https://www.amazon.com.br/dp/B0779BRVVS?tag=acheiessebagulho-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0779BRVVS.jpg",
+      "data": "2026-06-03"
     }
   ],
-  "atualizado": "2026-06-03T18:46:53.766645",
+  "atualizado": "2026-06-03T19:32:18.360671",
   "_backfill_count": 25
 }
