@@ -1576,8 +1576,19 @@
       "url": "https://www.amazon.com.br/dp/B0GWJBSF8X?tag=acheiessebagulho-20",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0GWJBSF8X.jpg",
       "data": "2026-06-04"
+    },
+    {
+      "nome": "100% Whey Refil (900g) - Chocolate, Max Titanium",
+      "preco": "128,00",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.7",
+      "avaliacoes": "4587",
+      "url": "https://www.amazon.com.br/dp/B08N36CBX3?tag=acheiessebagulho-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B08N36CBX3.jpg",
+      "data": "2026-06-04"
     }
   ],
-  "atualizado": "2026-06-04T19:32:20.850080",
+  "atualizado": "2026-06-04T20:17:14.632596",
   "_backfill_count": 25
 }
