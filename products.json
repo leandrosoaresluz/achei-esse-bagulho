@@ -1697,8 +1697,19 @@
       "url": "https://s.shopee.com.br/7pqduUzGkd",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_7463777fea.jpg",
       "data": "2026-06-05"
+    },
+    {
+      "nome": "God Of War III Remasterizado Hits PlayStation 4",
+      "preco": "59,90",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.9",
+      "avaliacoes": "2532",
+      "url": "https://www.amazon.com.br/dp/B07T3R4Y78?tag=acheiessebagulho-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B07T3R4Y78.jpg",
+      "data": "2026-06-05"
     }
   ],
-  "atualizado": "2026-06-05T10:45:22.345040",
+  "atualizado": "2026-06-05T11:31:58.736352",
   "_backfill_count": 25
 }
