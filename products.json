@@ -2632,8 +2632,19 @@
       "url": "https://www.amazon.com.br/dp/B0GNG35N36?tag=acheiessebagulho-20",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0GNG35N36.jpg",
       "data": "2026-06-08"
+    },
+    {
+      "nome": "Bosch Esmerilhadeira GWS 700, 710W 220V",
+      "preco": "303,99",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.8",
+      "avaliacoes": "1492",
+      "url": "https://www.amazon.com.br/dp/B09QRQQY4S?tag=acheiessebagulho-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B09QRQQY4S.jpg",
+      "data": "2026-06-08"
     }
   ],
-  "atualizado": "2026-06-08T21:46:08.345992",
+  "atualizado": "2026-06-08T21:49:35.647055",
   "_backfill_count": 25
 }
