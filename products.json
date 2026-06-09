@@ -2753,8 +2753,19 @@
       "url": "https://s.shopee.com.br/1VwgnWLLop",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_8d570a306f.jpg",
       "data": "2026-06-09"
+    },
+    {
+      "nome": "Chinelo Havaianas Brasil",
+      "preco": "44,90",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.8",
+      "avaliacoes": "28080",
+      "url": "https://www.amazon.com.br/dp/B000RMC2J8?tag=acheiessebagulho-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B000RMC2J8.jpg",
+      "data": "2026-06-09"
     }
   ],
-  "atualizado": "2026-06-09T11:30:42.364136",
+  "atualizado": "2026-06-09T12:45:03.626698",
   "_backfill_count": 25
 }
