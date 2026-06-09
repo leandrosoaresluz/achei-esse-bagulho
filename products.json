@@ -2764,8 +2764,19 @@
       "url": "https://www.amazon.com.br/dp/B000RMC2J8?tag=acheiessebagulho-20",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B000RMC2J8.jpg",
       "data": "2026-06-09"
+    },
+    {
+      "nome": "PHILIPS, Fone de Ouvido Sem Fio TWS, TAT1109BK/00, Bluetooth, Com Microfone, Até 24 horas de bateria, Preto",
+      "preco": "128,04",
+      "preco_original": "144,00",
+      "desconto_pct": "11",
+      "nota": "4.6",
+      "avaliacoes": "6880",
+      "url": "https://www.amazon.com.br/dp/B0DVMQVVDY?tag=acheiessebagulho-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0DVMQVVDY.jpg",
+      "data": "2026-06-09"
     }
   ],
-  "atualizado": "2026-06-09T12:45:03.626698",
+  "atualizado": "2026-06-09T12:47:07.986676",
   "_backfill_count": 25
 }
