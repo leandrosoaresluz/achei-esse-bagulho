@@ -4029,8 +4029,19 @@
       "url": "https://s.shopee.com.br/1qZdTVnIoi",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_578dc8f8ce.jpg",
       "data": "2026-06-14"
+    },
+    {
+      "nome": "Minhas 100 Primeiras Palavras",
+      "preco": "17,40",
+      "preco_original": "24,90",
+      "desconto_pct": "30",
+      "nota": "4.8",
+      "avaliacoes": "8622",
+      "url": "https://www.amazon.com.br/dp/8538060872?tag=acheiesseba0c-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/8538060872.jpg",
+      "data": "2026-06-14"
     }
   ],
-  "atualizado": "2026-06-14T11:30:38.007928",
+  "atualizado": "2026-06-14T12:43:11.041168",
   "_backfill_count": 25
 }
