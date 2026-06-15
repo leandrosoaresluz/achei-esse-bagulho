@@ -4249,8 +4249,19 @@
       "url": "https://s.shopee.com.br/7pqti8Nf2c",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_702eb9786b.jpg",
       "data": "2026-06-15"
+    },
+    {
+      "nome": "Crimson Desert: Standard Edition - PlayStation 5",
+      "preco": "346,23",
+      "preco_original": "1366,00",
+      "desconto_pct": "75",
+      "nota": "4.8",
+      "avaliacoes": "430",
+      "url": "https://www.amazon.com.br/dp/B0FST4FTPQ?tag=acheiesseba0c-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0FST4FTPQ.jpg",
+      "data": "2026-06-15"
     }
   ],
-  "atualizado": "2026-06-15T08:30:36.343099",
+  "atualizado": "2026-06-15T09:16:35.981098",
   "_backfill_count": 25
 }
