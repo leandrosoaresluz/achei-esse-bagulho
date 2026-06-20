@@ -5558,8 +5558,19 @@
       "url": "https://s.shopee.com.br/30lm84wdr3",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_0d82d5daa4.jpg",
       "data": "2026-06-20"
+    },
+    {
+      "nome": "Arthur Conan Doyle",
+      "preco": "97,93",
+      "preco_original": "139,90",
+      "desconto_pct": "30",
+      "nota": "",
+      "avaliacoes": "9793",
+      "url": "https://www.amazon.com.br/dp/6554481729?tag=acheiesseba0c-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/6554481729.jpg",
+      "data": "2026-06-20"
     }
   ],
-  "atualizado": "2026-06-20T11:30:37.152983",
+  "atualizado": "2026-06-20T12:35:24.272005",
   "_backfill_count": 25
 }
