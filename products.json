@@ -6779,8 +6779,19 @@
       "url": "https://www.amazon.com.br/dp/B09XFD2YMF?tag=acheiessebagu-20",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B09XFD2YMF.jpg",
       "data": "2026-06-26"
+    },
+    {
+      "nome": "Jujutsu Kaisen: Batalha de Feiticeiros Vol. 3",
+      "preco": "43,90",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.9",
+      "avaliacoes": "3281",
+      "url": "https://www.amazon.com.br/dp/6555125802?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/6555125802.jpg",
+      "data": "2026-06-26"
     }
   ],
-  "atualizado": "2026-06-26T12:38:56.561581",
+  "atualizado": "2026-06-26T13:01:33.700679",
   "_backfill_count": 25
 }
