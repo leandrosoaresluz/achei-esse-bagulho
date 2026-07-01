@@ -7428,8 +7428,19 @@
       "url": "https://s.shopee.com.br/7fXsKpYCQM",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_add7c1c385.jpg",
       "data": "2026-06-30"
+    },
+    {
+      "nome": "Pinga Açaí e Pracaxi Óleo 50ml , Lola Cosmetics",
+      "preco": "16,90",
+      "preco_original": "44,90",
+      "desconto_pct": "62",
+      "nota": "4.8",
+      "avaliacoes": "21552",
+      "url": "https://www.amazon.com.br/dp/B07QC7HJJF?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B07QC7HJJF.jpg",
+      "data": "2026-07-01"
     }
   ],
-  "atualizado": "2026-06-30T22:00:48.452302",
+  "atualizado": "2026-07-01T00:01:52.111049",
   "_backfill_count": 25
 }
