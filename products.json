@@ -7505,8 +7505,19 @@
       "url": "https://s.shopee.com.br/6VLvwVDZi0",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_68607817f2.jpg",
       "data": "2026-07-01"
+    },
+    {
+      "nome": "Omo Sabão Líquido 2 Unidades Puro Cuidado 5L",
+      "preco": "99,99",
+      "preco_original": "139,99",
+      "desconto_pct": "29",
+      "nota": "4.8",
+      "avaliacoes": "1382",
+      "url": "https://www.amazon.com.br/dp/B0DCW9YLTJ?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0DCW9YLTJ.jpg",
+      "data": "2026-07-01"
     }
   ],
-  "atualizado": "2026-07-01T13:00:46.535968",
+  "atualizado": "2026-07-01T15:01:57.826213",
   "_backfill_count": 25
 }
