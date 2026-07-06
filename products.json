@@ -8220,8 +8220,19 @@
       "url": "https://www.amazon.com.br/dp/B07Y2C1PWG?tag=acheiessebagu-20",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B07Y2C1PWG.jpg",
       "data": "2026-07-06"
+    },
+    {
+      "nome": "Samsonite Mala de Viagem Fiero 3.0",
+      "preco": "579,00",
+      "preco_original": "1100,00",
+      "desconto_pct": "47",
+      "nota": "4.9",
+      "avaliacoes": "358",
+      "url": "https://www.amazon.com.br/dp/B0DSCJ1C9S?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0DSCJ1C9S.jpg",
+      "data": "2026-07-06"
     }
   ],
-  "atualizado": "2026-07-06T12:34:31.745105",
+  "atualizado": "2026-07-06T13:01:56.697162",
   "_backfill_count": 25
 }
