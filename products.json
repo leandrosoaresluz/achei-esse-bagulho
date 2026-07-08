@@ -8506,8 +8506,19 @@
       "url": "https://www.amazon.com.br/dp/B08872FP2K?tag=acheiessebagu-20",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B08872FP2K.jpg",
       "data": "2026-07-08"
+    },
+    {
+      "nome": "A última carta",
+      "preco": "56,90",
+      "preco_original": "79,90",
+      "desconto_pct": "29",
+      "nota": "4.8",
+      "avaliacoes": "2586",
+      "url": "https://www.amazon.com.br/dp/6555658479?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/6555658479.jpg",
+      "data": "2026-07-08"
     }
   ],
-  "atualizado": "2026-07-08T12:40:04.545393",
+  "atualizado": "2026-07-08T13:01:54.130405",
   "_backfill_count": 25
 }
