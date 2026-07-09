@@ -8605,8 +8605,19 @@
       "url": "https://s.shopee.com.br/1VxSLiCLSk",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_d24d1dd7a7.jpg",
       "data": "2026-07-09"
+    },
+    {
+      "nome": "Liquidificador, Ph900, 3L, Preto, 220V, Philco",
+      "preco": "130,92",
+      "preco_original": "229,00",
+      "desconto_pct": "43",
+      "nota": "4.7",
+      "avaliacoes": "10308",
+      "url": "https://www.amazon.com.br/dp/B076BB8J7Z?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B076BB8J7Z.jpg",
+      "data": "2026-07-09"
     }
   ],
-  "atualizado": "2026-07-09T07:00:49.224748",
+  "atualizado": "2026-07-09T08:31:57.551634",
   "_backfill_count": 25
 }
