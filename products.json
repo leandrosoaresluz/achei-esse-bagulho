@@ -8759,8 +8759,19 @@
       "url": "https://s.shopee.com.br/AKYrzzsvFr",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_2b18681048.jpg",
       "data": "2026-07-10"
+    },
+    {
+      "nome": "The Last Of Us Part I - PlayStation 5",
+      "preco": "129,90",
+      "preco_original": "169,90",
+      "desconto_pct": "24",
+      "nota": "4.9",
+      "avaliacoes": "3559",
+      "url": "https://www.amazon.com.br/dp/B0B3YF2NZD?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0B3YF2NZD.jpg",
+      "data": "2026-07-10"
     }
   ],
-  "atualizado": "2026-07-10T08:30:48.655734",
+  "atualizado": "2026-07-10T10:01:46.262722",
   "_backfill_count": 25
 }
