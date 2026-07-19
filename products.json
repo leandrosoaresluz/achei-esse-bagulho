@@ -10046,8 +10046,19 @@
       "url": "https://s.shopee.com.br/2VqFabh0Ql",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_bc5586794c.jpg",
       "data": "2026-07-19"
+    },
+    {
+      "nome": "Red Dead Redemption - PlayStation 5",
+      "preco": "185,90",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "5.0",
+      "avaliacoes": "3",
+      "url": "https://www.amazon.com.br/dp/B0H2KBN3K1?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0H2KBN3K1.jpg",
+      "data": "2026-07-19"
     }
   ],
-  "atualizado": "2026-07-19T08:30:38.623081",
+  "atualizado": "2026-07-19T10:03:49.440753",
   "_backfill_count": 25
 }
