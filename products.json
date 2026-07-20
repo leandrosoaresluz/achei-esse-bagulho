@@ -10167,8 +10167,19 @@
       "url": "https://www.amazon.com.br/dp/B0GZHVX8WN?tag=acheiessebagu-20",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0GZHVX8WN.jpg",
       "data": "2026-07-20"
+    },
+    {
+      "nome": "Jantar secreto: Edição de colecionador",
+      "preco": "80,90",
+      "preco_original": "89,90",
+      "desconto_pct": "10",
+      "nota": "4.6",
+      "avaliacoes": "25092",
+      "url": "https://www.amazon.com.br/dp/8535946039?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/8535946039.jpg",
+      "data": "2026-07-20"
     }
   ],
-  "atualizado": "2026-07-20T00:01:34.102373",
+  "atualizado": "2026-07-20T08:35:44.029518",
   "_backfill_count": 25
 }
