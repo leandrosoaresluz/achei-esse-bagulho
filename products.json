@@ -10717,8 +10717,19 @@
       "url": "https://www.amazon.com.br/dp/B0GZLVJ7MD?tag=acheiessebagu-20",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0GZLVJ7MD.jpg",
       "data": "2026-07-24"
+    },
+    {
+      "nome": "O século dos imbecis",
+      "preco": "76,40",
+      "preco_original": "84,90",
+      "desconto_pct": "10",
+      "nota": "5.0",
+      "avaliacoes": "2",
+      "url": "https://www.amazon.com.br/dp/6558302446?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/6558302446.jpg",
+      "data": "2026-07-24"
     }
   ],
-  "atualizado": "2026-07-24T11:52:54.561208",
+  "atualizado": "2026-07-24T12:39:32.169228",
   "_backfill_count": 25
 }
