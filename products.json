@@ -11421,8 +11421,19 @@
       "url": "https://s.shopee.com.br/8fR9JfgAkU",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_a5f7f2b95b.jpg",
       "data": "2026-07-29"
+    },
+    {
+      "nome": "Sanduicheira Elétrica Cadence Click - 127V",
+      "preco": "94,90",
+      "preco_original": "159,90",
+      "desconto_pct": "41",
+      "nota": "4.8",
+      "avaliacoes": "20033",
+      "url": "https://www.amazon.com.br/dp/B0CDJ4L7CZ?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0CDJ4L7CZ.jpg",
+      "data": "2026-07-29"
     }
   ],
-  "atualizado": "2026-07-29T15:00:51.344656",
+  "atualizado": "2026-07-29T19:01:52.417380",
   "_backfill_count": 25
 }
