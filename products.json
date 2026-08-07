@@ -12444,8 +12444,19 @@
       "url": "https://s.shopee.com.br/2qTZ8361v5",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_bd418702ea.jpg",
       "data": "2026-08-06"
+    },
+    {
+      "nome": "The Perfect Top Feminino",
+      "preco": "79,00",
+      "preco_original": "139,00",
+      "desconto_pct": "43",
+      "nota": "4.5",
+      "avaliacoes": "245",
+      "url": "https://www.amazon.com.br/dp/B0DZ34LZQB?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0DZ34LZQB.jpg",
+      "data": "2026-08-06"
     }
   ],
-  "atualizado": "2026-08-06T19:00:44.602692",
+  "atualizado": "2026-08-06T21:36:35.372584",
   "_backfill_count": 25
 }
