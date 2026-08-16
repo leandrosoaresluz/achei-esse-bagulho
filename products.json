@@ -13247,8 +13247,19 @@
       "url": "https://www.amazon.com.br/dp/B08VPS711D?tag=acheiessebagu-20",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B08VPS711D.jpg",
       "data": "2026-08-15"
+    },
+    {
+      "nome": "Tenis Masculino Fila Racer Fastpace",
+      "preco": "329,90",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.5",
+      "avaliacoes": "229",
+      "url": "https://www.amazon.com.br/dp/B0FH3K8GRR?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0FH3K8GRR.jpg",
+      "data": "2026-08-15"
     }
   ],
-  "atualizado": "2026-08-15T21:38:51.993930",
+  "atualizado": "2026-08-15T22:02:16.986744",
   "_backfill_count": 25
 }
