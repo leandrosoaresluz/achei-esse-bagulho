@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Snow Foam Pulverizador Manual Automativo 2L Borrifador de Alta Pressão Portátil Jato Regulável Resistente Acabamento Premium - Lavagem Carro Moto Jardim Limpeza Geral",
+      "preco": "35,90",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "5.0",
+      "avaliacoes": "1",
+      "url": "https://www.amazon.com.br/dp/B0HD9G3JQZ?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0HD9G3JQZ.jpg",
+      "data": "2026-08-26"
+    },
+    {
       "nome": "Hidratante Creme Facial Pele De Porcelana Kokeshi 30g Milagre do Arroz",
       "preco": "36,90",
       "preco_original": "",
@@ -14096,6 +14107,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-08-26T19:01:01.755656",
+  "atualizado": "2026-08-26T20:32:01.332740",
   "_backfill_count": 25
 }
