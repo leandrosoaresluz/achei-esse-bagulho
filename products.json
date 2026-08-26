@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Hidratante Creme Facial Pele De Porcelana Kokeshi 30g Milagre do Arroz",
+      "preco": "36,90",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.9",
+      "avaliacoes": "5068",
+      "url": "https://s.shopee.com.br/3g3CHrSd6j",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_61a402815a.jpg",
+      "data": "2026-08-26"
+    },
+    {
       "nome": "Apple iPhone 17 Pro Max (256 GB) - Prateado",
       "preco": "10.169,10",
       "nota": "",
@@ -7980,17 +7991,6 @@
       "data": "2026-07-04"
     },
     {
-      "nome": "Hidratante Creme Facial Pele De Porcelana Kokeshi 30g Milagre do Arroz",
-      "preco": "36,90",
-      "preco_original": "",
-      "desconto_pct": "",
-      "nota": "4.9",
-      "avaliacoes": "6095",
-      "url": "https://s.shopee.com.br/8V74FFuDSs",
-      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_7bd7857087.jpg",
-      "data": "2026-07-04"
-    },
-    {
       "nome": "CAPACETE FECHADO PRO TORK SPORT MOTO 788 PRETO - ROSA TAM. 58",
       "preco": "73,55",
       "preco_original": "93,51",
@@ -14096,6 +14096,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-08-26T12:43:34.205179",
+  "atualizado": "2026-08-26T19:00:37.523506",
   "_backfill_count": 25
 }
