@@ -1,12 +1,12 @@
 {
   "produtos": [
     {
-      "nome": " Novo F50 Chuteira de Futebol Adulta com Pregos Longos em TPU, Antiderrapante, para Treinamento Esportivo, Modelo FG",
+      "nome": "Novo F50 Chuteira de Futebol Adulta com Pregos Longos em TPU, Antider…",
       "preco": "119,12",
       "preco_original": "",
       "desconto_pct": "",
       "nota": "4.8",
-      "avaliacoes": "1015",
+      "avaliacoes": "1,015",
       "url": "https://s.shopee.com.br/AKa7p0ltQI",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_a0ee31bb59.jpg",
       "data": "2026-08-27"
@@ -14195,6 +14195,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-08-27T19:00:40.791140",
+  "atualizado": "2026-08-27T19:00:49.245916",
   "_backfill_count": 25
 }
