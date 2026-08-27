@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Amor selvagem: Rose Hill 1",
+      "preco": "50,00",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.6",
+      "avaliacoes": "116",
+      "url": "https://www.amazon.com.br/dp/B0HCPV43PF?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0HCPV43PF.jpg",
+      "data": "2026-08-27"
+    },
+    {
       "nome": "Bubble 18 Polegadas kit 10 + 10 bexigas 18 polegadas Látex Decore Com …",
       "preco": "34,99",
       "preco_original": "",
@@ -14151,6 +14162,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-08-27T11:30:44.086058",
+  "atualizado": "2026-08-27T12:40:28.512027",
   "_backfill_count": 25
 }
