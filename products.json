@@ -1,10 +1,10 @@
 {
   "produtos": [
     {
-      "nome": "Antena Digital TV Amplificada Interna e Externa, Canais Abertos, HDTV UHF VHF, Base Magnética com Super Ímã, Cabo de Longo Alcance, Compatível com TV Digital Full HD e 4K",
+      "nome": "Antena Digital TV Amplificada Interna e Externa, Canais Abertos, HDTV …",
       "preco": "19,90",
       "preco_original": "24,90",
-      "desconto_pct": "20",
+      "desconto_pct": "",
       "nota": "4.4",
       "avaliacoes": "126",
       "url": "https://www.amazon.com.br/dp/B0H533QSF2?tag=acheiessebagu-20",
@@ -14206,6 +14206,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-08-27T20:31:42.510641",
+  "atualizado": "2026-08-27T20:31:49.682649",
   "_backfill_count": 25
 }
