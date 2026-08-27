@@ -4,7 +4,7 @@
       "nome": "Estranhos: Vestígios de um casamento",
       "preco": "58,25",
       "preco_original": "69,90",
-      "desconto_pct": "17",
+      "desconto_pct": "",
       "nota": "4.5",
       "avaliacoes": "99",
       "url": "https://www.amazon.com.br/dp/8501927120?tag=acheiessebagu-20",
@@ -14118,6 +14118,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-08-26T21:39:18.820212",
+  "atualizado": "2026-08-26T21:39:26.999224",
   "_backfill_count": 25
 }
