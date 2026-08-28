@@ -1,12 +1,12 @@
 {
   "produtos": [
     {
-      "nome": "Mop Girátorio Cleaner Profissional – Balde com Centrífuga 14L + Refil Duplo e Cabo Reforçado - MN",
+      "nome": "Mop Girátorio Cleaner Profissional – Balde com Centrífuga 14L + Refil …",
       "preco": "59,90",
       "preco_original": "",
       "desconto_pct": "",
       "nota": "4.9",
-      "avaliacoes": "8033",
+      "avaliacoes": "8,033",
       "url": "https://s.shopee.com.br/3LQPBEOz4L",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_f7c6ddac21.jpg",
       "data": "2026-08-28"
@@ -14261,6 +14261,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-08-28T20:30:34.562040",
+  "atualizado": "2026-08-28T20:30:41.626283",
   "_backfill_count": 25
 }
