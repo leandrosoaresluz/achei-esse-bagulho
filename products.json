@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Não deixe tudo te abalar: Como se libertar do excesso de pensamentos, do caos emocional e da autossabotagem",
+      "preco": "49,40",
+      "preco_original": "54,90",
+      "desconto_pct": "10",
+      "nota": "4.4",
+      "avaliacoes": "4",
+      "url": "https://www.amazon.com.br/dp/8543112796?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/8543112796.jpg",
+      "data": "2026-08-28"
+    },
+    {
       "nome": "8 Andares Sapateira Multiuso Para CalçadosOrganizador Desmontável orga…",
       "preco": "51,99",
       "preco_original": "",
@@ -14228,6 +14239,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-08-28T08:30:41.452584",
+  "atualizado": "2026-08-28T11:31:53.917994",
   "_backfill_count": 25
 }
