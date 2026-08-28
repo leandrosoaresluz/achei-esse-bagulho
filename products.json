@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Fone De Ouvido Sem Fio Baseus BP1 NC ANC Bluetooth 6.0 55h Bateria Portátil IP55 Resistente Suor e Poeira Leve-Rosa",
+      "preco": "143,48",
+      "preco_original": "159,00",
+      "desconto_pct": "10",
+      "nota": "5.0",
+      "avaliacoes": "7",
+      "url": "https://www.amazon.com.br/dp/B00EXL5SSG?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B00EXL5SSG.jpg",
+      "data": "2026-08-28"
+    },
+    {
       "nome": "Kit 4 Peças Conjunto Infantil Bebê Menino Verão Algodão Promoção 2 Cam…",
       "preco": "41,00",
       "preco_original": "",
@@ -14250,6 +14261,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-08-28T15:00:51.304491",
+  "atualizado": "2026-08-28T19:01:57.490662",
   "_backfill_count": 25
 }
