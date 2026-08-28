@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Mop Girátorio Cleaner Profissional – Balde com Centrífuga 14L + Refil Duplo e Cabo Reforçado - MN",
+      "preco": "59,90",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.9",
+      "avaliacoes": "8033",
+      "url": "https://s.shopee.com.br/3LQPBEOz4L",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_f7c6ddac21.jpg",
+      "data": "2026-08-28"
+    },
+    {
       "nome": "Fone De Ouvido Sem Fio Baseus BP1 NC ANC Bluetooth 6.0 55h Bateria Por…",
       "preco": "143,48",
       "preco_original": "159,00",
@@ -4171,17 +4182,6 @@
       "avaliacoes": "43271",
       "url": "https://www.amazon.com.br/dp/B01M2CO8RA?tag=acheiesseba0c-20",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B01M2CO8RA.jpg",
-      "data": "2026-06-14"
-    },
-    {
-      "nome": "Mop Girátorio Cleaner Profissional – Balde com Centrífuga 14L + Refil Duplo e Cabo Reforçado - MN",
-      "preco": "59,90",
-      "preco_original": "",
-      "desconto_pct": "",
-      "nota": "4.9",
-      "avaliacoes": "6583",
-      "url": "https://s.shopee.com.br/4ftqLR373P",
-      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_852332d7ae.jpg",
       "data": "2026-06-14"
     },
     {
@@ -14261,6 +14261,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-08-28T19:02:06.087444",
+  "atualizado": "2026-08-28T20:30:34.562040",
   "_backfill_count": 25
 }
