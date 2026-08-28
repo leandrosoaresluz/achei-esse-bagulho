@@ -1,10 +1,10 @@
 {
   "produtos": [
     {
-      "nome": "Fone De Ouvido Sem Fio Baseus BP1 NC ANC Bluetooth 6.0 55h Bateria Portátil IP55 Resistente Suor e Poeira Leve-Rosa",
+      "nome": "Fone De Ouvido Sem Fio Baseus BP1 NC ANC Bluetooth 6.0 55h Bateria Por…",
       "preco": "143,48",
       "preco_original": "159,00",
-      "desconto_pct": "10",
+      "desconto_pct": "",
       "nota": "5.0",
       "avaliacoes": "7",
       "url": "https://www.amazon.com.br/dp/B00EXL5SSG?tag=acheiessebagu-20",
@@ -14261,6 +14261,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-08-28T19:01:57.490662",
+  "atualizado": "2026-08-28T19:02:06.087444",
   "_backfill_count": 25
 }
