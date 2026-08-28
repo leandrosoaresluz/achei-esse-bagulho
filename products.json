@@ -1,10 +1,10 @@
 {
   "produtos": [
     {
-      "nome": "Não deixe tudo te abalar: Como se libertar do excesso de pensamentos, do caos emocional e da autossabotagem",
+      "nome": "Não deixe tudo te abalar: Como se libertar do excesso de pensamentos, …",
       "preco": "49,40",
       "preco_original": "54,90",
-      "desconto_pct": "10",
+      "desconto_pct": "",
       "nota": "4.4",
       "avaliacoes": "4",
       "url": "https://www.amazon.com.br/dp/8543112796?tag=acheiessebagu-20",
@@ -14239,6 +14239,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-08-28T11:31:53.917994",
+  "atualizado": "2026-08-28T11:32:03.118745",
   "_backfill_count": 25
 }
