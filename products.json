@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Siàge Máscara Capilar Bond Reset 250g",
+      "preco": "61,59",
+      "preco_original": "81,99",
+      "desconto_pct": "25",
+      "nota": "5.0",
+      "avaliacoes": "1",
+      "url": "https://www.amazon.com.br/dp/B0H8ZPL88X?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0H8ZPL88X.jpg",
+      "data": "2026-08-29"
+    },
+    {
       "nome": "Hollyland Lark M2 Microfone de Lapela sem Fio(2TX+3RX), Transmissão Se…",
       "preco": "674,00",
       "preco_original": "",
@@ -14305,6 +14316,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-08-29T12:46:18.811618",
+  "atualizado": "2026-08-29T15:01:58.058954",
   "_backfill_count": 25
 }
