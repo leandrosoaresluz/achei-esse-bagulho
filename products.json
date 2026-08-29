@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Tomada de Parede 4x2 NBR 14136 10A com USB e USB-C Bivolt 127V/220V | Carregamento Integrado para Celular, Tablet, Home Office, Quarto, Sala e Escritório",
+      "preco": "25,90",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.6",
+      "avaliacoes": "7",
+      "url": "https://www.amazon.com.br/dp/B0H924NGML?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0H924NGML.jpg",
+      "data": "2026-08-28"
+    },
+    {
       "nome": "Mop Girátorio Cleaner Profissional – Balde com Centrífuga 14L + Refil …",
       "preco": "59,90",
       "preco_original": "",
@@ -14261,6 +14272,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-08-28T20:30:41.626283",
+  "atualizado": "2026-08-28T21:51:24.299438",
   "_backfill_count": 25
 }
