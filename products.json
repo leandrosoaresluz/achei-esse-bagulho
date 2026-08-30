@@ -1,10 +1,10 @@
 {
   "produtos": [
     {
-      "nome": "Par halteres 2kg emborrachado sextavado colorido | Material Emborrachado",
+      "nome": "Par halteres 2kg emborrachado sextavado colorido | Material Emborracha…",
       "preco": "59,90",
       "preco_original": "72,00",
-      "desconto_pct": "17",
+      "desconto_pct": "",
       "nota": "5.0",
       "avaliacoes": "2",
       "url": "https://www.amazon.com.br/dp/B0H8PTDXGY?tag=acheiessebagu-20",
@@ -14349,6 +14349,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-08-29T21:40:41.691425",
+  "atualizado": "2026-08-29T21:40:49.303166",
   "_backfill_count": 25
 }
