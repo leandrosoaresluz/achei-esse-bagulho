@@ -1,10 +1,10 @@
 {
   "produtos": [
     {
-      "nome": "Extensão Elétrica Bivolt 5 Tomadas com Chave Liga e Desliga – Cabo 2 Metros – Filtro de Linha para Casa, Escritório, TV, Computador, Carregadores e Eletrodomésticos",
+      "nome": "Extensão Elétrica Bivolt 5 Tomadas com Chave Liga e Desliga – Cabo 2 M…",
       "preco": "29,99",
       "preco_original": "38,90",
-      "desconto_pct": "23",
+      "desconto_pct": "",
       "nota": "4.7",
       "avaliacoes": "8",
       "url": "https://www.amazon.com.br/dp/B0H6H79NZP?tag=acheiessebagu-20",
@@ -14382,6 +14382,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-08-30T11:31:57.338098",
+  "atualizado": "2026-08-30T11:32:19.547178",
   "_backfill_count": 25
 }
