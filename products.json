@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Camiseta DE Skate Push Unisex adidas",
+      "preco": "179,99",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "",
+      "avaliacoes": "",
+      "url": "https://www.awin1.com/pclick.php?p=45395021864&a=2937599&m=79926",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_4c8eb2f844.jpg",
+      "data": "2026-08-30"
+    },
+    {
       "nome": "Mousepad Gamer APEX Control Mouse pad Grande 49x42 Mouse Pad Branco Pr…",
       "preco": "69,90",
       "preco_original": "",
@@ -11973,17 +11984,6 @@
       "data": "2026-07-31"
     },
     {
-      "nome": "Camiseta DE Skate Push Unisex adidas",
-      "preco": "179,99",
-      "preco_original": "",
-      "desconto_pct": "",
-      "nota": "",
-      "avaliacoes": "",
-      "url": "https://www.awin1.com/pclick.php?p=45395021979&a=2937599&m=79926",
-      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_344633e5d8.jpg",
-      "data": "2026-07-31"
-    },
-    {
       "nome": "Camiseta 100% Canelada Masculina",
       "preco": "34,16",
       "preco_original": "",
@@ -14404,6 +14404,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-08-30T15:00:50.758611",
+  "atualizado": "2026-08-30T19:00:58.595077",
   "_backfill_count": 25
 }
