@@ -1,12 +1,12 @@
 {
   "produtos": [
     {
-      "nome": "Luminária Astronauta Projetor De Luz Galáxia Nebulosa Estrelas Noturna Cor Da Estrutura Voltagem",
+      "nome": "Luminária Astronauta Projetor De Luz Galáxia Nebulosa Estrelas Noturna…",
       "preco": "35,99",
       "preco_original": "",
       "desconto_pct": "",
       "nota": "4.9",
-      "avaliacoes": "1247",
+      "avaliacoes": "1,247",
       "url": "https://s.shopee.com.br/gPimzEWWo",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_17b58ef33a.jpg",
       "data": "2026-08-31"
@@ -14503,6 +14503,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-08-31T20:30:39.130960",
+  "atualizado": "2026-08-31T20:30:46.899344",
   "_backfill_count": 25
 }
