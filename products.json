@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Kit 6 Pares Meia INFANTIL Puma Sapatilha Cano Curto Unissex Juvenil Menino e Menina",
+      "preco": "59,99",
+      "preco_original": "67,99",
+      "desconto_pct": "12",
+      "nota": "4.8",
+      "avaliacoes": "134",
+      "url": "https://www.amazon.com.br/dp/B0H6BMLBYJ?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0H6BMLBYJ.jpg",
+      "data": "2026-08-30"
+    },
+    {
       "nome": "Garrafa Térmica 800ml em Aço Inox 304 Premium, Isolamento a Vácuo, Até…",
       "preco": "19,00",
       "preco_original": "",
@@ -14415,6 +14426,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-08-30T20:32:03.882050",
+  "atualizado": "2026-08-30T21:34:41.339279",
   "_backfill_count": 25
 }
