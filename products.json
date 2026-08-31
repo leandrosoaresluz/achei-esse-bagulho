@@ -1,10 +1,10 @@
 {
   "produtos": [
     {
-      "nome": "Kit 6 Pares Meia INFANTIL Puma Sapatilha Cano Curto Unissex Juvenil Menino e Menina",
+      "nome": "Kit 6 Pares Meia INFANTIL Puma Sapatilha Cano Curto Unissex Juvenil Me…",
       "preco": "59,99",
       "preco_original": "67,99",
-      "desconto_pct": "12",
+      "desconto_pct": "",
       "nota": "4.8",
       "avaliacoes": "134",
       "url": "https://www.amazon.com.br/dp/B0H6BMLBYJ?tag=acheiessebagu-20",
@@ -14426,6 +14426,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-08-30T21:34:41.339279",
+  "atualizado": "2026-08-30T21:34:48.952918",
   "_backfill_count": 25
 }
