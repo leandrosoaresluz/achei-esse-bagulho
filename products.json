@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Mousepad Gamer Grande Mouse pad 90x40 Mousepad Branco Preto Deskpad Escritório Speed Titorion",
+      "preco": "49,90",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.9",
+      "avaliacoes": "584",
+      "url": "https://s.shopee.com.br/4qFHNzXqMz",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_ad12ec26d5.jpg",
+      "data": "2026-08-31"
+    },
+    {
       "nome": "Patins Infantil 4 Rodas Quad Menina Kit Proteção Bolsa e Capacete",
       "preco": "219,90",
       "preco_original": "",
@@ -14470,6 +14481,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-08-31T12:44:25.704249",
+  "atualizado": "2026-08-31T15:00:41.139755",
   "_backfill_count": 25
 }
