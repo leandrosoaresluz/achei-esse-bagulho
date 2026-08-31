@@ -1,12 +1,12 @@
 {
   "produtos": [
     {
-      "nome": "Conjunto Mabel Top Cropped Tomara que Caia Decote Coração e Short Botão com Bolso Cintura Alta Novidade Moda Feminina",
+      "nome": "Conjunto Mabel Top Cropped Tomara que Caia Decote Coração e Short Botã…",
       "preco": "37,74",
       "preco_original": "",
       "desconto_pct": "",
       "nota": "4.8",
-      "avaliacoes": "2302",
+      "avaliacoes": "2,302",
       "url": "https://s.shopee.com.br/2qUBsGRBKP",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_2ea90571bd.jpg",
       "data": "2026-08-30"
@@ -14437,6 +14437,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-08-30T22:00:39.026688",
+  "atualizado": "2026-08-30T22:00:45.976816",
   "_backfill_count": 25
 }
