@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Kit 10 Calcinhas DelRio Biquíni Microfibra Feminina",
+      "preco": "110,90",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "5.0",
+      "avaliacoes": "1",
+      "url": "https://www.amazon.com.br/dp/B0HFZ2FQS4?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0HFZ2FQS4.jpg",
+      "data": "2026-08-31"
+    },
+    {
       "nome": "Mousepad Gamer Grande Mouse pad 90x40 Mousepad Branco Preto Deskpad Es…",
       "preco": "49,90",
       "preco_original": "",
@@ -14481,6 +14492,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-08-31T15:01:06.229454",
+  "atualizado": "2026-08-31T19:02:47.312278",
   "_backfill_count": 25
 }
