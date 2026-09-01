@@ -1,12 +1,12 @@
 {
   "produtos": [
     {
-      "nome": "Kit 6 Cuecas Lupo Boxer Masculinas Microfibra de Poliamida Sem Costura Adulto",
+      "nome": "Kit 6 Cuecas Lupo Boxer Masculinas Microfibra de Poliamida Sem Costura…",
       "preco": "149,99",
       "preco_original": "",
       "desconto_pct": "",
       "nota": "4.7",
-      "avaliacoes": "2714",
+      "avaliacoes": "2,714",
       "url": "https://www.amazon.com.br/dp/B0H1FY5N9W?tag=acheiessebagu-20",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0H1FY5N9W.jpg",
       "data": "2026-09-01"
@@ -10257,17 +10257,6 @@
       "data": "2026-07-17"
     },
     {
-      "nome": "Kit 6 Cuecas Lupo Boxer Masculinas Microfibra de Poliamida Sem Costura…",
-      "preco": "149,99",
-      "preco_original": "",
-      "desconto_pct": "",
-      "nota": "4.6",
-      "avaliacoes": "2,635",
-      "url": "https://www.amazon.com.br/dp/B0H1FXPFSF?tag=acheiessebagu-20",
-      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0H1FXPFSF.jpg",
-      "data": "2026-07-17"
-    },
-    {
       "nome": "Mop Spray Giratório Limpeza Flash Mágico Rodo Esfregão Com Reservatório + 2 Refil",
       "preco": "39,99",
       "preco_original": "",
@@ -14536,6 +14525,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-01T13:47:02.315754",
+  "atualizado": "2026-09-01T13:47:10.280290",
   "_backfill_count": 25
 }
