@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "MEDICUBE - TXA NIACINAMIDE 15 SERUM 30ML",
+      "preco": "150,09",
+      "preco_original": "249,00",
+      "desconto_pct": "40",
+      "nota": "4.5",
+      "avaliacoes": "3096",
+      "url": "https://www.amazon.com.br/dp/B0DVSNQ37F?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0DVSNQ37F.jpg",
+      "data": "2026-09-01"
+    },
+    {
       "nome": "Conjunto Camisetas  Disney Frozen Kids adidas",
       "preco": "199,99",
       "preco_original": "",
@@ -14536,6 +14547,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-01T11:31:19.995453",
+  "atualizado": "2026-09-01T12:33:26.236489",
   "_backfill_count": 25
 }
