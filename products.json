@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Kit 6 Cuecas Lupo Boxer Masculinas Microfibra de Poliamida Sem Costura Adulto",
+      "preco": "149,99",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.7",
+      "avaliacoes": "2714",
+      "url": "https://www.amazon.com.br/dp/B0H1FY5N9W?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0H1FY5N9W.jpg",
+      "data": "2026-09-01"
+    },
+    {
       "nome": "MEDICUBE - TXA NIACINAMIDE 15 SERUM 30ML",
       "preco": "150,09",
       "preco_original": "249,00",
@@ -5912,17 +5923,6 @@
       "data": "2026-06-19"
     },
     {
-      "nome": "Kit 6 Cuecas Lupo Boxer Masculinas Microfibra de Poliamida Sem Costura Adulto",
-      "preco": "149,99",
-      "preco_original": "",
-      "desconto_pct": "",
-      "nota": "4.6",
-      "avaliacoes": "2592",
-      "url": "https://www.amazon.com.br/dp/B0H1FYFR5L?tag=acheiesseba0c-20",
-      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0H1FYFR5L.jpg",
-      "data": "2026-06-19"
-    },
-    {
       "nome": "Colchonete p/ Academia La Casa 90x40x3cm Espuma D23 Impermeável Compacto Yoga Pilates",
       "preco": "38,90",
       "preco_original": "",
@@ -6525,17 +6525,6 @@
       "avaliacoes": "556",
       "url": "https://s.shopee.com.br/6VLhBjajaS",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_de995318fd.jpg",
-      "data": "2026-06-22"
-    },
-    {
-      "nome": "Kit 6 Cuecas Lupo Boxer Masculinas Microfibra de Poliamida Sem Costura Adulto",
-      "preco": "149,99",
-      "preco_original": "",
-      "desconto_pct": "",
-      "nota": "4.6",
-      "avaliacoes": "2594",
-      "url": "https://www.amazon.com.br/dp/B0H1FY5N9W?tag=acheiesseba0c-20",
-      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0H1FY5N9W.jpg",
       "data": "2026-06-22"
     },
     {
@@ -14547,6 +14536,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-01T12:33:33.871834",
+  "atualizado": "2026-09-01T13:47:02.315754",
   "_backfill_count": 25
 }
