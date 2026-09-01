@@ -7,8 +7,8 @@
       "desconto_pct": "",
       "nota": "",
       "avaliacoes": "",
-      "url": "https://www.awin1.com/pclick.php?p=44046634149&a=2937599&m=79926",
-      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_392e45555d.jpg",
+      "url": "https://www.awin1.com/pclick.php?p=44046634149&amp;a=2937599&amp;m=79926",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_96e1db8057.jpg",
       "data": "2026-09-01"
     },
     {
@@ -14536,6 +14536,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-01T11:31:12.352037",
+  "atualizado": "2026-09-01T11:31:19.995453",
   "_backfill_count": 25
 }
