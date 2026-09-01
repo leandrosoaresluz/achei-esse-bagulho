@@ -1,12 +1,12 @@
 {
   "produtos": [
     {
-      "nome": "CAMISA UNISSEX COM 100% ALGODÃO ESTAMPADA SUA FRASE ART LOGO UNIFORME FOTO PERSONALIZADA CONFORTAVEL",
+      "nome": "CAMISA UNISSEX COM 100% ALGODÃO ESTAMPADA SUA FRASE ART LOGO UNIFORME …",
       "preco": "36,50",
       "preco_original": "",
       "desconto_pct": "",
       "nota": "4.7",
-      "avaliacoes": "2480",
+      "avaliacoes": "2,480",
       "url": "https://s.shopee.com.br/3g3Lp9ByLe",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_2f38193600.jpg",
       "data": "2026-09-01"
@@ -14536,6 +14536,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-01T18:30:34.391414",
+  "atualizado": "2026-09-01T18:30:45.276934",
   "_backfill_count": 25
 }
