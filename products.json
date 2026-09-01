@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Kit Frascos para Viagem 11 Peças com Bolsa Transparente | Recipientes Reutilizáveis, Para Shampoo, Condicionador, Cremes e Cosméticos",
+      "preco": "34,99",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "5.0",
+      "avaliacoes": "3",
+      "url": "https://www.amazon.com.br/dp/B0HF9XLV4Z?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0HF9XLV4Z.jpg",
+      "data": "2026-08-31"
+    },
+    {
       "nome": "Luminária Astronauta Projetor De Luz Galáxia Nebulosa Estrelas Noturna…",
       "preco": "35,99",
       "preco_original": "",
@@ -14503,6 +14514,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-08-31T20:30:46.899344",
+  "atualizado": "2026-08-31T21:45:01.799260",
   "_backfill_count": 25
 }
