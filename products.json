@@ -4,7 +4,7 @@
       "nome": "A estranha na cama",
       "preco": "55,16",
       "preco_original": "64,90",
-      "desconto_pct": "15",
+      "desconto_pct": "",
       "nota": "5.0",
       "avaliacoes": "1",
       "url": "https://www.amazon.com.br/dp/8535947906?tag=acheiessebagu-20",
@@ -14558,6 +14558,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-01T21:42:33.972613",
+  "atualizado": "2026-09-01T21:42:42.416083",
   "_backfill_count": 25
 }
