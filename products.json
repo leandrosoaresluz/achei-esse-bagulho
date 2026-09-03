@@ -1,7 +1,7 @@
 {
   "produtos": [
     {
-      "nome": "Pré-Treino Abduzido NitroMax 300g + Coqueteleira 200mg Cafeína Beta-Alanina Arginina Pump",
+      "nome": "Pré-Treino Abduzido NitroMax 300g + Coqueteleira 200mg Cafeína Beta-Al…",
       "preco": "44,91",
       "preco_original": "",
       "desconto_pct": "",
@@ -14602,6 +14602,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-03T11:30:35.993510",
+  "atualizado": "2026-09-03T11:31:02.471343",
   "_backfill_count": 25
 }
