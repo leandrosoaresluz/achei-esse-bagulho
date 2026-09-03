@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "BASIKE 2026 Carregador Portátil 20000mAh - Carregamento Rápido 22.5W Power Bank Carregador Saída dupla",
+      "preco": "145,00",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "5.0",
+      "avaliacoes": "2145",
+      "url": "https://s.shopee.com.br/8AVoNCdeDc",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_9911a721b4.jpg",
+      "data": "2026-09-03"
+    },
+    {
       "nome": "Body Pacote com 8 bodies de manga curta Simple Joys by Carter'sUnisex …",
       "preco": "122,34",
       "preco_original": "171,98",
@@ -14613,6 +14624,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-03T13:47:09.851635",
+  "atualizado": "2026-09-03T18:30:39.717958",
   "_backfill_count": 25
 }
