@@ -1,12 +1,12 @@
 {
   "produtos": [
     {
-      "nome": "BASIKE 2026 Carregador Portátil 20000mAh - Carregamento Rápido 22.5W Power Bank Carregador Saída dupla",
+      "nome": "BASIKE 2026 Carregador Portátil 20000mAh - Carregamento Rápido 22.5W P…",
       "preco": "145,00",
       "preco_original": "",
       "desconto_pct": "",
       "nota": "5.0",
-      "avaliacoes": "2145",
+      "avaliacoes": "2,145",
       "url": "https://s.shopee.com.br/8AVoNCdeDc",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_9911a721b4.jpg",
       "data": "2026-09-03"
@@ -14624,6 +14624,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-03T18:30:39.717958",
+  "atualizado": "2026-09-03T18:30:51.612603",
   "_backfill_count": 25
 }
