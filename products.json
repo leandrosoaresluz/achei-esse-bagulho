@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Laruno Kit 2 Suportes Porta Shampoo de Canto Para Banheiro Preto | Prateleira de Banheiro em Metal Resistente, Organizador de Box Sem Furo, Adesivo Reforçado, Design em L Moderno",
+      "preco": "25,99",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.7",
+      "avaliacoes": "4",
+      "url": "https://www.amazon.com.br/dp/B0GYQN1STC?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0GYQN1STC.jpg",
+      "data": "2026-09-02"
+    },
+    {
       "nome": "KIT 03 SHORTS INFLANTIL PARA ESCOLA, PARA O DIA A DIA PROMOÇAO 2026!",
       "preco": "37,80",
       "preco_original": "",
@@ -14580,6 +14591,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-02T20:00:56.150537",
+  "atualizado": "2026-09-02T21:40:42.552842",
   "_backfill_count": 25
 }
