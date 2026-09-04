@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Tamanco Feminino Modare Anabela Conforto",
+      "preco": "64,46",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.8",
+      "avaliacoes": "616",
+      "url": "https://www.amazon.com.br/dp/B0HGMD9N8W?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0HGMD9N8W.jpg",
+      "data": "2026-09-04"
+    },
+    {
       "nome": "Tênis Vizzano Feminino Casual Plataforma Macia Confortável Dia Moda Pa…",
       "preco": "114,90",
       "preco_original": "",
@@ -14646,6 +14657,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-04T11:30:48.983972",
+  "atualizado": "2026-09-04T12:32:46.757553",
   "_backfill_count": 25
 }
