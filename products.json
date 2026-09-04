@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Par Lâmpada Super LED H11 Kit Ultra LED 9600LM 6500K 65W 12-24V CSP 3570 | Branco Frio para Farol Automotivo, Kit Canceleira CANbus Sem Erro Plug & Play",
+      "preco": "49,99",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.2",
+      "avaliacoes": "3",
+      "url": "https://www.amazon.com.br/dp/B0H4GFBGW1?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0H4GFBGW1.jpg",
+      "data": "2026-09-04"
+    },
+    {
       "nome": "Tamanco Feminino Modare Anabela Conforto",
       "preco": "64,46",
       "preco_original": "",
@@ -8222,17 +8233,6 @@
       "data": "2026-07-01"
     },
     {
-      "nome": "Par Lâmpada Super LED H11 Kit Ultra LED 9600LM 6500K 65W 12-24V CSP 3570 Branco Frio para Farol Automotivo, Kit Canceleira CANbus Sem Erro Plug & Play (H11)",
-      "preco": "49,99",
-      "preco_original": "",
-      "desconto_pct": "",
-      "nota": "4.6",
-      "avaliacoes": "3",
-      "url": "https://www.amazon.com.br/dp/B0H4GFBGW1?tag=acheiessebagu-20",
-      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0H4GFBGW1.jpg",
-      "data": "2026-07-01"
-    },
-    {
       "nome": "Alicate Universal Titanium Descascador Crimpador Ultra Forte",
       "preco": "34,90",
       "preco_original": "",
@@ -14657,6 +14657,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-04T12:32:54.762315",
+  "atualizado": "2026-09-04T13:46:56.659934",
   "_backfill_count": 25
 }
