@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Kit 10 Calcinhas DelRio Biquíni Microfibra Feminina",
+      "preco": "110,90",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "5.0",
+      "avaliacoes": "1",
+      "url": "https://www.amazon.com.br/dp/B0B9Q2V9YB?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0B9Q2V9YB.jpg",
+      "data": "2026-09-03"
+    },
+    {
       "nome": "Regata Cropped  Basketball Mulher adidas",
       "preco": "199,99",
       "preco_original": "",
@@ -97,17 +108,6 @@
       "avaliacoes": "",
       "url": "https://www.awin1.com/pclick.php?p=45805732237&amp;a=2937599&amp;m=79926",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_4c5d381f50.jpg",
-      "data": "2026-09-02"
-    },
-    {
-      "nome": "Kit 10 Calcinhas DelRio Biquíni Microfibra Feminina",
-      "preco": "110,90",
-      "preco_original": "",
-      "desconto_pct": "",
-      "nota": "5.0",
-      "avaliacoes": "1",
-      "url": "https://www.amazon.com.br/dp/B0B9PW8JL3?tag=acheiessebagu-20",
-      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0B9PW8JL3.jpg",
       "data": "2026-09-02"
     },
     {
@@ -14624,6 +14624,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-03T20:05:05.829553",
+  "atualizado": "2026-09-03T21:38:41.647933",
   "_backfill_count": 25
 }
