@@ -1,10 +1,10 @@
 {
   "produtos": [
     {
-      "nome": "Kit Morte Súbita (Shampoo + Condicionador + Spray Reparaçao) - Lola From Rio",
+      "nome": "Kit Morte Súbita (Shampoo + Condicionador + Spray Reparaçao) - Lola Fr…",
       "preco": "47,43",
       "preco_original": "119,90",
-      "desconto_pct": "60",
+      "desconto_pct": "",
       "nota": "4.8",
       "avaliacoes": "999",
       "url": "https://www.amazon.com.br/dp/B0GHPGBPSR?tag=acheiessebagu-20",
@@ -14679,6 +14679,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-05T08:31:52.910590",
+  "atualizado": "2026-09-05T08:32:16.333264",
   "_backfill_count": 25
 }
