@@ -1,12 +1,12 @@
 {
   "produtos": [
     {
-      "nome": "Creme Hidratante Facial 5% Manteiga de Karité + 5% Glicerina + 2% Niacinamida CH-01Principia - 50g",
+      "nome": "Creme Hidratante Facial 5% Manteiga de Karité + 5% Glicerina + 2% Niac…",
       "preco": "39,00",
       "preco_original": "",
       "desconto_pct": "",
       "nota": "4.9",
-      "avaliacoes": "13357",
+      "avaliacoes": "13,357",
       "url": "https://s.shopee.com.br/80CRMh0p6H",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_f982d4db75.jpg",
       "data": "2026-09-05"
@@ -1131,15 +1131,6 @@
       "avaliacoes": "6",
       "url": "https://www.amazon.com.br/dp/B0GPT37333?tag=acheiessebagulho-20",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0GPT37333.jpg",
-      "data": "2026-05-30"
-    },
-    {
-      "nome": "Creme Hidratante Facial 5% Manteiga de Karité + 5% Glicerina + 2% Niac…",
-      "preco": "36,69",
-      "nota": "4.7",
-      "avaliacoes": "3,183",
-      "url": "https://www.amazon.com.br/dp/B0FBDLYLSZ?tag=acheiessebagulho-20",
-      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0FBDLYLSZ.jpg",
       "data": "2026-05-30"
     },
     {
@@ -14712,6 +14703,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-05T18:30:36.949969",
+  "atualizado": "2026-09-05T18:30:45.476078",
   "_backfill_count": 25
 }
