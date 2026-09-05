@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "CELIMAX Pore+Dark Spot Brightening Serum Mask 2 Options",
+      "preco": "42,70",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "5.0",
+      "avaliacoes": "2487",
+      "url": "https://s.shopee.com.br/7VGAItvROT",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_623572d9ce.jpg",
+      "data": "2026-09-05"
+    },
+    {
       "nome": "Kit Morte Súbita (Shampoo + Condicionador + Spray Reparaçao) - Lola Fr…",
       "preco": "47,43",
       "preco_original": "119,90",
@@ -14679,6 +14690,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-05T08:32:16.333264",
+  "atualizado": "2026-09-05T11:30:32.722035",
   "_backfill_count": 25
 }
