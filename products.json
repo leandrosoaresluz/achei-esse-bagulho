@@ -4,7 +4,7 @@
       "nome": "Óculos de Sol Ray-Ban Hexagonal, Tamanho 54",
       "preco": "398,90",
       "preco_original": "940,00",
-      "desconto_pct": "58",
+      "desconto_pct": "",
       "nota": "4.6",
       "avaliacoes": "576",
       "url": "https://www.amazon.com.br/dp/B07RHFXSN2?tag=acheiessebagu-20",
@@ -14712,6 +14712,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-05T13:46:58.365932",
+  "atualizado": "2026-09-05T13:47:04.886618",
   "_backfill_count": 25
 }
