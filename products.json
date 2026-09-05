@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Kit Morte Súbita (Shampoo + Condicionador + Spray Reparaçao) - Lola From Rio",
+      "preco": "47,43",
+      "preco_original": "119,90",
+      "desconto_pct": "60",
+      "nota": "4.8",
+      "avaliacoes": "999",
+      "url": "https://www.amazon.com.br/dp/B0GHPGBPSR?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0GHPGBPSR.jpg",
+      "data": "2026-09-05"
+    },
+    {
       "nome": "Camiseta Térmica Puma UV50+ Manga Longa Feminina Adulto",
       "preco": "111,74",
       "preco_original": "134,99",
@@ -14668,6 +14679,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-04T21:37:41.167253",
+  "atualizado": "2026-09-05T08:31:52.910590",
   "_backfill_count": 25
 }
