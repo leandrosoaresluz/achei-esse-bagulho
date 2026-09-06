@@ -1,12 +1,12 @@
 {
   "produtos": [
     {
-      "nome": "Base Refrigerada para Notebook com 2 ventiladores Cooler - USB Ergonômico | Proteção contra superaquecimento",
+      "nome": "Base Refrigerada para Notebook com 2 ventiladores Cooler - USB Ergonôm…",
       "preco": "44,49",
       "preco_original": "59,90",
-      "desconto_pct": "26",
-      "nota": "",
-      "avaliacoes": "4449",
+      "desconto_pct": "",
+      "nota": "0.0",
+      "avaliacoes": "4,449",
       "url": "https://www.amazon.com.br/dp/B0HCR3HPKY?tag=acheiessebagu-20",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0HCR3HPKY.jpg",
       "data": "2026-09-06"
@@ -14749,6 +14749,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-06T12:41:52.015819",
+  "atualizado": "2026-09-06T12:41:59.477503",
   "_backfill_count": 25
 }
