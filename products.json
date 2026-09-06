@@ -1,7 +1,7 @@
 {
   "produtos": [
     {
-      "nome": "Camiseta Puma Proteção UV Térmica Masculina Manga Longa Segunda Pele Original",
+      "nome": "Camiseta Puma Proteção UV Térmica Masculina Manga Longa Segunda Pele O…",
       "preco": "113,88",
       "preco_original": "",
       "desconto_pct": "",
@@ -14749,6 +14749,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-06T13:46:48.244322",
+  "atualizado": "2026-09-06T13:46:55.735914",
   "_backfill_count": 25
 }
