@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Base Refrigerada para Notebook com 2 ventiladores Cooler - USB Ergonômico | Proteção contra superaquecimento",
+      "preco": "44,49",
+      "preco_original": "59,90",
+      "desconto_pct": "26",
+      "nota": "",
+      "avaliacoes": "4449",
+      "url": "https://www.amazon.com.br/dp/B0HCR3HPKY?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0HCR3HPKY.jpg",
+      "data": "2026-09-06"
+    },
+    {
       "nome": "{ORIGINAL} KIT Carregador Cabo E Fonte Tipo C XR,11,12,13,14 LACRADO",
       "preco": "67,12",
       "preco_original": "",
@@ -14738,6 +14749,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-06T11:30:41.256374",
+  "atualizado": "2026-09-06T12:41:52.015819",
   "_backfill_count": 25
 }
