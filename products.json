@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Camiseta Puma Proteção UV Térmica Masculina Manga Longa Segunda Pele Original",
+      "preco": "113,88",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.6",
+      "avaliacoes": "253",
+      "url": "https://www.amazon.com.br/dp/B0H7FNCNY4?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0H7FNCNY4.jpg",
+      "data": "2026-09-06"
+    },
+    {
       "nome": "Base Refrigerada para Notebook com 2 ventiladores Cooler - USB Ergonôm…",
       "preco": "44,49",
       "preco_original": "59,90",
@@ -14430,17 +14441,6 @@
       "data": "2026-08-22"
     },
     {
-      "nome": "Camiseta Puma Proteção UV Térmica Masculina Manga Longa Segunda Pele Original",
-      "preco": "119,99",
-      "preco_original": "",
-      "desconto_pct": "",
-      "nota": "4.7",
-      "avaliacoes": "242",
-      "url": "https://www.amazon.com.br/dp/B0H7F829RY?tag=acheiessebagu-20",
-      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0H7F829RY.jpg",
-      "data": "2026-08-22"
-    },
-    {
       "nome": "Kit 2 Abajur Clássico Madeira MDF para Sala Quarto Cabeceira Escritório Luminária de Mesa Bivolt",
       "preco": "49,80",
       "preco_original": "",
@@ -14749,6 +14749,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-06T12:41:59.477503",
+  "atualizado": "2026-09-06T13:46:48.244322",
   "_backfill_count": 25
 }
