@@ -1,12 +1,12 @@
 {
   "produtos": [
     {
-      "nome": "Kit 4 Frascos de Viagem para Cosméticos com Estojo Transparente, Potes de Silicone Flexível com Vedação Antivazamento, Reutilizáveis para Shampoo, Condicionador, Cremes e Higiene Pessoal (Rosa)",
+      "nome": "Kit 4 Frascos de Viagem para Cosméticos com Estojo Transparente, Potes…",
       "preco": "26,90",
       "preco_original": "",
       "desconto_pct": "",
       "nota": "5.0",
-      "avaliacoes": "2690",
+      "avaliacoes": "2,690",
       "url": "https://www.amazon.com.br/dp/B0HFTZJ117?tag=acheiessebagu-20",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0HFTZJ117.jpg",
       "data": "2026-09-05"
@@ -14725,6 +14725,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-05T21:37:20.732727",
+  "atualizado": "2026-09-05T21:37:28.298173",
   "_backfill_count": 25
 }
