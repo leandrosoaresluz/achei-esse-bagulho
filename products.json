@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Mala de Bordo Premium 10kg ANAC com Rodas Duplas 360° e Cadeado TSA AntiFurto Rígida Leve Resistente Elegante para Viagens Curtas Avião e Bagagem de Mão Executiva (Grafite)",
+      "preco": "162,34",
+      "preco_original": "185,00",
+      "desconto_pct": "12",
+      "nota": "4.5",
+      "avaliacoes": "246",
+      "url": "https://www.amazon.com.br/dp/B0H2JS43Y8?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0H2JS43Y8.jpg",
+      "data": "2026-09-07"
+    },
+    {
       "nome": "Body Pacote com 8 bodies de manga curta Simple Joys by Carter'sUnisex …",
       "preco": "120,12",
       "preco_original": "138,06",
@@ -4450,17 +4461,6 @@
       "avaliacoes": "3839",
       "url": "https://s.shopee.com.br/9pbrwjzGE2",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_4a361c9a9d.jpg",
-      "data": "2026-06-12"
-    },
-    {
-      "nome": "Mala de Bordo Premium 10kg ANAC com Rodas Duplas 360° e Cadeado TSA AntiFurto Rígida Leve Resistente Elegante para Viagens Curtas Avião e Bagagem de Mão Executiva (Grafite)",
-      "preco": "189,99",
-      "preco_original": "",
-      "desconto_pct": "",
-      "nota": "4.6",
-      "avaliacoes": "9",
-      "url": "https://www.amazon.com.br/dp/B0H2JS43Y8?tag=acheiesseba0c-20",
-      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0H2JS43Y8.jpg",
       "data": "2026-06-12"
     },
     {
@@ -14771,6 +14771,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-06T21:35:45.022365",
+  "atualizado": "2026-09-07T08:31:52.685124",
   "_backfill_count": 25
 }
