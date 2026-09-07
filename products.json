@@ -1,10 +1,10 @@
 {
   "produtos": [
     {
-      "nome": "Mala de Bordo Premium 10kg ANAC com Rodas Duplas 360° e Cadeado TSA AntiFurto Rígida Leve Resistente Elegante para Viagens Curtas Avião e Bagagem de Mão Executiva (Grafite)",
+      "nome": "Mala de Bordo Premium 10kg ANAC com Rodas Duplas 360° e Cadeado TSA An…",
       "preco": "162,34",
       "preco_original": "185,00",
-      "desconto_pct": "12",
+      "desconto_pct": "",
       "nota": "4.5",
       "avaliacoes": "246",
       "url": "https://www.amazon.com.br/dp/B0H2JS43Y8?tag=acheiessebagu-20",
@@ -14771,6 +14771,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-07T08:31:52.685124",
+  "atualizado": "2026-09-07T08:32:19.265794",
   "_backfill_count": 25
 }
