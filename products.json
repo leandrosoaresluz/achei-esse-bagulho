@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Principia Protetor Solar PS-05 Cor 3.0 c/ 14,5% Mix de Filtros UV + 5% Niacinamida FPS 70 - 30ml",
+      "preco": "49,00",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.9",
+      "avaliacoes": "5383",
+      "url": "https://s.shopee.com.br/2gAxjp56yG",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_7c053ca4e1.jpg",
+      "data": "2026-09-07"
+    },
+    {
       "nome": "Mala de Bordo Premium 10kg ANAC com Rodas Duplas 360° e Cadeado TSA An…",
       "preco": "162,34",
       "preco_original": "185,00",
@@ -14771,6 +14782,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-07T08:32:19.265794",
+  "atualizado": "2026-09-07T11:30:35.558803",
   "_backfill_count": 25
 }
