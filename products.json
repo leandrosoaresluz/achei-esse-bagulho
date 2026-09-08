@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Capa para Cobrir Moto, Scooter, Biz e Street – Impermeável, Térmica e Antirrisco – Proteção contra Sol, Chuva e Poeira – Preto ou Azul Marinho",
+      "preco": "47,90",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "5.0",
+      "avaliacoes": "1",
+      "url": "https://www.amazon.com.br/dp/B0HFK92QZJ?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0HFK92QZJ.jpg",
+      "data": "2026-09-08"
+    },
+    {
       "nome": "Filtro de Linha Torre de Tomadas, 8 Tomadas + 2 USB-A + 2 USB-C, Forma…",
       "preco": "70,33",
       "preco_original": "",
@@ -14837,6 +14848,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-07T21:37:43.686865",
+  "atualizado": "2026-09-08T08:31:41.045266",
   "_backfill_count": 25
 }
