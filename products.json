@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "ISDIN COVERAGE Protetor Solar Facial de Alta Cobertura 2.0 BEIGE FPS 60 30g",
+      "preco": "129,99",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "5.0",
+      "avaliacoes": "2",
+      "url": "https://www.amazon.com.br/dp/B0H96C2V41?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0H96C2V41.jpg",
+      "data": "2026-09-08"
+    },
+    {
       "nome": "Manta Cobertor Microfibra Casal Queen Super Quentinha Toque Macio Cere…",
       "preco": "54,89",
       "preco_original": "",
@@ -14859,6 +14870,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-08T11:30:44.579366",
+  "atualizado": "2026-09-08T12:29:22.860733",
   "_backfill_count": 25
 }
