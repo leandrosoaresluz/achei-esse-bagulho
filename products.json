@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Capa para Macbook Neo 13\" A3404(2026), Como Duas Películas de Teclado de Versões Diferentes, Uma Película de Proteção para o Ecrã e Duas Capas de Privacidade para a Câmara, Transparente Cristal",
+      "preco": "88,00",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.2",
+      "avaliacoes": "8800",
+      "url": "https://www.amazon.com.br/dp/B0H699WDYS?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0H699WDYS.jpg",
+      "data": "2026-09-09"
+    },
+    {
       "nome": "MODUS Garrafa Térmica em Aço Inoxidável 750mL com Alça e Adesivos | co…",
       "preco": "62,98",
       "preco_original": "",
@@ -14914,6 +14925,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-08T21:42:35.510340",
+  "atualizado": "2026-09-09T08:31:47.337505",
   "_backfill_count": 25
 }
