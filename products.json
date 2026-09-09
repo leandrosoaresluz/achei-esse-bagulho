@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "AIR FRYER HOMELAND 4 LITROS 127V 220V CINZA E ROSA DESIGN MODERNO CONTROLE DE TEMPERATURA E TIMER (Verde, 220V)",
+      "preco": "219,90",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "5.0",
+      "avaliacoes": "1",
+      "url": "https://www.amazon.com.br/dp/B0H5L4VNW1?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0H5L4VNW1.jpg",
+      "data": "2026-09-09"
+    },
+    {
       "nome": "Kit 2 Tênis Infantil Masculino Colegial Antiderrapante e Leve Pronta E…",
       "preco": "69,29",
       "preco_original": "",
@@ -14936,6 +14947,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-09T11:30:47.695206",
+  "atualizado": "2026-09-09T12:35:17.848434",
   "_backfill_count": 25
 }
