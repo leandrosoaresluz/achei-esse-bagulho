@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Box Clássicos de William Shakespeare - com 7 marcadores de páginas",
+      "preco": "41,12",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.8",
+      "avaliacoes": "3238",
+      "url": "https://www.amazon.com.br/dp/B09PW8LBZD?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B09PW8LBZD.jpg",
+      "data": "2026-09-09"
+    },
+    {
       "nome": "AIR FRYER HOMELAND 4 LITROS 127V 220V CINZA E ROSA DESIGN MODERNO CONT…",
       "preco": "219,90",
       "preco_original": "",
@@ -14947,6 +14958,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-09T12:35:28.660901",
+  "atualizado": "2026-09-09T13:46:26.318664",
   "_backfill_count": 25
 }
