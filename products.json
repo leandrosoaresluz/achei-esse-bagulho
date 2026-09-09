@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "MODUS Garrafa Térmica em Aço Inoxidável 750mL com Alça e Adesivos | com Base Emborrachada Anti Derrapante, Anti Vazamento, Leve e Portátil, Ideal para Academia, Viagem e Trabalho",
+      "preco": "62,98",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.7",
+      "avaliacoes": "189",
+      "url": "https://www.amazon.com.br/dp/B0H865TZMF?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0H865TZMF.jpg",
+      "data": "2026-09-08"
+    },
+    {
       "nome": "Jogo de Lençol Solteiro 2 Peças 200 Fios Infantil Cama Box Estampado E…",
       "preco": "39,99",
       "preco_original": "",
@@ -14903,6 +14914,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-08T20:00:48.554191",
+  "atualizado": "2026-09-08T21:42:27.114809",
   "_backfill_count": 25
 }
