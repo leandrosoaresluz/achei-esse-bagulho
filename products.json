@@ -1,12 +1,12 @@
 {
   "produtos": [
     {
-      "nome": "MONDIAL Fritadeira Sem Óleo Grand Family Inox - 5L, 127V, Preto, 1900W - AFN-50-BI",
+      "nome": "MONDIAL Fritadeira Sem Óleo Grand Family Inox - 5L, 127V, Preto, 1900W…",
       "preco": "274,00",
       "preco_original": "",
       "desconto_pct": "",
       "nota": "4.6",
-      "avaliacoes": "11370",
+      "avaliacoes": "11,370",
       "url": "https://www.amazon.com.br/dp/B08HZBX16R?tag=acheiessebagu-20",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B08HZBX16R.jpg",
       "data": "2026-09-09"
@@ -14991,6 +14991,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-09T21:42:02.107326",
+  "atualizado": "2026-09-09T21:42:11.015028",
   "_backfill_count": 25
 }
