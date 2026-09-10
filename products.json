@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Capa de Colchão Impermeável Hospitalar Protetor de Colchão Solteiro Anti Alérgica Anti Ácaros",
+      "preco": "34,99",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.9",
+      "avaliacoes": "3543",
+      "url": "https://s.shopee.com.br/1BMFIkJVqw",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_b183614547.jpg",
+      "data": "2026-09-10"
+    },
+    {
       "nome": "Camiseta Estampada Mercedes-amg Petronas F1 Team Silver Arrows 1955 Ho…",
       "preco": "199,99",
       "preco_original": "",
@@ -15024,6 +15035,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-10T18:31:34.286620",
+  "atualizado": "2026-09-10T20:00:49.658246",
   "_backfill_count": 25
 }
