@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Camiseta Estampada Mercedes-amg Petronas F1 Team Silver Arrows 1955 Homem adidas",
+      "preco": "199,99",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "",
+      "avaliacoes": "",
+      "url": "https://www.awin1.com/pclick.php?p=44963935759&a=2937599&m=79926",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_b5ab9566ee.jpg",
+      "data": "2026-09-10"
+    },
+    {
       "nome": "Neve Papel Higiênico Supreme Folha Tripla, 20m, Leve 32 Pague 28 Rolos",
       "preco": "73,99",
       "preco_original": "",
@@ -13825,17 +13836,6 @@
       "data": "2026-08-11"
     },
     {
-      "nome": "Camiseta Estampada Mercedes-amg Petronas F1 Team Silver Arrows 1955 Homem adidas",
-      "preco": "199,99",
-      "preco_original": "",
-      "desconto_pct": "",
-      "nota": "",
-      "avaliacoes": "",
-      "url": "https://www.awin1.com/pclick.php?p=45375966360&a=2937599&m=79926",
-      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_e3ddad7d6b.jpg",
-      "data": "2026-08-11"
-    },
-    {
       "nome": "Camiseta Estampada Mercedes-amg Petronas F1 Team Silver Arrows 1955 Ho…",
       "preco": "199,99",
       "preco_original": "",
@@ -15024,6 +15024,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-10T13:46:29.722365",
+  "atualizado": "2026-09-10T18:31:25.682571",
   "_backfill_count": 25
 }
