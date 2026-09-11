@@ -1,10 +1,10 @@
 {
   "produtos": [
     {
-      "nome": "Toalha Microfibra Automotiva para Secar Carros 60x90cm 600GSM Alta Absorção Sem Fiapos Anti Riscos Macia Premium 80% Poliéster 20% Poliamida",
+      "nome": "Toalha Microfibra Automotiva para Secar Carros 60x90cm 600GSM Alta Abs…",
       "preco": "59,90",
       "preco_original": "69,90",
-      "desconto_pct": "14",
+      "desconto_pct": "",
       "nota": "5.0",
       "avaliacoes": "1",
       "url": "https://www.amazon.com.br/dp/B0HHBHZNN7?tag=acheiessebagu-20",
@@ -15046,6 +15046,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-10T21:44:32.993905",
+  "atualizado": "2026-09-10T21:44:42.513906",
   "_backfill_count": 25
 }
