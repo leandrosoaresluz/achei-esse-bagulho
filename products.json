@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Kit 2 Shorts Masculino Kong 2 em 1 com Compressão, Bolso para Celular e Tecido Dry Fit",
+      "preco": "62,67",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.9",
+      "avaliacoes": "1945",
+      "url": "https://s.shopee.com.br/2qUVuYxfN3",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_64b97bd2e2.jpg",
+      "data": "2026-09-12"
+    },
+    {
       "nome": "Necessaire Feminina Organizador de Malas para Viagem: KIT 7/10 de Organização - Inclui Bolsa Organizadora-Organizadores de Bagagem para Viagem (Bege-7 peças)",
       "preco": "59,99",
       "preco_original": "",
@@ -15101,6 +15112,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-12T08:31:53.931172",
+  "atualizado": "2026-09-12T11:30:35.040883",
   "_backfill_count": 25
 }
