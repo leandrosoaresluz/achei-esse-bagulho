@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Pré-Treino Abduzido NitroMax 300g - 200mg Cafeína Beta-Alanina Arginina Pump",
+      "preco": "34,32",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.9",
+      "avaliacoes": "1889",
+      "url": "https://s.shopee.com.br/112tmwzRo7",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_25a2a948b6.jpg",
+      "data": "2026-09-13"
+    },
+    {
       "nome": "Kit 4 Bermuda Shorts Tactel Sandrini Elastano Academia Praia",
       "preco": "52,90",
       "preco_original": "89,99",
@@ -15178,6 +15189,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-13T13:46:52.904345",
+  "atualizado": "2026-09-13T18:30:35.148302",
   "_backfill_count": 25
 }
