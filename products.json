@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Kit Starlink Mini Internet via satélite, Dual Band 3 x 3 Mu-mimo, Wifi 5, Wpa2, Ethernet Lan, Plugue Starlink, Branco - 2535008br",
+      "preco": "502,00",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.7",
+      "avaliacoes": "1389",
+      "url": "https://www.amazon.com.br/dp/B0DH3PLZ6N?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0DH3PLZ6N.jpg",
+      "data": "2026-09-13"
+    },
+    {
       "nome": "Capa de Notebook até 15,6 Polegadas - Case Protetora de Neoprene com Z…",
       "preco": "19,90",
       "preco_original": "",
@@ -15145,6 +15156,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-12T21:39:54.389137",
+  "atualizado": "2026-09-13T08:31:56.176756",
   "_backfill_count": 25
 }
