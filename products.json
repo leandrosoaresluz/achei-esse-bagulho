@@ -1,7 +1,7 @@
 {
   "produtos": [
     {
-      "nome": "Guarda-Chuva Automático Grande Reforçado Resistente ao Vento | Compacto para Bolsa e Mochila | Abertura Automática 1 Clique | Proteção UV Blackout | Cabo Premium | Capa Inclusa",
+      "nome": "Guarda-Chuva Automático Grande Reforçado Resistente ao Vento | Compact…",
       "preco": "40,90",
       "preco_original": "",
       "desconto_pct": "",
@@ -15178,6 +15178,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-13T12:36:56.116519",
+  "atualizado": "2026-09-13T12:37:05.311240",
   "_backfill_count": 25
 }
