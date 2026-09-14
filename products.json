@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Fita Veda‑Fresta Adesiva 5m x 2,5cm para Portas, Janelas e Chuveiro | Fita elástica adesiva, bloqueia vento, insetos e ruído. Fácil de instalar, ideal para vedar frestas em casa.",
+      "preco": "26,90",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "5.0",
+      "avaliacoes": "1",
+      "url": "https://www.amazon.com.br/dp/B0HD6LZ9Z7?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0HD6LZ9Z7.jpg",
+      "data": "2026-09-14"
+    },
+    {
       "nome": "Tapete de Yoga, Pilates Exercicios Dupla Face Cor Variável 173cm x 63c…",
       "preco": "44,99",
       "preco_original": "",
@@ -15233,6 +15244,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-14T12:37:41.201488",
+  "atualizado": "2026-09-14T13:46:30.474714",
   "_backfill_count": 25
 }
