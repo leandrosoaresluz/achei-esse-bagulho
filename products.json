@@ -1,12 +1,12 @@
 {
   "produtos": [
     {
-      "nome": "Cabo Carregador Turbo USB-C 1 Metro Branco Carregamento Ultra Rápido Compativel C/i.Phone 14,13,12,11,X e XR Qualidade Premium",
+      "nome": "Cabo Carregador Turbo USB-C 1 Metro Branco Carregamento Ultra Rápido C…",
       "preco": "16,99",
       "preco_original": "",
       "desconto_pct": "",
       "nota": "5.0",
-      "avaliacoes": "1699",
+      "avaliacoes": "1,699",
       "url": "https://www.amazon.com.br/dp/B0HCM4L21Z?tag=acheiessebagu-20",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0HCM4L21Z.jpg",
       "data": "2026-09-13"
@@ -15211,6 +15211,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-13T21:36:29.193400",
+  "atualizado": "2026-09-13T21:36:36.380067",
   "_backfill_count": 25
 }
