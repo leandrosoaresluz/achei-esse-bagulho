@@ -1,12 +1,12 @@
 {
   "produtos": [
     {
-      "nome": "Kit 3 T-Shirt Algodão 30.1 Comfort Confortavel Estilosa Baby Look Casual Básica Urbana",
+      "nome": "Kit 3 T-Shirt Algodão 30.1 Comfort Confortavel Estilosa Baby Look Casu…",
       "preco": "49,99",
       "preco_original": "",
       "desconto_pct": "",
       "nota": "4.8",
-      "avaliacoes": "4052",
+      "avaliacoes": "4,052",
       "url": "https://s.shopee.com.br/2gB9N5FDqG",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_ea8df3c256.jpg",
       "data": "2026-09-14"
@@ -15255,6 +15255,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-14T18:33:15.910647",
+  "atualizado": "2026-09-14T18:33:24.456380",
   "_backfill_count": 25
 }
