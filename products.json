@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Conjunto Camisetas  Disney Frozen Kids adidas",
+      "preco": "199,99",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "",
+      "avaliacoes": "",
+      "url": "https://www.awin1.com/pclick.php?p=44046634154&a=2937599&m=79926",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_435ae1e9f4.jpg",
+      "data": "2026-09-14"
+    },
+    {
       "nome": "Fita Veda‑Fresta Adesiva 5m x 2,5cm para Portas, Janelas e Chuveiro | Fita elástica adesiva, bloqueia vento, insetos e ruído. Fácil de instalar, ideal para vedar frestas em casa.",
       "preco": "26,90",
       "preco_original": "",
@@ -1010,17 +1021,6 @@
       "avaliacoes": "3,096",
       "url": "https://www.amazon.com.br/dp/B0DVSNQ37F?tag=acheiessebagu-20",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0DVSNQ37F.jpg",
-      "data": "2026-09-01"
-    },
-    {
-      "nome": "Conjunto Camisetas  Disney Frozen Kids adidas",
-      "preco": "199,99",
-      "preco_original": "",
-      "desconto_pct": "",
-      "nota": "",
-      "avaliacoes": "",
-      "url": "https://www.awin1.com/pclick.php?p=44046634149&amp;a=2937599&amp;m=79926",
-      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_96e1db8057.jpg",
       "data": "2026-09-01"
     },
     {
@@ -15244,6 +15244,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-14T13:46:30.474714",
+  "atualizado": "2026-09-14T18:30:57.449048",
   "_backfill_count": 25
 }
