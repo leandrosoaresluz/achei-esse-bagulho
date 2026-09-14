@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Tapete de Yoga, Pilates Exercicios Dupla Face Cor Variável 173cm x 63cm | Espessura de 4mm, Yoga e Abdominais, Leve e Portátil, Fácil de Guardar, Flexões e Exercícios",
+      "preco": "44,99",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.6",
+      "avaliacoes": "9",
+      "url": "https://www.amazon.com.br/dp/B0H8ZDLHC1?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0H8ZDLHC1.jpg",
+      "data": "2026-09-14"
+    },
+    {
       "nome": "Chaleira Elétrica Jarra Café Chá Inox 110v",
       "preco": "44,90",
       "preco_original": "",
@@ -15222,6 +15233,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-14T11:30:48.289140",
+  "atualizado": "2026-09-14T12:37:30.292194",
   "_backfill_count": 25
 }
