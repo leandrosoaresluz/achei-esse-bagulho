@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Orbitals – Nintendo Switch 2",
+      "preco": "319,00",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "5.0",
+      "avaliacoes": "31900",
+      "url": "https://www.amazon.com.br/dp/B0H8TTVHY6?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0H8TTVHY6.jpg",
+      "data": "2026-09-14"
+    },
+    {
       "nome": "Cabo Carregador Turbo USB-C 1 Metro Branco Carregamento Ultra Rápido C…",
       "preco": "16,99",
       "preco_original": "",
@@ -15211,6 +15222,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-13T21:36:36.380067",
+  "atualizado": "2026-09-14T08:31:16.342459",
   "_backfill_count": 25
 }
