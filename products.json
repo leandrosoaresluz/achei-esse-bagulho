@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Carregador Portátil Mini Power Bank 10000mAh Com 02 Saídas Tipo-C / Lightning",
+      "preco": "31,99",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.6",
+      "avaliacoes": "1997",
+      "url": "https://s.shopee.com.br/1AP7fkY8r",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_f5bd2033ea.jpg",
+      "data": "2026-09-15"
+    },
+    {
       "nome": "Notebook ASUS Vivobook Go 15 E510KA-BR1375WS, Star Black, 15,60\" | Int…",
       "preco": "2.050,00",
       "preco_original": "",
@@ -4618,17 +4629,6 @@
       "data": "2026-06-10"
     },
     {
-      "nome": "Carregador Portátil Mini Power Bank 10000mAh Com 02 Saídas Tipo-C / Lightning",
-      "preco": "32,99",
-      "preco_original": "",
-      "desconto_pct": "",
-      "nota": "4.6",
-      "avaliacoes": "2051",
-      "url": "https://s.shopee.com.br/4AxUOoT24q",
-      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_290a4b274b.jpg",
-      "data": "2026-06-11"
-    },
-    {
       "nome": "INOVA CASES Fone de Ouvido Bluetooth, Fones de Ouvido Sem Fio Bluetooth 6.0, Fones TWS com Graves Poderosos e Alta Autonomia, 50 Horas em Standby, Controle de Toque, para iOS Android (Preto)",
       "preco": "74,99",
       "preco_original": "",
@@ -7002,17 +7002,6 @@
       "avaliacoes": "50",
       "url": "https://www.amazon.com.br/dp/B0GVTMNF8P?tag=acheiesseba0c-20",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0GVTMNF8P.jpg",
-      "data": "2026-06-20"
-    },
-    {
-      "nome": "Carregador Portátil Mini Power Bank 10000mAh Com 02 Saídas Tipo-C / Lightning",
-      "preco": "32,99",
-      "preco_original": "",
-      "desconto_pct": "",
-      "nota": "4.6",
-      "avaliacoes": "1912",
-      "url": "https://s.shopee.com.br/4AxjeT6wBq",
-      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_b937db4071.jpg",
       "data": "2026-06-20"
     },
     {
@@ -15277,6 +15266,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-14T21:39:20.792427",
+  "atualizado": "2026-09-15T08:30:30.728084",
   "_backfill_count": 25
 }
