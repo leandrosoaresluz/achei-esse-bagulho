@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Edifier Fone de ouvido Open-Ear Bluetooth V6.1 Comfo Bass (Preto)",
+      "preco": "299,91",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "5.0",
+      "avaliacoes": "29991",
+      "url": "https://www.amazon.com.br/dp/B0HCDTHCL2?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0HCDTHCL2.jpg",
+      "data": "2026-09-15"
+    },
+    {
       "nome": "Carregador Portátil Mini Power Bank 10000mAh Com 02 Saídas Tipo-C / Lightning",
       "preco": "31,99",
       "preco_original": "",
@@ -15266,6 +15277,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-15T08:30:30.728084",
+  "atualizado": "2026-09-15T11:31:36.251226",
   "_backfill_count": 25
 }
