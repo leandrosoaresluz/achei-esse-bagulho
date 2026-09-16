@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Areia Higiênica Katbom Para Gatos Granulado Capim Limão  6Kg",
+      "preco": "64,90",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "5.0",
+      "avaliacoes": "1505",
+      "url": "https://s.shopee.com.br/7fZrqfQ3no",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_00666118f6.jpg",
+      "data": "2026-09-16"
+    },
+    {
       "nome": "Câmera Segurança IP Lâmpada WiFi 360° Full HD 1080p Visão Noturna Infr…",
       "preco": "49,90",
       "preco_original": "",
@@ -15310,6 +15321,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-15T21:46:47.622229",
+  "atualizado": "2026-09-16T08:30:35.007189",
   "_backfill_count": 25
 }
