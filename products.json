@@ -4,7 +4,7 @@
       "nome": "Amar é inadiável",
       "preco": "50,00",
       "preco_original": "64,90",
-      "desconto_pct": "23",
+      "desconto_pct": "",
       "nota": "4.7",
       "avaliacoes": "277",
       "url": "https://www.amazon.com.br/dp/8542243145?tag=acheiessebagu-20",
@@ -15343,6 +15343,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-16T12:35:06.122595",
+  "atualizado": "2026-09-16T12:35:16.715006",
   "_backfill_count": 25
 }
