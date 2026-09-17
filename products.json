@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Kit Halteres Ajustável 6 em 1 15kg com Barra, Kettlebell e Suporte Flexões | Kit de Pesos 15kg para Musculação com Halteres Ajustáveis, Barra, Kettlebell e Suporte de Flexão 6 em 1 Musculação em Casa",
+      "preco": "142,40",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "5.0",
+      "avaliacoes": "1",
+      "url": "https://www.amazon.com.br/dp/B0HH4RGVG5?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0HH4RGVG5.jpg",
+      "data": "2026-09-17"
+    },
+    {
       "nome": "Camiseta Folgada Teamgeist Mulher adidas",
       "preco": "199,99",
       "preco_original": "",
@@ -15409,6 +15420,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-17T18:36:01.447569",
+  "atualizado": "2026-09-17T20:01:49.519917",
   "_backfill_count": 25
 }
