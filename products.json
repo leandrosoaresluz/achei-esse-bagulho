@@ -1,12 +1,12 @@
 {
   "produtos": [
     {
-      "nome": "Kit 4 Frascos de Viagem para Cosméticos com Estojo Transparente, Potes de Silicone Flexível com Vedação Antivazamento, Reutilizáveis para Shampoo, Condicionador, Cremes e Higiene Pessoal (Castanho)",
+      "nome": "Kit 4 Frascos de Viagem para Cosméticos com Estojo Transparente, Potes…",
       "preco": "24,90",
       "preco_original": "",
       "desconto_pct": "",
       "nota": "5.0",
-      "avaliacoes": "2490",
+      "avaliacoes": "2,490",
       "url": "https://www.amazon.com.br/dp/B0HFTNW7R1?tag=acheiessebagu-20",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0HFTNW7R1.jpg",
       "data": "2026-09-16"
@@ -868,17 +868,6 @@
       "url": "https://www.amazon.com.br/dp/B0HDVQ12G3?tag=acheiessebagu-20",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0HDVQ12G3.jpg",
       "data": "2026-09-06"
-    },
-    {
-      "nome": "Kit 4 Frascos de Viagem para Cosméticos com Estojo Transparente, Potes…",
-      "preco": "26,90",
-      "preco_original": "",
-      "desconto_pct": "",
-      "nota": "5.0",
-      "avaliacoes": "2,690",
-      "url": "https://www.amazon.com.br/dp/B0HFTZJ117?tag=acheiessebagu-20",
-      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0HFTZJ117.jpg",
-      "data": "2026-09-05"
     },
     {
       "nome": "Camisa FC Bayern München Originals Homem adidas",
@@ -15376,6 +15365,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-16T21:45:21.227556",
+  "atualizado": "2026-09-16T21:45:29.490570",
   "_backfill_count": 25
 }
