@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "CroquiChic Body Feminino Manga Longa com Costas Abertas Suplex Sem Bojo e Costura Reforçada",
+      "preco": "70,00",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.9",
+      "avaliacoes": "1190",
+      "url": "https://s.shopee.com.br/AAHEllOh4n",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_ed9a1fab78.jpg",
+      "data": "2026-09-17"
+    },
+    {
       "nome": "Grade de Resfriamento em Aço Inoxidável com Revestimento Antiaderente …",
       "preco": "16,90",
       "preco_original": "",
@@ -15387,6 +15398,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-17T12:31:16.287754",
+  "atualizado": "2026-09-17T13:45:35.156195",
   "_backfill_count": 25
 }
