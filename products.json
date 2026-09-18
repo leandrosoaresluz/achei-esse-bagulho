@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Kit Cabo Carregador Carregamento Rápido ZHIKE 4 em 1 USB Tipo C Para iP 1M Trança Nylon Com GaN Adaptador",
+      "preco": "39,79",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.7",
+      "avaliacoes": "1858",
+      "url": "https://s.shopee.com.br/3g3mH5AGd0",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_63e78a1654.jpg",
+      "data": "2026-09-18"
+    },
+    {
       "nome": "Celular Samsung Galaxy A17, 256GB, 8GB, 50MP Tela 6.7\", IP54 - Preto",
       "preco": "1.099,10",
       "preco_original": "1.899,00",
@@ -15431,6 +15442,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-17T21:38:43.368737",
+  "atualizado": "2026-09-18T08:30:35.123262",
   "_backfill_count": 25
 }
