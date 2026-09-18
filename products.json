@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "JustGoFit Kit Elástico Extensor 11 Peças para Exercícios Funcionais Tubing com Acessórios para Treino de Força e Resistência",
+      "preco": "39,90",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "5.0",
+      "avaliacoes": "2",
+      "url": "https://www.amazon.com.br/dp/B0H85GFD42?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0H85GFD42.jpg",
+      "data": "2026-09-18"
+    },
+    {
       "nome": "Kit Cabo Carregador Carregamento Rápido ZHIKE 4 em 1 USB Tipo C Para iP 1M Trança Nylon Com GaN Adaptador",
       "preco": "39,79",
       "preco_original": "",
@@ -15442,6 +15453,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-18T08:30:35.123262",
+  "atualizado": "2026-09-18T11:31:41.580160",
   "_backfill_count": 25
 }
