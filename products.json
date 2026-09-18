@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Kit 3 Brinquedos Educativo Montessori de Madeira - Formas Geométricas Pedagógicos Infantil",
+      "preco": "49,88",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.6",
+      "avaliacoes": "629",
+      "url": "https://s.shopee.com.br/3LQwXgZNnk",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_dfec5a6ad5.jpg",
+      "data": "2026-09-18"
+    },
+    {
       "nome": "Tênis VL Move EL C Kids adidas",
       "preco": "249,99",
       "preco_original": "",
@@ -6364,17 +6375,6 @@
       "avaliacoes": "1",
       "url": "https://www.amazon.com.br/dp/B0GVP5N2JX?tag=acheiesseba0c-20",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0GVP5N2JX.jpg",
-      "data": "2026-06-16"
-    },
-    {
-      "nome": "Kit 3 Brinquedos Educativo Montessori de Madeira - Formas Geométricas Pedagógicos Infantil",
-      "preco": "39,88",
-      "preco_original": "",
-      "desconto_pct": "",
-      "nota": "4.7",
-      "avaliacoes": "517",
-      "url": "https://s.shopee.com.br/4ftuGXRC3Q",
-      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_5570f7cfca.jpg",
       "data": "2026-06-16"
     },
     {
@@ -15475,6 +15475,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-18T13:46:13.802404",
+  "atualizado": "2026-09-18T18:30:35.478816",
   "_backfill_count": 25
 }
