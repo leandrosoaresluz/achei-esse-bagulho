@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Mouse Pad Ergonômico com Apoio de Punho, Reduz a Tensão na Mão, Base Antiderrapante, Minimalista, Escritório, Gamer, Trabalho, Premium",
+      "preco": "15,99",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "5.0",
+      "avaliacoes": "2",
+      "url": "https://www.amazon.com.br/dp/B0HGC3PCVW?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0HGC3PCVW.jpg",
+      "data": "2026-09-18"
+    },
+    {
       "nome": "Combo Siàge Ultra Bond Reset (3 itens)",
       "preco": "128,00",
       "preco_original": "",
@@ -15486,6 +15497,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-18T20:01:41.392193",
+  "atualizado": "2026-09-18T21:40:10.894429",
   "_backfill_count": 25
 }
