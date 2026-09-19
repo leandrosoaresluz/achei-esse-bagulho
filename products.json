@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "LILYEVE Grow:Turn Exosome Brush Ampoule 30ml, 100ml, 130ml",
+      "preco": "71,00",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "5.0",
+      "avaliacoes": "4014",
+      "url": "https://s.shopee.com.br/6L4Z2t0Dg7",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_6dbf1b2acd.jpg",
+      "data": "2026-09-19"
+    },
+    {
       "nome": "Mouse Pad Ergonômico com Apoio de Punho, Reduz a Tensão na Mão, Base A…",
       "preco": "15,99",
       "preco_original": "",
@@ -15497,6 +15508,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-18T21:40:22.366667",
+  "atualizado": "2026-09-19T08:30:31.148896",
   "_backfill_count": 25
 }
