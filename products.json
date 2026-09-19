@@ -4,7 +4,7 @@
       "nome": "The Perfect Top Feminino",
       "preco": "79,90",
       "preco_original": "139,00",
-      "desconto_pct": "43",
+      "desconto_pct": "",
       "nota": "4.4",
       "avaliacoes": "298",
       "url": "https://www.amazon.com.br/dp/B0DZ34WXST?tag=acheiessebagu-20",
@@ -15519,6 +15519,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-19T12:37:18.452558",
+  "atualizado": "2026-09-19T12:37:27.392279",
   "_backfill_count": 25
 }
