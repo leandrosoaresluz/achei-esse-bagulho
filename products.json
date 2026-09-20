@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Spray de Defesa Pessoal Feminino 50g com Sistema FLIP-TOP | Alcance de 2,5 Metros, Efeito Névoa, Até 5 Aplicações, Validade de 5 Anos, Legalizado no Brasil",
+      "preco": "189,90",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "5.0",
+      "avaliacoes": "1",
+      "url": "https://www.amazon.com.br/dp/B0HGBZLFGC?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0HGBZLFGC.jpg",
+      "data": "2026-09-19"
+    },
+    {
       "nome": "Organizador de Cabos Fecho de Contato Toocki 5 Metros Preto",
       "preco": "22,90",
       "preco_original": "29,00",
@@ -15541,6 +15552,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-19T20:01:53.781966",
+  "atualizado": "2026-09-19T21:36:08.311848",
   "_backfill_count": 25
 }
