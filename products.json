@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Paquimetro Digital Profissional Com Estojo E 2 Baterias Inclusas 150mm LCD Alta Precisao Medidor Eletronico Aco Inox Medidas Milimetros mm e Polegadas",
+      "preco": "24,90",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "5.0",
+      "avaliacoes": "1",
+      "url": "https://www.amazon.com.br/dp/B0H7CRMS7C?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0H7CRMS7C.jpg",
+      "data": "2026-09-20"
+    },
+    {
       "nome": "Kit 6 Jogo Copos de Vidro Canelado 420ml Transparente Luxo Mesa Posta Elegante - para Água Suco Drinks Refrigerantes Restaurante Bares e uso diário Vidro Grosso e Resistente Premium",
       "preco": "31,90",
       "preco_original": "",
@@ -15574,6 +15585,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-20T11:32:02.712060",
+  "atualizado": "2026-09-20T12:37:40.268096",
   "_backfill_count": 25
 }
