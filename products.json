@@ -1,12 +1,12 @@
 {
   "produtos": [
     {
-      "nome": "Cozedor Elétrico de Ovos 7 Unidades 110V com Desligamento Automático, Cozimento a Vapor, Compacto e Portátil para Café da Manhã, Cozinha, Viagens e Refeições Rápidas",
+      "nome": "Cozedor Elétrico de Ovos 7 Unidades 110V com Desligamento Automático, …",
       "preco": "29,99",
       "preco_original": "",
       "desconto_pct": "",
       "nota": "4.0",
-      "avaliacoes": "2999",
+      "avaliacoes": "2,999",
       "url": "https://www.amazon.com.br/dp/B0HGZJ5ZHY?tag=acheiessebagu-20",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0HGZJ5ZHY.jpg",
       "data": "2026-09-21"
@@ -15662,6 +15662,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-21T12:32:19.549627",
+  "atualizado": "2026-09-21T12:32:27.026440",
   "_backfill_count": 25
 }
