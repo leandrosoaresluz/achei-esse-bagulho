@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Fritadeira Air Fryer Oven Britânia 16L 10 Programas Automáticos BAF16B 220V",
+      "preco": "512,89",
+      "preco_original": "579,89",
+      "desconto_pct": "12",
+      "nota": "",
+      "avaliacoes": "53989",
+      "url": "https://www.amazon.com.br/dp/B0HCPNF649?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0HCPNF649.jpg",
+      "data": "2026-09-20"
+    },
+    {
       "nome": "Pistola de Pintura Pulverizadora Elétrica 650W 800ml com Compressor Integrado 127V Ajuste de Fluxo 3 Modos de Spray",
       "preco": "85,47",
       "preco_original": "96,41",
@@ -15618,6 +15629,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-20T20:01:59.875727",
+  "atualizado": "2026-09-20T21:44:46.566959",
   "_backfill_count": 25
 }
