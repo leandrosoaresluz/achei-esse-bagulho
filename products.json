@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Vestido Feminino Curto Rodado Camponesa Alcinha Estampado com  Bojo e Forro  Regulável",
+      "preco": "59,94",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.8",
+      "avaliacoes": "1507",
+      "url": "https://s.shopee.com.br/60Rlq2XQrR",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_4563e2e008.jpg",
+      "data": "2026-09-21"
+    },
+    {
       "nome": "Fritadeira Air Fryer Oven Britânia 16L 10 Programas Automáticos BAF16B…",
       "preco": "512,89",
       "preco_original": "579,89",
@@ -15629,6 +15640,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-20T21:44:53.963184",
+  "atualizado": "2026-09-21T08:30:33.298196",
   "_backfill_count": 25
 }
