@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Protetor Solar Facial PS-01 FPS 40 Principia - 40ml",
+      "preco": "44,00",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.9",
+      "avaliacoes": "2246",
+      "url": "https://s.shopee.com.br/80CtPVzYjE",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_6703fa67a6.jpg",
+      "data": "2026-09-23"
+    },
+    {
       "nome": "Kit Moto Luva Touch Screen Impermeável Balaclava Manguito UV50+ Preto …",
       "preco": "59,90",
       "preco_original": "",
@@ -15772,6 +15783,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-22T21:42:09.087057",
+  "atualizado": "2026-09-23T08:30:31.034189",
   "_backfill_count": 25
 }
