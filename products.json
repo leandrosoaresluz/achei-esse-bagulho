@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Calibrador Portátil 150 PSI com Enchimento Rápido e Display Digital | Calibrador Portátil",
+      "preco": "59,50",
+      "preco_original": "69,90",
+      "desconto_pct": "15",
+      "nota": "5.0",
+      "avaliacoes": "1",
+      "url": "https://www.amazon.com.br/dp/B0HJBMBVTP?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0HJBMBVTP.jpg",
+      "data": "2026-09-23"
+    },
+    {
       "nome": "Camiseta Manga Longa Adi365 Running Essentials Mulher adidas",
       "preco": "199,99",
       "preco_original": "",
@@ -15827,6 +15838,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-23T18:38:57.996413",
+  "atualizado": "2026-09-23T20:01:50.922480",
   "_backfill_count": 25
 }
