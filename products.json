@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Camiseta Manga Longa Adi365 Running Essentials Mulher adidas",
+      "preco": "199,99",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "",
+      "avaliacoes": "",
+      "url": "https://www.awin1.com/pclick.php?p=46008033925&a=2937599&m=79926",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_efacd469d5.jpg",
+      "data": "2026-09-23"
+    },
+    {
       "nome": "Body Feminino com Canga Leve - Look Praia e Piscina",
       "preco": "57,11",
       "preco_original": "",
@@ -15816,6 +15827,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-23T13:45:33.611290",
+  "atualizado": "2026-09-23T18:38:49.796094",
   "_backfill_count": 25
 }
