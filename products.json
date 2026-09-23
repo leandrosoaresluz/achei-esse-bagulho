@@ -1,12 +1,12 @@
 {
   "produtos": [
     {
-      "nome": "Kit Moto Luva Touch Screen Impermeável Balaclava Manguito UV50+ Preto | Articulações reforçadas, punho velcro, UVA/UVB, tamanho único unissex, lavável, uso diário, antiderrapante",
+      "nome": "Kit Moto Luva Touch Screen Impermeável Balaclava Manguito UV50+ Preto …",
       "preco": "59,90",
       "preco_original": "",
       "desconto_pct": "",
-      "nota": "",
-      "avaliacoes": "5990",
+      "nota": "0.0",
+      "avaliacoes": "5,990",
       "url": "https://www.amazon.com.br/dp/B0HGP5YWNK?tag=acheiessebagu-20",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0HGP5YWNK.jpg",
       "data": "2026-09-22"
@@ -15772,6 +15772,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-22T21:41:51.987042",
+  "atualizado": "2026-09-22T21:42:09.087057",
   "_backfill_count": 25
 }
