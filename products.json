@@ -1,7 +1,7 @@
 {
   "produtos": [
     {
-      "nome": "Gloss Labial Liip Honey - Franciiny Ehlkee Mel, Vitamina e Brilho Intenso | Hidratação Prolongada, Brilho Intenso, Aroma de Mel, Ponteira Chubby, Hipoalergênico 5g",
+      "nome": "Gloss Labial Liip Honey - Franciiny Ehlkee Mel, Vitamina e Brilho Inte…",
       "preco": "16,90",
       "preco_original": "",
       "desconto_pct": "",
@@ -15805,6 +15805,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-23T12:35:08.874317",
+  "atualizado": "2026-09-23T12:35:21.249381",
   "_backfill_count": 25
 }
