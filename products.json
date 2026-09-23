@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Kit Moto Luva Touch Screen Impermeável Balaclava Manguito UV50+ Preto | Articulações reforçadas, punho velcro, UVA/UVB, tamanho único unissex, lavável, uso diário, antiderrapante",
+      "preco": "59,90",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "",
+      "avaliacoes": "5990",
+      "url": "https://www.amazon.com.br/dp/B0HGP5YWNK?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0HGP5YWNK.jpg",
+      "data": "2026-09-22"
+    },
+    {
       "nome": "Eudora Siàge Ultra Bond Reset Leave-In Reconstrutor Proteína Capilar 80g",
       "preco": "74,99",
       "preco_original": "",
@@ -15761,6 +15772,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-22T20:01:49.475845",
+  "atualizado": "2026-09-22T21:41:51.987042",
   "_backfill_count": 25
 }
