@@ -1,8 +1,8 @@
 {
   "produtos": [
     {
-      "nome": "Smartphone Poco X8 Pro 512GB 12GB RAM - Branco | Mediatek Dimensity 8500 Ultra",
-      "preco": "2800,00",
+      "nome": "Smartphone Poco X8 Pro 512GB 12GB RAM - Branco | Mediatek Dimensity 85…",
+      "preco": "2.800,00",
       "preco_original": "",
       "desconto_pct": "",
       "nota": "4.2",
@@ -15849,6 +15849,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-23T21:34:52.602710",
+  "atualizado": "2026-09-23T21:35:02.934770",
   "_backfill_count": 25
 }
