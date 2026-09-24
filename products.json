@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Fogão Cooktop de Mesa Portátil 4 Bocas Braslar Asiático Jr A Gás Inox",
+      "preco": "182,98",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.9",
+      "avaliacoes": "101",
+      "url": "https://s.shopee.com.br/1VzRiz9iLg",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_b14127257e.jpg",
+      "data": "2026-09-24"
+    },
+    {
       "nome": "Secador De Cachorro Pet Sacola Portátil Dobrável Tosa Banho Roupa Saco",
       "preco": "44,90",
       "preco_original": "",
@@ -15904,6 +15915,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-24T15:39:57.977499",
+  "atualizado": "2026-09-24T18:30:07.658412",
   "_backfill_count": 25
 }
