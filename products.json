@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Secador De Cachorro Pet Sacola Portátil Dobrável Tosa Banho Roupa Saco",
+      "preco": "44,90",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.8",
+      "avaliacoes": "11",
+      "url": "https://s.shopee.com.br/2Vryu4KdAX",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_2d61fc79e0.jpg",
+      "data": "2026-09-24"
+    },
+    {
       "nome": "Camiseta com Logo Clássico Terrex Mulher adidas",
       "preco": "199,99",
       "preco_original": "",
@@ -15893,6 +15904,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-24T13:46:00.900482",
+  "atualizado": "2026-09-24T15:39:57.977499",
   "_backfill_count": 25
 }
