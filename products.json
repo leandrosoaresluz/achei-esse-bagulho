@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Kit Organizador de Mala para Viagem, Cubos Organizadores de Bagagem com Necessaire para Roupas Sapatos, Bolsas Dobráveis Impermeáveis para Malas, Acessórios de Viagem Unissex",
+      "preco": "44,98",
+      "preco_original": "49,99",
+      "desconto_pct": "10",
+      "nota": "5.0",
+      "avaliacoes": "4",
+      "url": "https://www.amazon.com.br/dp/B0HCNX4B68?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0HCNX4B68.jpg",
+      "data": "2026-09-24"
+    },
+    {
       "nome": "Step Academia EVA 40x28x10cm Plataforma Fitness Aeróbica Antiderrapante Treinamento Funcional",
       "preco": "39,90",
       "preco_original": "",
@@ -15871,6 +15882,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-24T11:31:47.378772",
+  "atualizado": "2026-09-24T12:41:18.930070",
   "_backfill_count": 25
 }
