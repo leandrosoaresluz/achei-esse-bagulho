@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Whey Protein Isolado e Concentrado, 900g - Sem Soja - Body Nutry (Aumente a Força e Ganho de Massa)",
+      "preco": "44,50",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.9",
+      "avaliacoes": "1048",
+      "url": "https://s.shopee.com.br/qjmGTzTPO",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_b309e5d0af.jpg",
+      "data": "2026-09-25"
+    },
+    {
       "nome": "WUBEN E2 Mini LED Lanterna Recarregável, EDC Chaveiro Lanterna de Bolso | 150 Lúmens Pequena Lanterna com Luz Lateral e Iluminação RGB, Magnética IP66 Resistente Ideal para Camping ao ar Livre",
       "preco": "118,74",
       "preco_original": "",
@@ -13363,17 +13374,6 @@
       "data": "2026-07-29"
     },
     {
-      "nome": "Whey Protein Isolado e Concentrado, 900g - Sem Soja - Body Nutry (Aumente a Força e Ganho de Massa)",
-      "preco": "44,50",
-      "preco_original": "",
-      "desconto_pct": "",
-      "nota": "4.9",
-      "avaliacoes": "875",
-      "url": "https://s.shopee.com.br/8fR9JfgAkU",
-      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_a5f7f2b95b.jpg",
-      "data": "2026-07-29"
-    },
-    {
       "nome": "Sanduicheira Elétrica Cadence Click - 127V",
       "preco": "94,90",
       "preco_original": "159,90",
@@ -15948,6 +15948,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-25T08:31:41.317178",
+  "atualizado": "2026-09-25T11:30:36.644303",
   "_backfill_count": 25
 }
