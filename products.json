@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Calça Jeans Feminina Wide Leg Cintura Alta Pantalona Tecido Leve 100% Algodão",
+      "preco": "69,90",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.8",
+      "avaliacoes": "3507",
+      "url": "https://s.shopee.com.br/LnX44dGcJ",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_4b2bd97cfa.jpg",
+      "data": "2026-09-26"
+    },
+    {
       "nome": "A hipótese do amor – Edição com sobrecapa do filme",
       "preco": "42,22",
       "preco_original": "64,90",
@@ -15992,6 +16003,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-25T21:36:09.037451",
+  "atualizado": "2026-09-26T08:30:10.521752",
   "_backfill_count": 25
 }
