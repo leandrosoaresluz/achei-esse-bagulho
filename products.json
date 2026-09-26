@@ -1,12 +1,12 @@
 {
   "produtos": [
     {
-      "nome": "Extensão Elétrica 5 Tomadas com 4 USB + USB-C | Filtro de Linha Régua de Energia Bivolt 110V 220V | Cabo 2 Metros 2500W com Proteção Contra Sobrecarga | Casa Escritório Home Office, Preto",
+      "nome": "Extensão Elétrica 5 Tomadas com 4 USB + USB-C | Filtro de Linha Régua …",
       "preco": "35,90",
       "preco_original": "",
       "desconto_pct": "",
       "nota": "5.0",
-      "avaliacoes": "3590",
+      "avaliacoes": "3,590",
       "url": "https://www.amazon.com.br/dp/B0HFPJ6NBS?tag=acheiessebagu-20",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0HFPJ6NBS.jpg",
       "data": "2026-09-26"
@@ -16025,6 +16025,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-26T12:48:39.274528",
+  "atualizado": "2026-09-26T12:48:47.749149",
   "_backfill_count": 25
 }
