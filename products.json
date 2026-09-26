@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Trava de Porta Pet pra  Gatos  Ajustável Flexível -  Segurança Sem Furo, Kit com 1 , 2 ou 3 Unidades",
+      "preco": "16,90",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.8",
+      "avaliacoes": "62",
+      "url": "https://s.shopee.com.br/5fp3uonGol",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_393f484b18.jpg",
+      "data": "2026-09-26"
+    },
+    {
       "nome": "Tech T-shirt Gola U Feminino",
       "preco": "69,90",
       "preco_original": "",
@@ -16036,6 +16047,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-26T13:46:49.977607",
+  "atualizado": "2026-09-26T18:30:07.293547",
   "_backfill_count": 25
 }
