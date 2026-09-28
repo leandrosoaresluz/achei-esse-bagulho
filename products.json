@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Kit 10 Potes Vidro Borossilicato 640ml Marmita Tampa Hermética Resistente | Freezer e Micro-ondas, Vedação Sem Vazamentos, Ideal para Marmitas, Resistente a Temperatura, Organização de Cozinha",
+      "preco": "75,00",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "5.0",
+      "avaliacoes": "7500",
+      "url": "https://www.amazon.com.br/dp/B0HK1FP486?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0HK1FP486.jpg",
+      "data": "2026-09-28"
+    },
+    {
       "nome": "Kit 3 Unidades Sabonete Líquido Chá Branco 500 ml",
       "preco": "44,90",
       "preco_original": "",
@@ -16179,6 +16190,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-28T18:30:18.560549",
+  "atualizado": "2026-09-28T20:01:49.776006",
   "_backfill_count": 25
 }
