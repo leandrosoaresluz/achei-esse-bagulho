@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Kit 3 Unidades Sabonete Líquido Chá Branco 500 ml",
+      "preco": "44,90",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.9",
+      "avaliacoes": "4685",
+      "url": "https://s.shopee.com.br/8AWS5CrdIr",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_2f32b7a22b.jpg",
+      "data": "2026-09-28"
+    },
+    {
       "nome": "Calça Legging com Bolso Feminina Cintura Alta Academia Atletyca Fitness",
       "preco": "52,90",
       "preco_original": "",
@@ -16168,6 +16179,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-28T13:45:36.801235",
+  "atualizado": "2026-09-28T18:30:09.131631",
   "_backfill_count": 25
 }
