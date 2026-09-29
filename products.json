@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Filtro/Refil Original de Água Acqua Pure para Purificador Electrolux PE12A/PE12B/PE12G/PE12V/PE12P",
+      "preco": "76,62",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.7",
+      "avaliacoes": "4601",
+      "url": "https://api.acheiessebagulho.com.br/r/058489e616?url=https%3A%2F%2Fwww.amazon.com.br%2Fdp%2FB0F256HPZJ%3Ftag%3Dacheiessebagu-20&src=site",
+      "url_afiliado": "https://www.amazon.com.br/dp/B0F256HPZJ?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0F256HPZJ.jpg",
+      "data": "2026-09-29"
+    },
+    {
       "nome": "Omeleteira Elétrica Antiaderente Agratto 127V/220V 800W Mr. Cheff Dupl…",
       "preco": "109,11",
       "preco_original": "",
@@ -16203,6 +16215,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-29T08:30:23.869567",
+  "atualizado": "2026-09-29T12:16:22.569568",
   "_backfill_count": 25
 }
