@@ -1,6 +1,17 @@
 {
   "produtos": [
     {
+      "nome": "Omeleteira Elétrica Antiaderente Agratto 127V/220V 800W Mr. Cheff Dupla Redonda Preta Café da Manhã Cozinha Ovo Crepioca",
+      "preco": "109,11",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.9",
+      "avaliacoes": "34",
+      "url": "https://s.shopee.com.br/AAHWStJ0g3",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_f9ff354c53.jpg",
+      "data": "2026-09-29"
+    },
+    {
       "nome": "OMO Lavagem Perfeita - Sabão Líquido 5L",
       "preco": "54,99",
       "preco_original": "67,53",
@@ -16192,6 +16203,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-28T21:21:25.795407",
+  "atualizado": "2026-09-29T08:30:14.005865",
   "_backfill_count": 25
 }
