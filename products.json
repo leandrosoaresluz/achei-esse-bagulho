@@ -1,10 +1,10 @@
 {
   "produtos": [
     {
-      "nome": "KIT SHAMPOO V-FLOC CERA TOK FINAL REVITALIZADOR INTENSE 240ML VONIXX PRETINHO VINTEX",
+      "nome": "KIT SHAMPOO V-FLOC CERA TOK FINAL REVITALIZADOR INTENSE 240ML VONIXX P…",
       "preco": "84,58",
       "preco_original": "102,79",
-      "desconto_pct": "18",
+      "desconto_pct": "",
       "nota": "4.8",
       "avaliacoes": "471",
       "url": "https://api.acheiessebagulho.com.br/r/9eb7c7537a?url=https%3A%2F%2Fwww.amazon.com.br%2Fdp%2FB0F9Z3D8TZ%3Ftag%3Dacheiessebagu-20&src=site",
@@ -2740,15 +2740,6 @@
       "avaliacoes": "43,619",
       "url": "https://www.amazon.com.br/dp/B07SBXMSGB?tag=acheiessebagulho-20",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B07SBXMSGB.jpg",
-      "data": "2026-05-29"
-    },
-    {
-      "nome": "KIT SHAMPOO V-FLOC CERA TOK FINAL REVITALIZADOR INTENSE 240ML VONIXX P…",
-      "preco": "92,62",
-      "nota": "4.7",
-      "avaliacoes": "73",
-      "url": "https://www.amazon.com.br/dp/B0F9Z3D8TZ?tag=acheiessebagulho-20",
-      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0F9Z3D8TZ.jpg",
       "data": "2026-05-29"
     },
     {
@@ -16239,6 +16230,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-30T12:18:36.263631",
+  "atualizado": "2026-09-30T12:18:47.661473",
   "_backfill_count": 25
 }
