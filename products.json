@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Hidratante Facial Neutrogena Hydro Boost Water Gel, Refil, 50g | Controle de Oleosidade, Textura Ultraleve, Hidratação Intensa e Prolongada",
+      "preco": "48,88",
+      "preco_original": "79,99",
+      "desconto_pct": "39",
+      "nota": "4.9",
+      "avaliacoes": "12414",
+      "url": "https://api.acheiessebagulho.com.br/r/126af33686?url=https%3A%2F%2Fwww.amazon.com.br%2Fdp%2FB0CB716LLZ%3Ftag%3Dacheiessebagu-20&src=site",
+      "url_afiliado": "https://www.amazon.com.br/dp/B0CB716LLZ?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0CB716LLZ.jpg",
+      "data": "2026-09-29"
+    },
+    {
       "nome": "Filtro/Refil Original de Água Acqua Pure para Purificador Electrolux P…",
       "preco": "76,62",
       "preco_original": "",
@@ -16215,6 +16227,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-29T12:16:32.401199",
+  "atualizado": "2026-09-29T21:19:49.610954",
   "_backfill_count": 25
 }
