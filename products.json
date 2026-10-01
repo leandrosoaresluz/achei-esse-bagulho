@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Fita Manta Asfáltica Auto Adesiva Aluminizada Multiuso  Impermeabilizante 30 cm x 10 mt",
+      "preco": "56,90",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.9",
+      "avaliacoes": "76",
+      "url": "https://api.acheiessebagulho.com.br/r/2d6bab4311?url=https%3A%2F%2Fs.shopee.com.br%2F3LRFW622lW&src=site",
+      "url_afiliado": "https://s.shopee.com.br/3LRFW622lW",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_2d6bab4311.jpg",
+      "data": "2026-09-30"
+    },
+    {
       "nome": "KIT SHAMPOO V-FLOC CERA TOK FINAL REVITALIZADOR INTENSE 240ML VONIXX P…",
       "preco": "84,58",
       "preco_original": "102,79",
@@ -16230,6 +16242,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-09-30T12:18:47.661473",
+  "atualizado": "2026-09-30T21:16:17.240151",
   "_backfill_count": 25
 }
