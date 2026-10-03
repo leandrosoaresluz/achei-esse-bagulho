@@ -1,12 +1,12 @@
 {
   "produtos": [
     {
-      "nome": "Mibee Compressor de ar portátil com inflador de pneu mini com bateria recarregável de 4000 mAh, bomba de pneu sem fio 150 PSI, luz de emergência LED, bomba de ar calibre de pressão para carro bicicleta motocicleta bola inflável",
+      "nome": "Mibee Compressor de ar portátil com inflador de pneu mini com bateria …",
       "preco": "65,00",
       "preco_original": "",
       "desconto_pct": "",
       "nota": "4.5",
-      "avaliacoes": "3410",
+      "avaliacoes": "3,410",
       "url": "https://api.acheiessebagulho.com.br/r/91a1f81f62?url=https%3A%2F%2Fwww.amazon.com.br%2Fdp%2FB0B56Q7BT8%3Ftag%3Dacheiessebagu-20&src=site",
       "url_afiliado": "https://www.amazon.com.br/dp/B0B56Q7BT8?tag=acheiessebagu-20",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0B56Q7BT8.jpg",
@@ -16290,6 +16290,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-10-02T21:13:55.838623",
+  "atualizado": "2026-10-02T21:14:07.555840",
   "_backfill_count": 25
 }
