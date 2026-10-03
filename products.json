@@ -6,7 +6,7 @@
       "preco_original": "",
       "desconto_pct": "",
       "nota": "4.3",
-      "avaliacoes": "7799",
+      "avaliacoes": "7,799",
       "url": "https://api.acheiessebagulho.com.br/r/369a914b64?url=https%3A%2F%2Fwww.amazon.com.br%2Fdp%2FB0HHB2KM34%3Ftag%3Dacheiessebagu-20&src=site",
       "url_afiliado": "https://www.amazon.com.br/dp/B0HHB2KM34?tag=acheiessebagu-20",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0HHB2KM34.jpg",
@@ -16302,6 +16302,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-10-03T12:16:40.588633",
+  "atualizado": "2026-10-03T12:16:48.992249",
   "_backfill_count": 25
 }
