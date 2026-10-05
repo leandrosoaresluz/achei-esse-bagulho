@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Achei Esse Bagulho</title>
+<meta name="robots" content="noindex">
+<meta property="og:title" content="Achei Esse Bagulho">
+<meta property="og:description" content="Os melhores achados da internet!">
+<meta property="og:image" content="https://acheiessebagulho.com.br/logo_ambos2.PNG">
+<meta property="og:url" content="https://acheiessebagulho.com.br/">
+<link rel="canonical" href="https://acheiessebagulho.com.br/">
+<noscript><meta http-equiv="refresh" content="0; url=/"></noscript>
+<script>
+/* [rastreio_bio] conta a visita vinda da bio e segue pro site, sem tela intermediária */
+(function () {
+  var src = "youtube_bio";
+  try {
+    fetch("https://api.acheiessebagulho.com.br/r/" + src + "?src=" + src +
+          "&url=" + encodeURIComponent("https://acheiessebagulho.com.br/"),
+          { mode: "no-cors", keepalive: true, credentials: "omit" });
+  } catch (e) {}
+  try { sessionStorage.setItem("aeb_visita_contada", "1"); } catch (e) {}
+  location.replace("/");
+})();
+</script>
+</head>
+<body style="background:#0f0f14"></body>
+</html>
