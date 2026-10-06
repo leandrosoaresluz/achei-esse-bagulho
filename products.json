@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "GOKOCO Escova Modeladora Térmica 38 mm com Íons Negativos,Bivolt GD037,9 Temperaturas,Aquecimento Rápido PTC,para Cachos,Ondas e Volume,Escova Styler,Branco",
+      "preco": "213,72",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.6",
+      "avaliacoes": "168",
+      "url": "https://api.acheiessebagulho.com.br/r/f6c7873895?url=https%3A%2F%2Fwww.amazon.com.br%2Fdp%2FB0HCZ7QSQM%3Ftag%3Dacheiessebagu-20&src=site",
+      "url_afiliado": "https://www.amazon.com.br/dp/B0HCZ7QSQM?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0HCZ7QSQM.jpg",
+      "data": "2026-10-06"
+    },
+    {
       "nome": "Kit 10 Potes Herméticos de Vidro 370 ml com Tampa e Travas, Retangular…",
       "preco": "59,99",
       "preco_original": "",
@@ -16338,6 +16350,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-10-05T21:14:54.675359",
+  "atualizado": "2026-10-06T12:15:21.384992",
   "_backfill_count": 25
 }
