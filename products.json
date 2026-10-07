@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Spray Colorido Temporário para Cabelo Maluco Carnaval Halloween 150ml …",
+      "preco": "27,90",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "0.0",
+      "avaliacoes": "2,790",
+      "url": "https://api.acheiessebagulho.com.br/r/c46081534b?url=https%3A%2F%2Fwww.amazon.com.br%2Fdp%2FB0HJNXY4M2%3Ftag%3Dacheiessebagu-20&src=site",
+      "url_afiliado": "https://www.amazon.com.br/dp/B0HJNXY4M2?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0HJNXY4M2.jpg",
+      "data": "2026-10-07"
+    },
+    {
       "nome": "Pulseira Elástica Portátil De Pulso De Ciclismo Com De 200ML Garrafa D…",
       "preco": "18,97",
       "preco_original": "",
@@ -16362,6 +16374,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-10-06T21:14:42.879312",
+  "atualizado": "2026-10-07T12:30:09.547981",
   "_backfill_count": 25
 }
