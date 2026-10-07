@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Pulseira Elástica Portátil De Pulso De Ciclismo Com De 200ML Garrafa De Água Esportiva/Acessórios De Abastecimento De Co",
+      "preco": "18,97",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.8",
+      "avaliacoes": "403",
+      "url": "https://api.acheiessebagulho.com.br/r/c544e2124a?url=https%3A%2F%2Fs.shopee.com.br%2F1gJ9VX4ZKT&src=site",
+      "url_afiliado": "https://s.shopee.com.br/1gJ9VX4ZKT",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_c544e2124a.jpg",
+      "data": "2026-10-06"
+    },
+    {
       "nome": "GOKOCO Escova Modeladora Térmica 38 mm com Íons Negativos,Bivolt GD037…",
       "preco": "213,72",
       "preco_original": "",
@@ -16350,6 +16362,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-10-06T12:15:29.197588",
+  "atualizado": "2026-10-06T21:14:34.778468",
   "_backfill_count": 25
 }
