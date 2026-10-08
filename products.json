@@ -1,12 +1,12 @@
 {
   "produtos": [
     {
-      "nome": "Cartucho de tinta HP 667 Preto Original (3YM79AB) Para Impressora Deskjet 2376, 2776, 6476, 5076, 5276",
+      "nome": "Cartucho de tinta HP 667 Preto Original (3YM79AB) Para Impressora Desk…",
       "preco": "65,40",
       "preco_original": "79,90",
-      "desconto_pct": "18",
+      "desconto_pct": "",
       "nota": "4.7",
-      "avaliacoes": "12120",
+      "avaliacoes": "12,120",
       "url": "https://api.acheiessebagulho.com.br/r/5fff9d61b6?url=https%3A%2F%2Fwww.amazon.com.br%2Fdp%2FB08WKPK952%3Ftag%3Dacheiessebagu-20&src=site",
       "url_afiliado": "https://www.amazon.com.br/dp/B08WKPK952?tag=acheiessebagu-20",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B08WKPK952.jpg",
@@ -2977,15 +2977,6 @@
       "avaliacoes": "2",
       "url": "https://www.amazon.com.br/dp/B0GPSV6SFG?tag=acheiessebagulho-20",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0GPSV6SFG.jpg",
-      "data": "2026-05-30"
-    },
-    {
-      "nome": "Cartucho de tinta HP 667 Preto Original (3YM79AB) Para Impressora Desk…",
-      "preco": "81,00",
-      "nota": "4.7",
-      "avaliacoes": "15,503",
-      "url": "https://www.amazon.com.br/dp/B08WKPK952?tag=acheiessebagulho-20",
-      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B08WKPK952.jpg",
       "data": "2026-05-30"
     },
     {
@@ -16386,6 +16377,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-10-07T21:17:46.029303",
+  "atualizado": "2026-10-07T21:17:54.549716",
   "_backfill_count": 25
 }
