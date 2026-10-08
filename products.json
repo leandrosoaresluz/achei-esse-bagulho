@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Extensão Elétrica 3 Tomadas 3 Pinos 2 entradas USB e 2 USB-C – Régua de Tomada para Home Office e Casa, Botão Liga/Desliga Organiza Fios e Carrega Dispositivos.",
+      "preco": "55,00",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.5",
+      "avaliacoes": "2",
+      "url": "https://api.acheiessebagulho.com.br/r/cfb5ac1abb?url=https%3A%2F%2Fwww.amazon.com.br%2Fdp%2FB0H9NPZ8M5%3Ftag%3Dacheiessebagu-20&src=site",
+      "url_afiliado": "https://www.amazon.com.br/dp/B0H9NPZ8M5?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0H9NPZ8M5.jpg",
+      "data": "2026-10-08"
+    },
+    {
       "nome": "Cartucho de tinta HP 667 Preto Original (3YM79AB) Para Impressora Desk…",
       "preco": "65,40",
       "preco_original": "79,90",
@@ -16377,6 +16389,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-10-07T21:17:54.549716",
+  "atualizado": "2026-10-08T12:14:54.615732",
   "_backfill_count": 25
 }
