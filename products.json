@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Capa De Sofá de 2 ou 3 Lugares Texturizada Capa de Poltrona",
+      "preco": "95,00",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.5",
+      "avaliacoes": "10",
+      "url": "https://api.acheiessebagulho.com.br/r/cb7d56d09d?url=https%3A%2F%2Fs.shopee.com.br%2F1B0J6HN0b&src=site",
+      "url_afiliado": "https://s.shopee.com.br/1B0J6HN0b",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_cb7d56d09d.jpg",
+      "data": "2026-10-08"
+    },
+    {
       "nome": "Extensão Elétrica 3 Tomadas 3 Pinos 2 entradas USB e 2 USB-C – Régua d…",
       "preco": "55,00",
       "preco_original": "",
@@ -16389,6 +16401,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-10-08T12:15:18.924549",
+  "atualizado": "2026-10-08T21:13:04.480591",
   "_backfill_count": 25
 }
