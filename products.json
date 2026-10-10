@@ -1,12 +1,12 @@
 {
   "produtos": [
     {
-      "nome": "Electrolux, Pote Hermetico, 12 unidades, A23122901, cinza | BPA Free, Porta Mantimentos",
+      "nome": "Electrolux, Pote Hermetico, 12 unidades, A23122901, cinza | BPA Free, …",
       "preco": "77,80",
       "preco_original": "129,90",
-      "desconto_pct": "40",
+      "desconto_pct": "",
       "nota": "4.9",
-      "avaliacoes": "54057",
+      "avaliacoes": "54,057",
       "url": "https://api.acheiessebagulho.com.br/r/3deea5ca91?url=https%3A%2F%2Fwww.amazon.com.br%2Fdp%2FB09XJL4B9H%3Ftag%3Dacheiessebagu-20&src=site",
       "url_afiliado": "https://www.amazon.com.br/dp/B09XJL4B9H?tag=acheiessebagu-20",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B09XJL4B9H.jpg",
@@ -16414,6 +16414,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-10-09T21:17:52.499317",
+  "atualizado": "2026-10-09T21:18:00.749853",
   "_backfill_count": 25
 }
