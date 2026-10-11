@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Argan Óleo Reparador 50ml , Lola Cosmetics",
+      "preco": "17,17",
+      "preco_original": "44,90",
+      "desconto_pct": "62",
+      "nota": "4.8",
+      "avaliacoes": "48028",
+      "url": "https://api.acheiessebagulho.com.br/r/7534f187c7?url=https%3A%2F%2Fwww.amazon.com.br%2Fdp%2FB07SBXMSGB%3Ftag%3Dacheiessebagu-20&src=site",
+      "url_afiliado": "https://www.amazon.com.br/dp/B07SBXMSGB?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B07SBXMSGB.jpg",
+      "data": "2026-10-11"
+    },
+    {
       "nome": "Fogão de Mesa 4 Bocas Braslar Asiático Bf A Gas Branco Alta Performanc…",
       "preco": "179,20",
       "preco_original": "",
@@ -14139,17 +14151,6 @@
       "data": "2026-07-31"
     },
     {
-      "nome": "Argan Óleo Reparador 50ml , Lola Cosmetics",
-      "preco": "20,83",
-      "preco_original": "44,90",
-      "desconto_pct": "54",
-      "nota": "4.8",
-      "avaliacoes": "46138",
-      "url": "https://www.amazon.com.br/dp/B07SBXMSGB?tag=acheiessebagu-20",
-      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B07SBXMSGB.jpg",
-      "data": "2026-08-01"
-    },
-    {
       "nome": "Kit 3 Cropped Feminino Regata Alcinha Suplex Premium Forro Duplo Sem Transparência Casual Verão",
       "preco": "41,99",
       "preco_original": "",
@@ -16438,6 +16439,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-10-10T21:13:46.059443",
+  "atualizado": "2026-10-11T12:17:25.233220",
   "_backfill_count": 25
 }
