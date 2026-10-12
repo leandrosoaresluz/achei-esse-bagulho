@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "ELG, F80N, Suporte Articulado de Mesa, Pistão a Gás, Design Compacto e Retrátil, Ergonômico, Monitores 17'' a 35'', 2kg a 9kg, Preto",
+      "preco": "129,99",
+      "preco_original": "222,54",
+      "desconto_pct": "42",
+      "nota": "4.9",
+      "avaliacoes": "37891",
+      "url": "https://api.acheiessebagulho.com.br/r/c069b979e6?url=https%3A%2F%2Fwww.amazon.com.br%2Fdp%2FB0765KZ264%3Ftag%3Dacheiessebagu-20&src=site",
+      "url_afiliado": "https://www.amazon.com.br/dp/B0765KZ264?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0765KZ264.jpg",
+      "data": "2026-10-11"
+    },
+    {
       "nome": "Argan Óleo Reparador 50ml , Lola Cosmetics",
       "preco": "17,17",
       "preco_original": "44,90",
@@ -16439,6 +16451,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-10-11T12:17:32.813378",
+  "atualizado": "2026-10-11T21:17:17.360449",
   "_backfill_count": 25
 }
