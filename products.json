@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Lava Roupas Lavanderia Pro Líquido 7L Omo",
+      "preco": "147,04",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "5.0",
+      "avaliacoes": "41878",
+      "url": "https://api.acheiessebagulho.com.br/r/1e490e835d?url=https%3A%2F%2Fs.shopee.com.br%2F9KilnorvAO&src=site",
+      "url_afiliado": "https://s.shopee.com.br/9KilnorvAO",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_1e490e835d.jpg",
+      "data": "2026-10-13"
+    },
+    {
       "nome": "ELG, F80N, Suporte Articulado de Mesa, Pistão a Gás, Design Compacto e…",
       "preco": "129,99",
       "preco_original": "222,54",
@@ -16442,6 +16454,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-10-11T21:17:25.517542",
+  "atualizado": "2026-10-13T12:13:12.286668",
   "_backfill_count": 25
 }
