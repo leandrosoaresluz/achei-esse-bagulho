@@ -7,7 +7,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
 
   <!-- Google Analytics — substitua G-XXXXXXXXXX pelo seu Measurement ID -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=817X3K1PBR"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXX"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
@@ -502,13 +502,14 @@
 
     // ── Busca ──────────────────────────────────────────────
     let termoBusca = '';
+    let heroAtivo = false;  // [hero_ultimo_video] 1º produto já está no destaque
     let todosFiltrados = [];
 
     function filtrar(termo) {
       termoBusca = termo.toLowerCase().trim();
       todosFiltrados = termoBusca
         ? todos.filter(p => p.nome.toLowerCase().includes(termoBusca))
-        : todos;
+        : (heroAtivo ? todos.slice(1) : todos);
 
       const count = todosFiltrados.length;
       document.getElementById('contagem').textContent =
@@ -574,7 +575,7 @@
     }
     function mostrarHero(p) {
       const hero = document.getElementById('hero');
-      if (!hero || !p || !p.url) return;
+      if (!hero || !p || !p.url) return false;
       const img = p.imagem
         ? `<img class="hero-img" src="${esc(p.imagem)}" alt="" onerror="this.remove()">` : '';
       hero.innerHTML = `
@@ -584,11 +585,12 @@
           <div class="hero-body">
             <div class="hero-name">${esc(p.nome)}</div>
             ${p.preco ? `<div class="hero-price">R$ ${esc(p.preco)}</div>` : ''}
-            <a href="${esc(p.url)}" class="hero-btn" target="_blank" rel="noopener">Ver na loja →</a>
+            <a href="${esc(String(p.url).replace(/([?&])src=site(?=&|$)/, '$1src=site_hero'))}" class="hero-btn" target="_blank" rel="noopener">Ver na loja →</a>
           </div>
         </div>
         <div class="hero-mais">Viu outro produto num vídeo antigo? Busque abaixo 👇</div>`;
       hero.hidden = false;
+      return true;
     }
 
     async function init() {
@@ -603,8 +605,8 @@
         }
 
         todos = [...data.produtos];
-        mostrarHero(todos[0]);  // [hero_ultimo_video]
-        todosFiltrados = todos;
+        heroAtivo = mostrarHero(todos[0]);  // [hero_ultimo_video]
+        todosFiltrados = heroAtivo ? todos.slice(1) : todos;
         document.getElementById('contagem').textContent = todos.length + ' ofertas';
 
         grid.innerHTML = '';
@@ -632,7 +634,7 @@
     function recarregar() {
       const btn = document.getElementById('btn-refresh');
       btn.classList.add('girando');
-      todos = []; todosFiltrados = []; pagina = 0; acabou = false; carregando = false;
+      todos = []; todosFiltrados = []; pagina = 0; acabou = false; carregando = false; heroAtivo = false;
       document.getElementById('grid').innerHTML = '<div class="loader"><span></span><span></span><span></span></div>';
       document.getElementById('busca').value = '';
       termoBusca = '';
