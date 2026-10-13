@@ -1,10 +1,10 @@
 {
   "produtos": [
     {
-      "nome": "Escorredor de Louças 2 Andares Aço com Revestimento Inoxidavel com Porta Talher, Porta Tabua, Suporte Para Copos, Bandeja e Drenagem Automatica 360°, Preto - Hiper Casa Megastore",
+      "nome": "Escorredor de Louças 2 Andares Aço com Revestimento Inoxidavel com Por…",
       "preco": "74,86",
       "preco_original": "89,90",
-      "desconto_pct": "17",
+      "desconto_pct": "",
       "nota": "4.8",
       "avaliacoes": "6",
       "url": "https://api.acheiessebagulho.com.br/r/0b2c40c11f?url=https%3A%2F%2Fwww.amazon.com.br%2Fdp%2FB0HFGS4DCZ%3Ftag%3Dacheiessebagu-20&src=site",
@@ -16466,6 +16466,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-10-13T20:13:17.817736",
+  "atualizado": "2026-10-13T20:13:44.315476",
   "_backfill_count": 25
 }
