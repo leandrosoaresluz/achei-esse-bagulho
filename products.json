@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Gorro De Cabelo Extra Longo De Cetim , Botão Elástico Largo , Touca De Dormir , Tubo Scrunchie , Envoltório Para Cabelos",
+      "preco": "11,99",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.8",
+      "avaliacoes": "784",
+      "url": "https://api.acheiessebagulho.com.br/r/9fd5410fb2?url=https%3A%2F%2Fs.shopee.com.br%2FLo0H3R88H&src=site",
+      "url_afiliado": "https://s.shopee.com.br/Lo0H3R88H",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_9fd5410fb2.jpg",
+      "data": "2026-10-14"
+    },
+    {
       "nome": "Oral-B Escova de Dente Sensitive Purification Gold Extra Macia 4 Unida…",
       "preco": "57,69",
       "preco_original": "",
@@ -16490,6 +16502,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-10-14T12:15:54.999034",
+  "atualizado": "2026-10-14T20:14:30.024123",
   "_backfill_count": 25
 }
