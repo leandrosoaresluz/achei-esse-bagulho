@@ -1,12 +1,12 @@
 {
   "produtos": [
     {
-      "nome": "Oral-B Escova de Dente Sensitive Purification Gold Extra Macia 4 Unidades",
+      "nome": "Oral-B Escova de Dente Sensitive Purification Gold Extra Macia 4 Unida…",
       "preco": "57,69",
       "preco_original": "",
       "desconto_pct": "",
       "nota": "4.8",
-      "avaliacoes": "12292",
+      "avaliacoes": "12,292",
       "url": "https://api.acheiessebagulho.com.br/r/1df5ddd475?url=https%3A%2F%2Fwww.amazon.com.br%2Fdp%2FB08PFT7QV4%3Ftag%3Dacheiessebagu-20&src=site",
       "url_afiliado": "https://www.amazon.com.br/dp/B08PFT7QV4?tag=acheiessebagu-20",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B08PFT7QV4.jpg",
@@ -16490,6 +16490,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-10-14T12:15:46.917321",
+  "atualizado": "2026-10-14T12:15:54.999034",
   "_backfill_count": 25
 }
