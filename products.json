@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "SCOTCH 3M Fita Dupla-face Fixa Forte Extrema 24 mm x 2 m 1 Unidade | Suporta até 5 kg por 20 cm, Fixação Permanente, Ideal para Objetos Mais Pesados, Substitui Pregos e Parafusos",
+      "preco": "23,64",
+      "preco_original": "28,00",
+      "desconto_pct": "16",
+      "nota": "4.7",
+      "avaliacoes": "21540",
+      "url": "https://api.acheiessebagulho.com.br/r/bd86245892?url=https%3A%2F%2Fwww.amazon.com.br%2Fdp%2FB0779BRVVS%3Ftag%3Dacheiessebagu-20&src=site",
+      "url_afiliado": "https://www.amazon.com.br/dp/B0779BRVVS?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0779BRVVS.jpg",
+      "data": "2026-10-15"
+    },
+    {
       "nome": "Bolsa De Lona De Grande Capacidade Feminina Primavera E Verão Moda Nov…",
       "preco": "31,99",
       "preco_original": "",
@@ -16514,6 +16526,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-10-15T08:12:37.933968",
+  "atualizado": "2026-10-15T12:15:30.594932",
   "_backfill_count": 25
 }
