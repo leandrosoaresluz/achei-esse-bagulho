@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Forminha Coração Fechar Pastel Fogaça Risole Salgados",
+      "preco": "14,99",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.9",
+      "avaliacoes": "262",
+      "url": "https://api.acheiessebagulho.com.br/r/d5f25bf5bf?url=https%3A%2F%2Fs.shopee.com.br%2F1BBTLfZ6H&src=site",
+      "url_afiliado": "https://s.shopee.com.br/1BBTLfZ6H",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_d5f25bf5bf.jpg",
+      "data": "2026-10-15"
+    },
+    {
       "nome": "SCOTCH 3M Fita Dupla-face Fixa Forte Extrema 24 mm x 2 m 1 Unidade | S…",
       "preco": "23,64",
       "preco_original": "28,00",
@@ -16526,6 +16538,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-10-15T12:15:56.727341",
+  "atualizado": "2026-10-15T20:12:46.561972",
   "_backfill_count": 25
 }
