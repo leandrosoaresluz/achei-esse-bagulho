@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Chinelo Feminino Conforto Nuvem Ortopédico para Caminhadas Leves",
+      "preco": "19,90",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.8",
+      "avaliacoes": "1604",
+      "url": "https://api.acheiessebagulho.com.br/r/3f23d2b77b?url=https%3A%2F%2Fs.shopee.com.br%2F80DT03Suk3&src=site",
+      "url_afiliado": "https://s.shopee.com.br/80DT03Suk3",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_3f23d2b77b.jpg",
+      "data": "2026-10-16"
+    },
+    {
       "nome": "Forminha Coração Fechar Pastel Fogaça Risole Salgados",
       "preco": "14,99",
       "preco_original": "",
@@ -16538,6 +16550,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-10-15T20:12:54.553464",
+  "atualizado": "2026-10-16T08:13:30.674652",
   "_backfill_count": 25
 }
