@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "EXCLUSIVIDADE Estante Armário Multiuso Torre Quente Cozinha Panelas Air Fryer Organizador Prateleira Sala Banheiro Rodas",
+      "preco": "289,99",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.8",
+      "avaliacoes": "64",
+      "url": "https://api.acheiessebagulho.com.br/r/81d33ef429?url=https%3A%2F%2Fs.shopee.com.br%2F3LRf2LGWHV&src=site",
+      "url_afiliado": "https://s.shopee.com.br/3LRf2LGWHV",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_81d33ef429.jpg",
+      "data": "2026-10-16"
+    },
+    {
       "nome": "Tomada Inteligente Wi-Fi 16A Bivolt Smart Plug 2.4GHz Smart Life Contr…",
       "preco": "31,90",
       "preco_original": "",
@@ -16562,6 +16574,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-10-16T12:12:41.751033",
+  "atualizado": "2026-10-16T20:13:15.744155",
   "_backfill_count": 25
 }
