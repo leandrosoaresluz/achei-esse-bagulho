@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Tomada Inteligente Wi-Fi 16A Bivolt Smart Plug 2.4GHz Smart Life Controle Pelo App Para Automação Residencial Casa Inteligente - Linha Premium",
+      "preco": "31,90",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "5.0",
+      "avaliacoes": "2",
+      "url": "https://api.acheiessebagulho.com.br/r/cb3d56f510?url=https%3A%2F%2Fwww.amazon.com.br%2Fdp%2FB0HKQRKQZK%3Ftag%3Dacheiessebagu-20&src=site",
+      "url_afiliado": "https://www.amazon.com.br/dp/B0HKQRKQZK?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0HKQRKQZK.jpg",
+      "data": "2026-10-16"
+    },
+    {
       "nome": "Chinelo Feminino Conforto Nuvem Ortopédico para Caminhadas Leves",
       "preco": "19,90",
       "preco_original": "",
@@ -16550,6 +16562,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-10-16T08:13:38.069273",
+  "atualizado": "2026-10-16T12:12:33.693418",
   "_backfill_count": 25
 }
