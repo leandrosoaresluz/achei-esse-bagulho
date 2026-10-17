@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Mouse Pad Grande Antiderrapante Premium Diversas Estampas Tema Atalho Software Excel Português  Entre Outros",
+      "preco": "19,99",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.9",
+      "avaliacoes": "999",
+      "url": "https://api.acheiessebagulho.com.br/r/de3380859f?url=https%3A%2F%2Fs.shopee.com.br%2F6fi84R67FD&src=site",
+      "url_afiliado": "https://s.shopee.com.br/6fi84R67FD",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_de3380859f.jpg",
+      "data": "2026-10-17"
+    },
+    {
       "nome": "EXCLUSIVIDADE Estante Armário Multiuso Torre Quente Cozinha Panelas Ai…",
       "preco": "289,99",
       "preco_original": "",
@@ -16574,6 +16586,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-10-16T20:13:24.097154",
+  "atualizado": "2026-10-17T08:15:32.713640",
   "_backfill_count": 25
 }
