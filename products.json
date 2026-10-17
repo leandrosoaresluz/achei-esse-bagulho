@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Tampa silicone girassol para ralo do banheiro veda bem e impede odores ruins do esgoto",
+      "preco": "11,90",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.7",
+      "avaliacoes": "21",
+      "url": "https://api.acheiessebagulho.com.br/r/b799240b56?url=https%3A%2F%2Fs.shopee.com.br%2F5LChp9Pf1y&src=site",
+      "url_afiliado": "https://s.shopee.com.br/5LChp9Pf1y",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_b799240b56.jpg",
+      "data": "2026-10-17"
+    },
+    {
       "nome": "Jogo de Soquete Kit com 46 peças Ferramentas Chave Catraca Conjunto de…",
       "preco": "23,90",
       "preco_original": "",
@@ -16587,6 +16599,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-10-17T12:12:26.023349",
+  "atualizado": "2026-10-17T20:13:55.221433",
   "_backfill_count": 25
 }
