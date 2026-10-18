@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "NOVO Robôt Aspirador Xiaomi S40 Bivolt 10000Pa | Mapeamento Laser LDS | Passa Pano App Alexa | Super Potente",
+      "preco": "1339,90",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "5.0",
+      "avaliacoes": "150",
+      "url": "https://api.acheiessebagulho.com.br/r/40585d48bb?url=https%3A%2F%2Fs.shopee.com.br%2FqkNFYHJCF&src=site",
+      "url_afiliado": "https://s.shopee.com.br/qkNFYHJCF",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_40585d48bb.jpg",
+      "data": "2026-10-18"
+    },
+    {
       "nome": "Sérum Hidratante Corporal Para Pele com Tom Irregular 48h de Hidrataçã…",
       "preco": "29,99",
       "preco_original": "47,24",
@@ -16623,6 +16635,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-10-18T12:16:06.272029",
+  "atualizado": "2026-10-18T20:12:23.962933",
   "_backfill_count": 25
 }
