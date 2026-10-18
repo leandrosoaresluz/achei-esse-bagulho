@@ -1,8 +1,8 @@
 {
   "produtos": [
     {
-      "nome": "NOVO Robôt Aspirador Xiaomi S40 Bivolt 10000Pa | Mapeamento Laser LDS | Passa Pano App Alexa | Super Potente",
-      "preco": "1339,90",
+      "nome": "NOVO Robôt Aspirador Xiaomi S40 Bivolt 10000Pa | Mapeamento Laser LDS …",
+      "preco": "1.339,90",
       "preco_original": "",
       "desconto_pct": "",
       "nota": "5.0",
@@ -16635,6 +16635,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-10-18T20:12:23.962933",
+  "atualizado": "2026-10-18T20:12:31.049671",
   "_backfill_count": 25
 }
