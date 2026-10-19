@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Tênis De Corrida Placa De Carbono CHUNTA , Malha Respirável , Absorção De Choque , Profissional Unissex Para Treinamento",
+      "preco": "147,00",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.9",
+      "avaliacoes": "4912",
+      "url": "https://api.acheiessebagulho.com.br/r/3139727c61?url=https%3A%2F%2Fs.shopee.com.br%2FLo8FX67D1&src=site",
+      "url_afiliado": "https://s.shopee.com.br/Lo8FX67D1",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_3139727c61.jpg",
+      "data": "2026-10-19"
+    },
+    {
       "nome": "Câmera de Segurança Wi-Fi Inteligente, Visão Noturna, Rotação Horizont…",
       "preco": "58,90",
       "preco_original": "",
@@ -16659,6 +16671,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-10-19T12:14:55.957016",
+  "atualizado": "2026-10-19T20:13:23.691447",
   "_backfill_count": 25
 }
