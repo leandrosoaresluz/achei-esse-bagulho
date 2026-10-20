@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Kit Halteres Ajustáveis 6 em 1 com Barra Extensora Kettlebell Pesos até 15kg Musculação Academia Treino em Casa Modelo Premium",
+      "preco": "147,15",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "5.0",
+      "avaliacoes": "5",
+      "url": "https://api.acheiessebagulho.com.br/r/24b789512e?url=https%3A%2F%2Fwww.amazon.com.br%2Fdp%2FB0HL1PV57Y%3Ftag%3Dacheiessebagu-20&src=site",
+      "url_afiliado": "https://www.amazon.com.br/dp/B0HL1PV57Y?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0HL1PV57Y.jpg",
+      "data": "2026-10-20"
+    },
+    {
       "nome": "Robô Xiaomi S40 Pro Com Mapeamento Inteligente e Auto Limpeza",
       "preco": "1.947,00",
       "preco_original": "",
@@ -16683,6 +16695,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-10-20T08:14:03.443401",
+  "atualizado": "2026-10-20T12:12:54.541269",
   "_backfill_count": 25
 }
