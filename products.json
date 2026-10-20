@@ -2,7 +2,7 @@
   "produtos": [
     {
       "nome": "Robô Xiaomi S40 Pro Com Mapeamento Inteligente e Auto Limpeza",
-      "preco": "1947,00",
+      "preco": "1.947,00",
       "preco_original": "",
       "desconto_pct": "",
       "nota": "4.9",
@@ -16683,6 +16683,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-10-20T08:13:55.748258",
+  "atualizado": "2026-10-20T08:14:03.443401",
   "_backfill_count": 25
 }
