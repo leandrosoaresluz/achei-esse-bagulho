@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Robô Xiaomi S40 Pro Com Mapeamento Inteligente e Auto Limpeza",
+      "preco": "1947,00",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.9",
+      "avaliacoes": "261",
+      "url": "https://api.acheiessebagulho.com.br/r/5b857ddc59?url=https%3A%2F%2Fs.shopee.com.br%2F8KqPmEg3mm&src=site",
+      "url_afiliado": "https://s.shopee.com.br/8KqPmEg3mm",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_5b857ddc59.jpg",
+      "data": "2026-10-20"
+    },
+    {
       "nome": "Tênis De Corrida Placa De Carbono CHUNTA , Malha Respirável , Absorção…",
       "preco": "147,00",
       "preco_original": "",
@@ -16671,6 +16683,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-10-19T20:13:31.666822",
+  "atualizado": "2026-10-20T08:13:55.748258",
   "_backfill_count": 25
 }
