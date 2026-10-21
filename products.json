@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Rímel Máscara de Cílios A Prova d'Água Volume Extremo Curvatura Alongador Preto Longa Duração Maquiagem Febella",
+      "preco": "12,99",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.8",
+      "avaliacoes": "36",
+      "url": "https://api.acheiessebagulho.com.br/r/4cd002a597?url=https%3A%2F%2Fs.shopee.com.br%2F80Dc2RxvUy&src=site",
+      "url_afiliado": "https://s.shopee.com.br/80Dc2RxvUy",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_4cd002a597.jpg",
+      "data": "2026-10-21"
+    },
+    {
       "nome": "Moedor de especiarias elétrico 110V/220V, com 4 lâminas de aço inoxidá…",
       "preco": "38,59",
       "preco_original": "",
@@ -16707,6 +16719,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-10-20T20:13:38.068915",
+  "atualizado": "2026-10-21T08:13:30.539423",
   "_backfill_count": 25
 }
