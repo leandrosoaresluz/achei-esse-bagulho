@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "WAP Aspirador de Pó Automotivo Car 12V2, Portátil, 420ml, com Recipiente Removível e Filtro Lavável, 180W 12VDC",
+      "preco": "81,05",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.4",
+      "avaliacoes": "5058",
+      "url": "https://api.acheiessebagulho.com.br/r/47fbf1bdca?url=https%3A%2F%2Fwww.amazon.com.br%2Fdp%2FB0CLDRS18S%3Ftag%3Dacheiessebagu-20&src=site",
+      "url_afiliado": "https://www.amazon.com.br/dp/B0CLDRS18S?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0CLDRS18S.jpg",
+      "data": "2026-10-22"
+    },
+    {
       "nome": "9 ㎡/KIT 50 Placa Adesiva 3d Mármore De Parede Relevo Lavável 30cm X 60…",
       "preco": "176,99",
       "preco_original": "",
@@ -15435,17 +15447,6 @@
       "data": "2026-08-09"
     },
     {
-      "nome": "WAP Aspirador de Pó Automotivo Car 12V2, Portátil, 420ml, com Recipiente Removível e Filtro Lavável, 180W 12VDC",
-      "preco": "96,42",
-      "preco_original": "119,90",
-      "desconto_pct": "20",
-      "nota": "4.4",
-      "avaliacoes": "4732",
-      "url": "https://www.amazon.com.br/dp/B0CLDRS18S?tag=acheiessebagu-20",
-      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0CLDRS18S.jpg",
-      "data": "2026-08-09"
-    },
-    {
       "nome": "Kit 50 ou 100 Un Tapete Higiênico Para Cães De Qualidade 60x50cm Cachorros",
       "preco": "54,90",
       "preco_original": "",
@@ -16755,6 +16756,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-10-22T08:15:05.810827",
+  "atualizado": "2026-10-22T12:14:48.100656",
   "_backfill_count": 25
 }
