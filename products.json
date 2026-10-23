@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Fone de Ouvido Bluetooth Clip-on, Basike Ba-T20, Condução Óssea (Roxo) | Sem Fio Open Ear-Clip, Certificação Hi-Res, ENC para Chamadas, IPX6, Bateria de Longa Duração e Conexão Multiponto",
+      "preco": "208,05",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "5.0",
+      "avaliacoes": "20805",
+      "url": "https://api.acheiessebagulho.com.br/r/6ffe6a4035?url=https%3A%2F%2Fwww.amazon.com.br%2Fdp%2FB0HJ5QJVMM%3Ftag%3Dacheiessebagu-20&src=site",
+      "url_afiliado": "https://www.amazon.com.br/dp/B0HJ5QJVMM?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0HJ5QJVMM.jpg",
+      "data": "2026-10-23"
+    },
+    {
       "nome": "Pistola Elétrica Pulverizadora de Tinta para Pintura Compressor Com Bi…",
       "preco": "149,90",
       "preco_original": "",
@@ -16780,6 +16792,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-10-23T08:14:08.464029",
+  "atualizado": "2026-10-23T12:13:22.842344",
   "_backfill_count": 25
 }
