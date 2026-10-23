@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Vassoura Mágica 3 em 1 Varre Coleta e Esfregão Giratório Manual  Sem Fio p/ Limpeza Pesada Piso Frio Madeira",
+      "preco": "69,98",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.6",
+      "avaliacoes": "325",
+      "url": "https://api.acheiessebagulho.com.br/r/951edc3647?url=https%3A%2F%2Fs.shopee.com.br%2F4qGdzLdbx6&src=site",
+      "url_afiliado": "https://s.shopee.com.br/4qGdzLdbx6",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_951edc3647.jpg",
+      "data": "2026-10-23"
+    },
+    {
       "nome": "Fone de Ouvido Bluetooth Clip-on, Basike Ba-T20, Condução Óssea (Roxo)…",
       "preco": "208,05",
       "preco_original": "",
@@ -16792,6 +16804,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-10-23T12:13:31.419945",
+  "atualizado": "2026-10-23T20:13:49.790514",
   "_backfill_count": 25
 }
