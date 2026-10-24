@@ -1,12 +1,12 @@
 {
   "produtos": [
     {
-      "nome": "L'Oréal Paris Elseve Óleo Extraordinário Finalizador Capilar, Nutrição Profunda com 6 Óleos Preciosos, Anti-Frizz, Proteção Térmica até 230°C, Brilho Intenso para Todos os Tipos de Cabelo, 100ml",
+      "nome": "L'Oréal Paris Elseve Óleo Extraordinário Finalizador Capilar, Nutrição…",
       "preco": "33,90",
       "preco_original": "49,90",
-      "desconto_pct": "32",
+      "desconto_pct": "",
       "nota": "4.8",
-      "avaliacoes": "122860",
+      "avaliacoes": "122,860",
       "url": "https://api.acheiessebagulho.com.br/r/6b9b376300?url=https%3A%2F%2Fwww.amazon.com.br%2Fdp%2FB07H113TPQ%3Ftag%3Dacheiessebagu-20&src=site",
       "url_afiliado": "https://www.amazon.com.br/dp/B07H113TPQ?tag=acheiessebagu-20",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B07H113TPQ.jpg",
@@ -3461,15 +3461,6 @@
       "avaliacoes": "2",
       "url": "https://www.amazon.com.br/dp/B0GPSV6SFG?tag=acheiessebagulho-20",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0GPSV6SFG.jpg",
-      "data": "2026-05-30"
-    },
-    {
-      "nome": "L'Oréal Paris Elseve Óleo Extraordinário Finalizador Capilar, Nutrição…",
-      "preco": "35,98",
-      "nota": "4.8",
-      "avaliacoes": "116,252",
-      "url": "https://www.amazon.com.br/dp/B07H113TPQ?tag=acheiessebagulho-20",
-      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B07H113TPQ.jpg",
       "data": "2026-05-30"
     },
     {
@@ -16817,6 +16808,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-10-24T12:20:00.065771",
+  "atualizado": "2026-10-24T12:20:07.382476",
   "_backfill_count": 25
 }
