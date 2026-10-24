@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "L'Oréal Paris Elseve Óleo Extraordinário Finalizador Capilar, Nutrição Profunda com 6 Óleos Preciosos, Anti-Frizz, Proteção Térmica até 230°C, Brilho Intenso para Todos os Tipos de Cabelo, 100ml",
+      "preco": "33,90",
+      "preco_original": "49,90",
+      "desconto_pct": "32",
+      "nota": "4.8",
+      "avaliacoes": "122860",
+      "url": "https://api.acheiessebagulho.com.br/r/6b9b376300?url=https%3A%2F%2Fwww.amazon.com.br%2Fdp%2FB07H113TPQ%3Ftag%3Dacheiessebagu-20&src=site",
+      "url_afiliado": "https://www.amazon.com.br/dp/B07H113TPQ?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B07H113TPQ.jpg",
+      "data": "2026-10-24"
+    },
+    {
       "nome": "joias abraço de mãe e filho elegantes, presentes especiais para mulher…",
       "preco": "26,99",
       "preco_original": "",
@@ -14440,17 +14452,6 @@
       "data": "2026-07-31"
     },
     {
-      "nome": "L'Oréal Paris Elseve Óleo Extraordinário Finalizador Capilar, Nutrição Profunda com 6 Óleos Preciosos, Anti-Frizz, Proteção Térmica até 230°C, Brilho Intenso para Todos os Tipos de Cabelo, 100ml",
-      "preco": "32,54",
-      "preco_original": "49,90",
-      "desconto_pct": "35",
-      "nota": "4.8",
-      "avaliacoes": "119935",
-      "url": "https://www.amazon.com.br/dp/B07H113TPQ?tag=acheiessebagu-20",
-      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B07H113TPQ.jpg",
-      "data": "2026-07-31"
-    },
-    {
       "nome": "Kit 4 Capas de Almofada 40x40 cm Suede Premium Decorativa Luxo para So…",
       "preco": "34,99",
       "preco_original": "",
@@ -16816,6 +16817,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-10-24T08:13:38.619989",
+  "atualizado": "2026-10-24T12:20:00.065771",
   "_backfill_count": 25
 }
