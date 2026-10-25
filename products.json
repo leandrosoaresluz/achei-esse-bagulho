@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Kit 2 Lâmpada Spot Sensor Presença Indução Inteligente Branco Frio E Branco Quente Recarregável Por USB",
+      "preco": "21,99",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.7",
+      "avaliacoes": "92",
+      "url": "https://api.acheiessebagulho.com.br/r/17636c0f77?url=https%3A%2F%2Fs.shopee.com.br%2F1BNOoNfJgY&src=site",
+      "url_afiliado": "https://s.shopee.com.br/1BNOoNfJgY",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_17636c0f77.jpg",
+      "data": "2026-10-25"
+    },
+    {
       "nome": "Brilhante Limpeza Total - Lava Roupas Líquido 3L",
       "preco": "23,98",
       "preco_original": "39,99",
@@ -16833,6 +16845,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-10-25T12:18:41.519410",
+  "atualizado": "2026-10-25T20:13:33.392779",
   "_backfill_count": 25
 }
