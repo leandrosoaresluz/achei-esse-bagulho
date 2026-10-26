@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Kit 6 Pares Meia Cano Médio Alto Atoalhada Esportiva Algodão Masculina Feminina Unissex Adulto Academia Dia a Dia Puma",
+      "preco": "64,89",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.8",
+      "avaliacoes": "2630",
+      "url": "https://api.acheiessebagulho.com.br/r/bb1bd89f43?url=https%3A%2F%2Fwww.amazon.com.br%2Fdp%2FB0BVBTV8GG%3Ftag%3Dacheiessebagu-20&src=site",
+      "url_afiliado": "https://www.amazon.com.br/dp/B0BVBTV8GG?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0BVBTV8GG.jpg",
+      "data": "2026-10-26"
+    },
+    {
       "nome": "Aromatizador de Ambiente e Varetas Refil 1 Litro ou 500 ml varios arom…",
       "preco": "19,74",
       "preco_original": "",
@@ -5945,17 +5957,6 @@
       "data": "2026-06-09"
     },
     {
-      "nome": "Kit 6 Pares Meia Cano Médio Alto Atoalhada Esportiva Algodão Masculina Feminina Unissex Adulto Academia Dia a Dia Puma",
-      "preco": "64,99",
-      "preco_original": "",
-      "desconto_pct": "",
-      "nota": "4.8",
-      "avaliacoes": "2033",
-      "url": "https://www.amazon.com.br/dp/B0BVG5XL4N?tag=acheiessebagulho-20",
-      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0BVG5XL4N.jpg",
-      "data": "2026-06-09"
-    },
-    {
       "nome": "Noites Brancas - Edição de Luxo Almofadada",
       "preco": "34,83",
       "preco_original": "59,90",
@@ -8076,17 +8077,6 @@
       "avaliacoes": "1202",
       "url": "https://s.shopee.com.br/60PJLgjTT1",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_0112d24957.jpg",
-      "data": "2026-06-17"
-    },
-    {
-      "nome": "Kit 6 Pares Meia Cano Médio Alto Atoalhada Esportiva Algodão Masculina Feminina Unissex Adulto Academia Dia a Dia Puma",
-      "preco": "62,90",
-      "preco_original": "",
-      "desconto_pct": "",
-      "nota": "4.8",
-      "avaliacoes": "2089",
-      "url": "https://www.amazon.com.br/dp/B0CC2PXTPG?tag=acheiesseba0c-20",
-      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0CC2PXTPG.jpg",
       "data": "2026-06-17"
     },
     {
@@ -16857,6 +16847,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-10-26T08:14:54.139019",
+  "atualizado": "2026-10-26T12:13:07.505188",
   "_backfill_count": 25
 }
