@@ -1,10 +1,10 @@
 {
   "produtos": [
     {
-      "nome": "Forma de Gelo Silicone com Tampa Kit 4 Unidades Forminha 14 Cubos Flexível | Empilhável Silicone BPA FREE - Alimentos Frutas Papinhas Gelo Drinks Bebidas",
+      "nome": "Forma de Gelo Silicone com Tampa Kit 4 Unidades Forminha 14 Cubos Flex…",
       "preco": "18,90",
       "preco_original": "23,90",
-      "desconto_pct": "21",
+      "desconto_pct": "",
       "nota": "5.0",
       "avaliacoes": "3",
       "url": "https://api.acheiessebagulho.com.br/r/4f2d223f05?url=https%3A%2F%2Fwww.amazon.com.br%2Fdp%2FB0HKL8GPHV%3Ftag%3Dacheiessebagu-20&src=site",
@@ -16883,6 +16883,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-10-27T12:14:15.733035",
+  "atualizado": "2026-10-27T12:14:26.318503",
   "_backfill_count": 25
 }
