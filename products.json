@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Multiuso Guarda-Roupa De Solteiro -Cedro/Ônix Modelo Clean  4 Portas 6 Nichos Direto Da Fábrica Com Envio Imediato",
+      "preco": "270,90",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.7",
+      "avaliacoes": "590",
+      "url": "https://api.acheiessebagulho.com.br/r/03b5055d53?url=https%3A%2F%2Fs.shopee.com.br%2F3VlLBZwf2e&src=site",
+      "url_afiliado": "https://s.shopee.com.br/3VlLBZwf2e",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_03b5055d53.jpg",
+      "data": "2026-10-27"
+    },
+    {
       "nome": "Amarrador Suporte Sapo silicone Planta Jardim Orquidia Decoração caule…",
       "preco": "19,50",
       "preco_original": "",
@@ -16859,6 +16871,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-10-26T20:14:14.681289",
+  "atualizado": "2026-10-27T08:15:05.664493",
   "_backfill_count": 25
 }
