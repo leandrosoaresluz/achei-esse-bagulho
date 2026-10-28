@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Filtro de Café Individual para Copo – Prático e Reutilizável",
+      "preco": "15,75",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.9",
+      "avaliacoes": "512",
+      "url": "https://api.acheiessebagulho.com.br/r/3a58d46d26?url=https%3A%2F%2Fs.shopee.com.br%2F30p7Vyc6Va&src=site",
+      "url_afiliado": "https://s.shopee.com.br/30p7Vyc6Va",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_3a58d46d26.jpg",
+      "data": "2026-10-28"
+    },
+    {
       "nome": "Processador de 1.5L com Três Lâminas e Trava de Segurança, Uso Manual",
       "preco": "25,99",
       "preco_original": "",
@@ -16907,6 +16919,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-10-28T08:13:57.497416",
+  "atualizado": "2026-10-28T12:14:51.601158",
   "_backfill_count": 25
 }
