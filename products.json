@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Processador de 1.5L com Três Lâminas e Trava de Segurança, Uso Manual",
+      "preco": "25,99",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.8",
+      "avaliacoes": "221",
+      "url": "https://api.acheiessebagulho.com.br/r/743d0660ce?url=https%3A%2F%2Fs.shopee.com.br%2F60SgAB4wsu&src=site",
+      "url_afiliado": "https://s.shopee.com.br/60SgAB4wsu",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_743d0660ce.jpg",
+      "data": "2026-10-28"
+    },
+    {
       "nome": "Cinto de Segurança para Crianças, Almofada Anti-Estrangulamento para B…",
       "preco": "80,90",
       "preco_original": "",
@@ -16895,6 +16907,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-10-27T20:13:41.183500",
+  "atualizado": "2026-10-28T08:13:49.321972",
   "_backfill_count": 25
 }
