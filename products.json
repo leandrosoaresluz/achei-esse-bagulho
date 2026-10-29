@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Shampoo para Cabelos Brancos Tintura para Cabelos Três em Um Tintura para Cabelos Três em Um Condicionador Escuro de",
+      "preco": "99,00",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.8",
+      "avaliacoes": "27",
+      "url": "https://api.acheiessebagulho.com.br/r/b4b491d3dc?url=https%3A%2F%2Fs.shopee.com.br%2F7fayfRgywI&src=site",
+      "url_afiliado": "https://s.shopee.com.br/7fayfRgywI",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_b4b491d3dc.jpg",
+      "data": "2026-10-29"
+    },
+    {
       "nome": "Impressora Epson EcoTank L1250 - Tanque de Tinta Colorida, Wi-Fi Direc…",
       "preco": "834,32",
       "preco_original": "1.279,00",
@@ -16943,6 +16955,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-10-29T08:16:00.295191",
+  "atualizado": "2026-10-29T12:13:06.044275",
   "_backfill_count": 25
 }
