@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Impressora Epson EcoTank L1250 - Tanque de Tinta Colorida, Wi-Fi Direct, Comando de voz, Bivolt, Cor: Preto",
+      "preco": "834,32",
+      "preco_original": "1279,00",
+      "desconto_pct": "35",
+      "nota": "4.7",
+      "avaliacoes": "1849",
+      "url": "https://api.acheiessebagulho.com.br/r/813162a15e?url=https%3A%2F%2Fwww.amazon.com.br%2Fdp%2FB0DTTM47F9%3Ftag%3Dacheiessebagu-20&src=site",
+      "url_afiliado": "https://www.amazon.com.br/dp/B0DTTM47F9?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0DTTM47F9.jpg",
+      "data": "2026-10-29"
+    },
+    {
       "nome": "Quebrador de Ovos com Inox Abridor de Casca Prático para Cozinha",
       "preco": "10,97",
       "preco_original": "",
@@ -16931,6 +16943,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-10-28T20:14:01.747472",
+  "atualizado": "2026-10-29T08:15:52.592250",
   "_backfill_count": 25
 }
