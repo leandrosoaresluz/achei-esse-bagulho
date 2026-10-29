@@ -1,7 +1,7 @@
 {
   "produtos": [
     {
-      "nome": "Shampoo para Cabelos Brancos Tintura para Cabelos Três em Um Tintura para Cabelos Três em Um Condicionador Escuro de",
+      "nome": "Shampoo para Cabelos Brancos Tintura para Cabelos Três em Um Tintura p…",
       "preco": "99,00",
       "preco_original": "",
       "desconto_pct": "",
@@ -16955,6 +16955,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-10-29T12:13:06.044275",
+  "atualizado": "2026-10-29T12:13:14.226220",
   "_backfill_count": 25
 }
