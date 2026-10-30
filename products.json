@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Motocicleta Scooter Assento Traseiro Braço Cinto De Segurança Do Passageiro Pega Alça Antiderrapante Para Crianças Prote",
+      "preco": "64,99",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.8",
+      "avaliacoes": "16",
+      "url": "https://api.acheiessebagulho.com.br/r/31d2bba073?url=https%3A%2F%2Fs.shopee.com.br%2F8fTXSAqbiv&src=site",
+      "url_afiliado": "https://s.shopee.com.br/8fTXSAqbiv",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_31d2bba073.jpg",
+      "data": "2026-10-30"
+    },
+    {
       "nome": "Jesus: O homem que dividiu o tempo",
       "preco": "53,90",
       "preco_original": "59,90",
@@ -16979,6 +16991,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-10-30T08:13:03.017881",
+  "atualizado": "2026-10-30T12:12:53.808948",
   "_backfill_count": 25
 }
