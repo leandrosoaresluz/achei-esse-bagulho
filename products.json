@@ -4,7 +4,7 @@
       "nome": "Jesus: O homem que dividiu o tempo",
       "preco": "53,90",
       "preco_original": "59,90",
-      "desconto_pct": "10",
+      "desconto_pct": "",
       "nota": "5.0",
       "avaliacoes": "9",
       "url": "https://api.acheiessebagulho.com.br/r/11d3d5ff32?url=https%3A%2F%2Fwww.amazon.com.br%2Fdp%2F8501927937%3Ftag%3Dacheiessebagu-20&src=site",
@@ -16979,6 +16979,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-10-30T08:12:52.569162",
+  "atualizado": "2026-10-30T08:13:03.017881",
   "_backfill_count": 25
 }
