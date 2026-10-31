@@ -1,12 +1,12 @@
 {
   "produtos": [
     {
-      "nome": "soundcore P30i da Anker, ANC Fone de Ouvido Bluetooth 5.4 Sem Fio, TWS | 45H, com Cancelamento de Ruído Adaptativo, Graves Poderosos, Estojo 2-em-1 com Suporte para Celular, IP54, Fone Gamer TWS",
+      "nome": "soundcore P30i da Anker, ANC Fone de Ouvido Bluetooth 5.4 Sem Fio, TWS…",
       "preco": "210,00",
       "preco_original": "",
       "desconto_pct": "",
       "nota": "4.7",
-      "avaliacoes": "44822",
+      "avaliacoes": "44,822",
       "url": "https://api.acheiessebagulho.com.br/r/be193a63af?url=https%3A%2F%2Fwww.amazon.com.br%2Fdp%2FB0CRTYZG5C%3Ftag%3Dacheiessebagu-20&src=site",
       "url_afiliado": "https://www.amazon.com.br/dp/B0CRTYZG5C?tag=acheiessebagu-20",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0CRTYZG5C.jpg",
@@ -17015,6 +17015,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-10-31T08:14:23.291629",
+  "atualizado": "2026-10-31T08:14:30.772176",
   "_backfill_count": 25
 }
