@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Kit 2/4 Cintos Preguiçosos Ajustáveis Com Velcro Elástico E Gancho Unissex",
+      "preco": "21,79",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.9",
+      "avaliacoes": "545",
+      "url": "https://api.acheiessebagulho.com.br/r/b503209472?url=https%3A%2F%2Fs.shopee.com.br%2F1LgyJafvUn&src=site",
+      "url_afiliado": "https://s.shopee.com.br/1LgyJafvUn",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_b503209472.jpg",
+      "data": "2026-10-31"
+    },
+    {
       "nome": "soundcore P30i da Anker, ANC Fone de Ouvido Bluetooth 5.4 Sem Fio, TWS…",
       "preco": "210,00",
       "preco_original": "",
@@ -17015,6 +17027,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-10-31T08:14:30.772176",
+  "atualizado": "2026-10-31T12:14:36.471306",
   "_backfill_count": 25
 }
