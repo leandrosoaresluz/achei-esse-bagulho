@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Gabinete para Pia de Coluna Móvel Organizador Armário de Banheiro com Rodízios 2 Portas e Nichos",
+      "preco": "231,47",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.8",
+      "avaliacoes": "59",
+      "url": "https://api.acheiessebagulho.com.br/r/bf9d2963ee?url=https%3A%2F%2Fs.shopee.com.br%2F7AeoiYCWiz&src=site",
+      "url_afiliado": "https://s.shopee.com.br/7AeoiYCWiz",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_bf9d2963ee.jpg",
+      "data": "2026-11-02"
+    },
+    {
       "nome": "Suporte Tv Tri Articulado Lcd Led Plasma 22 A 55 Pol para parede 32 40…",
       "preco": "49,90",
       "preco_original": "",
@@ -17088,6 +17100,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-11-02T12:14:14.920829",
+  "atualizado": "2026-11-02T20:14:18.867974",
   "_backfill_count": 25
 }
