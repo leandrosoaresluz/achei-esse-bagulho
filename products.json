@@ -1,12 +1,12 @@
 {
   "produtos": [
     {
-      "nome": "Mouse sem fio Logitech M170 com Design Ambidestro Compacto, Conexão USB e Pilha Inclusa - Preto",
+      "nome": "Mouse sem fio Logitech M170 com Design Ambidestro Compacto, Conexão US…",
       "preco": "55,90",
       "preco_original": "",
       "desconto_pct": "",
       "nota": "4.8",
-      "avaliacoes": "70855",
+      "avaliacoes": "70,855",
       "url": "https://api.acheiessebagulho.com.br/r/d5de9e2709?url=https%3A%2F%2Fwww.amazon.com.br%2Fdp%2FB074L9L5KZ%3Ftag%3Dacheiessebagu-20&src=site",
       "url_afiliado": "https://www.amazon.com.br/dp/B074L9L5KZ?tag=acheiessebagu-20",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B074L9L5KZ.jpg",
@@ -17076,6 +17076,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-11-02T08:15:17.380644",
+  "atualizado": "2026-11-02T08:15:24.811736",
   "_backfill_count": 25
 }
