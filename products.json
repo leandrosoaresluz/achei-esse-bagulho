@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Suporte Tv Tri Articulado Lcd Led Plasma 22 A 55 Pol para parede 32 40 42 43 47 50 52 55 polegadas",
+      "preco": "49,90",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.7",
+      "avaliacoes": "1568",
+      "url": "https://api.acheiessebagulho.com.br/r/1f0217f94b?url=https%3A%2F%2Fs.shopee.com.br%2FAUvGQDP5od&src=site",
+      "url_afiliado": "https://s.shopee.com.br/AUvGQDP5od",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_1f0217f94b.jpg",
+      "data": "2026-11-02"
+    },
+    {
       "nome": "Mouse sem fio Logitech M170 com Design Ambidestro Compacto, Conexão US…",
       "preco": "55,90",
       "preco_original": "",
@@ -17076,6 +17088,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-11-02T08:15:24.811736",
+  "atualizado": "2026-11-02T12:14:03.946425",
   "_backfill_count": 25
 }
