@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Mini Projetor de Luz Galáxia Céu Estrelado com 6/12/24 Padrões para Dormir e Decoração de Quarto Iluminação Suave e Conf",
+      "preco": "190,00",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.4",
+      "avaliacoes": "117",
+      "url": "https://api.acheiessebagulho.com.br/r/6ceedcc623?url=https%3A%2F%2Fs.shopee.com.br%2F3B8fxCncGg&src=site",
+      "url_afiliado": "https://s.shopee.com.br/3B8fxCncGg",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_6ceedcc623.jpg",
+      "data": "2026-11-03"
+    },
+    {
       "nome": "Clear Men Shampoo Anticaspa Turbo Max Power 350ml",
       "preco": "36,99",
       "preco_original": "",
@@ -17112,6 +17124,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-11-03T08:12:02.442920",
+  "atualizado": "2026-11-03T12:16:39.229314",
   "_backfill_count": 25
 }
