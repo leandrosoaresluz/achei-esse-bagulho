@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Base Ajustável Móvel 138kg para Geladeira, Fogão e Máquina de Lavar – Rodinhas com Freio em Alumínio",
+      "preco": "47,09",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.6",
+      "avaliacoes": "991",
+      "url": "https://api.acheiessebagulho.com.br/r/f20516dba6?url=https%3A%2F%2Fs.shopee.com.br%2F30pHLl2lZX&src=site",
+      "url_afiliado": "https://s.shopee.com.br/30pHLl2lZX",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_f20516dba6.jpg",
+      "data": "2026-11-03"
+    },
+    {
       "nome": "Mini Projetor de Luz Galáxia Céu Estrelado com 6/12/24 Padrões para Do…",
       "preco": "190,00",
       "preco_original": "",
@@ -17124,6 +17136,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-11-03T12:16:48.041848",
+  "atualizado": "2026-11-03T20:14:08.000878",
   "_backfill_count": 25
 }
