@@ -4,7 +4,7 @@
       "nome": "Tech T-shirt Gola V Masculino Insider",
       "preco": "89,00",
       "preco_original": "165,00",
-      "desconto_pct": "46",
+      "desconto_pct": "",
       "nota": "4.6",
       "avaliacoes": "436",
       "url": "https://api.acheiessebagulho.com.br/r/4958240366?url=https%3A%2F%2Fwww.amazon.com.br%2Fdp%2FB0BHJNL76T%3Ftag%3Dacheiessebagu-20&src=site",
@@ -17148,6 +17148,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-11-04T08:16:38.189709",
+  "atualizado": "2026-11-04T08:30:10.275604",
   "_backfill_count": 25
 }
