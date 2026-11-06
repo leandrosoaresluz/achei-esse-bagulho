@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Varal De Roupas Retrátil Recolhivel Para Parede Seca Fácil Com Corda De 30m Manivela Apartamento",
+      "preco": "69,00",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.9",
+      "avaliacoes": "745",
+      "url": "https://api.acheiessebagulho.com.br/r/2661fb02df?url=https%3A%2F%2Fs.shopee.com.br%2F8VAIQ6PBub&src=site",
+      "url_afiliado": "https://s.shopee.com.br/8VAIQ6PBub",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_2661fb02df.jpg",
+      "data": "2026-11-06"
+    },
+    {
       "nome": "Kit 3 Camisetas Básicas Masculinas Sandrini Preto ou Sortido Algodão P…",
       "preco": "79,99",
       "preco_original": "",
@@ -17220,6 +17232,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-11-06T08:12:34.279118",
+  "atualizado": "2026-11-06T12:21:08.079785",
   "_backfill_count": 25
 }
