@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Mala de Viagem Polipropileno 10kg Rígida de Bordo 10kg Cinza com 4 Rodas Duplas 360 Graus, Cadeado Numérico Integrado, Puxador Telescópico, Fechamento em Zíper, Bagagem de Mão para Viagem Curta",
+      "preco": "142,49",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "5.0",
+      "avaliacoes": "2",
+      "url": "https://api.acheiessebagulho.com.br/r/e86f21c5a8?url=https%3A%2F%2Fwww.amazon.com.br%2Fdp%2FB0HN65ZGJP%3Ftag%3Dacheiessebagu-20&src=site",
+      "url_afiliado": "https://www.amazon.com.br/dp/B0HN65ZGJP?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0HN65ZGJP.jpg",
+      "data": "2026-11-07"
+    },
+    {
       "nome": "CORTINA BLACKOUT PVC CORTA LUZ COM VOIL XADREZ 3,00 LARG X 2,60 ALTURA…",
       "preco": "46,00",
       "preco_original": "",
@@ -17244,6 +17256,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-11-06T20:21:12.022986",
+  "atualizado": "2026-11-07T08:12:14.018057",
   "_backfill_count": 25
 }
