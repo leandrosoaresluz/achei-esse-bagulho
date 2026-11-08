@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Escumadeira Para Fritura Com Pegador Inox 28,5cm",
+      "preco": "12,90",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.8",
+      "avaliacoes": "2467",
+      "url": "https://api.acheiessebagulho.com.br/r/0cca840972?url=https%3A%2F%2Fs.shopee.com.br%2F1BNjY1vT10&src=site",
+      "url_afiliado": "https://s.shopee.com.br/1BNjY1vT10",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_0cca840972.jpg",
+      "data": "2026-11-08"
+    },
+    {
       "nome": "Combo Teclado e Mouse Sem Fio Dell KM3322W 1858, Receptor USB 2,4 GHz …",
       "preco": "119,00",
       "preco_original": "152,00",
@@ -17292,6 +17304,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-11-08T08:15:32.309247",
+  "atualizado": "2026-11-08T12:22:26.965609",
   "_backfill_count": 25
 }
