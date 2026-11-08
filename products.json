@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Combo Teclado e Mouse Sem Fio Dell KM3322W 1858, Receptor USB 2,4 GHz | 2 pilhas AAA para o teclado e 1 AA para o mouse, DPI 1000, 3 Botões Programáveis, Cor Preto, Peso total 830,1 g",
+      "preco": "119,00",
+      "preco_original": "152,00",
+      "desconto_pct": "22",
+      "nota": "4.7",
+      "avaliacoes": "11420",
+      "url": "https://api.acheiessebagulho.com.br/r/d65fffb419?url=https%3A%2F%2Fwww.amazon.com.br%2Fdp%2FB0BPTK4P38%3Ftag%3Dacheiessebagu-20&src=site",
+      "url_afiliado": "https://www.amazon.com.br/dp/B0BPTK4P38?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0BPTK4P38.jpg",
+      "data": "2026-11-08"
+    },
+    {
       "nome": "Espanador De Pó Mop Limpa Poeira Flexível Retrátil Limpador Lugar Estr…",
       "preco": "14,48",
       "preco_original": "",
@@ -17280,6 +17292,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-11-07T20:22:26.626164",
+  "atualizado": "2026-11-08T08:15:21.181673",
   "_backfill_count": 25
 }
