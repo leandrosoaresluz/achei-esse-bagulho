@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Blusa Cropped Feminino Tricot Tamara Que Caia Elegante Batinha Básica Tricô Moda Verão",
+      "preco": "47,00",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.9",
+      "avaliacoes": "2369",
+      "url": "https://api.acheiessebagulho.com.br/r/087972b4f9?url=https%3A%2F%2Fs.shopee.com.br%2F8fTnfWN1Ln&src=site",
+      "url_afiliado": "https://s.shopee.com.br/8fTnfWN1Ln",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_087972b4f9.jpg",
+      "data": "2026-11-09"
+    },
+    {
       "nome": "Kit Manta Peseira de Tricot + 2 Capas Almofada Para Cama e Sofá Casal …",
       "preco": "142,90",
       "preco_original": "",
@@ -17340,6 +17352,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-11-09T12:23:27.195447",
+  "atualizado": "2026-11-09T20:23:34.962223",
   "_backfill_count": 25
 }
