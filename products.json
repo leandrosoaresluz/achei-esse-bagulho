@@ -1,10 +1,10 @@
 {
   "produtos": [
     {
-      "nome": "Kit 2 Cuecas Masculinas Boxer Lupo Modal Fibra Natural Respirável Seamless | Tão Confortável Que Você Esquece Que Está Usando Cueca Lupo Boxer Micromodal Sem Costura Não Aperta Não Esquenta Não Laceia",
+      "nome": "Kit 2 Cuecas Masculinas Boxer Lupo Modal Fibra Natural Respirável Seam…",
       "preco": "69,39",
       "preco_original": "91,99",
-      "desconto_pct": "25",
+      "desconto_pct": "",
       "nota": "5.0",
       "avaliacoes": "3",
       "url": "https://api.acheiessebagulho.com.br/r/639aa62541?url=https%3A%2F%2Fwww.amazon.com.br%2Fdp%2FB0HJ67296Y%3Ftag%3Dacheiessebagu-20&src=site",
@@ -17364,6 +17364,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-11-10T08:12:35.471745",
+  "atualizado": "2026-11-10T08:12:43.254996",
   "_backfill_count": 25
 }
