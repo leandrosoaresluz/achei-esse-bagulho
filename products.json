@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Saboneteira 2 Camada Caixa De Sabão Para Banheiro Com Suporte",
+      "preco": "16,99",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.7",
+      "avaliacoes": "146",
+      "url": "https://api.acheiessebagulho.com.br/r/bdb733d6dc?url=https%3A%2F%2Fs.shopee.com.br%2FLohL5X7JT&src=site",
+      "url_afiliado": "https://s.shopee.com.br/LohL5X7JT",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_bdb733d6dc.jpg",
+      "data": "2026-11-10"
+    },
+    {
       "nome": "Robô de Limpeza Xiaomi Robot Vacuum H50 auto Limpeza versão global ori…",
       "preco": "3.500,00",
       "preco_original": "",
@@ -17376,6 +17388,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-11-10T12:23:06.816536",
+  "atualizado": "2026-11-10T20:22:21.639086",
   "_backfill_count": 25
 }
