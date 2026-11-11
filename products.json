@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Vestido longo listrado com faixas na saia lindo e elegante",
+      "preco": "85,90",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.8",
+      "avaliacoes": "15",
+      "url": "https://api.acheiessebagulho.com.br/r/1136b7fa8c?url=https%3A%2F%2Fs.shopee.com.br%2F9KjXeWucys&src=site",
+      "url_afiliado": "https://s.shopee.com.br/9KjXeWucys",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_1136b7fa8c.jpg",
+      "data": "2026-11-11"
+    },
+    {
       "nome": "Saco Secador para Pet - Secagem Rápida 15-30min, Pelos Secos, Anti-Ans…",
       "preco": "29,46",
       "preco_original": "",
@@ -17412,6 +17424,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-11-11T12:23:06.499311",
+  "atualizado": "2026-11-11T20:24:00.769769",
   "_backfill_count": 25
 }
