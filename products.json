@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Saco Secador para Pet - Secagem Rápida 15-30min, Pelos Secos, Anti-Ansiedade, Para Cães e Gatos, Lavável, Reutilizável",
+      "preco": "29,46",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.8",
+      "avaliacoes": "233",
+      "url": "https://api.acheiessebagulho.com.br/r/732e3d1452?url=https%3A%2F%2Fs.shopee.com.br%2F7VHrsGRtwr&src=site",
+      "url_afiliado": "https://s.shopee.com.br/7VHrsGRtwr",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_732e3d1452.jpg",
+      "data": "2026-11-11"
+    },
+    {
       "nome": "Stanley Copo Quencher Rose Quartz 887ml",
       "preco": "146,78",
       "preco_original": "319,00",
@@ -17400,6 +17412,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-11-11T08:14:45.610462",
+  "atualizado": "2026-11-11T12:22:56.155432",
   "_backfill_count": 25
 }
