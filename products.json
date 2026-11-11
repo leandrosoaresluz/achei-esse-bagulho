@@ -4,9 +4,9 @@
       "nome": "Stanley Copo Quencher Rose Quartz 887ml",
       "preco": "146,78",
       "preco_original": "319,00",
-      "desconto_pct": "54",
+      "desconto_pct": "",
       "nota": "4.8",
-      "avaliacoes": "4467",
+      "avaliacoes": "4,467",
       "url": "https://api.acheiessebagulho.com.br/r/677b00def7?url=https%3A%2F%2Fwww.amazon.com.br%2Fdp%2FB0BTHRMZV4%3Ftag%3Dacheiessebagu-20&src=site",
       "url_afiliado": "https://www.amazon.com.br/dp/B0BTHRMZV4?tag=acheiessebagu-20",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0BTHRMZV4.jpg",
@@ -17400,6 +17400,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-11-11T08:14:35.976456",
+  "atualizado": "2026-11-11T08:14:45.610462",
   "_backfill_count": 25
 }
