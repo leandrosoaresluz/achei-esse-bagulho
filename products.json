@@ -1,7 +1,7 @@
 {
   "produtos": [
     {
-      "nome": "Saco Secador para Pet - Secagem Rápida 15-30min, Pelos Secos, Anti-Ansiedade, Para Cães e Gatos, Lavável, Reutilizável",
+      "nome": "Saco Secador para Pet - Secagem Rápida 15-30min, Pelos Secos, Anti-Ans…",
       "preco": "29,46",
       "preco_original": "",
       "desconto_pct": "",
@@ -17412,6 +17412,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-11-11T12:22:56.155432",
+  "atualizado": "2026-11-11T12:23:06.499311",
   "_backfill_count": 25
 }
