@@ -1,10 +1,10 @@
 {
   "produtos": [
     {
-      "nome": "Monitor Portátil 15.6\" Full HD 1080P 60Hz | USB-C e Mini HDMI, Tela Extensora com Capa Suporte e Alto-falantes para Notebook, PC, Mac e Consoles",
+      "nome": "Monitor Portátil 15.6\" Full HD 1080P 60Hz | USB-C e Mini HDMI, Tela Ex…",
       "preco": "322,98",
       "preco_original": "409,99",
-      "desconto_pct": "21",
+      "desconto_pct": "",
       "nota": "4.8",
       "avaliacoes": "7",
       "url": "https://api.acheiessebagulho.com.br/r/393d45510f?url=https%3A%2F%2Fwww.amazon.com.br%2Fdp%2FB0HKHJ1PWM%3Ftag%3Dacheiessebagu-20&src=site",
@@ -17436,6 +17436,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-11-12T08:13:00.215682",
+  "atualizado": "2026-11-12T08:13:16.547559",
   "_backfill_count": 25
 }
