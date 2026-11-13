@@ -1,10 +1,10 @@
 {
   "produtos": [
     {
-      "nome": "Dermage Photoage Water Kit com 2 Unidades – Protetor Solar Facial FPS50 – 40g",
+      "nome": "Dermage Photoage Water Kit com 2 Unidades – Protetor Solar Facial FPS5…",
       "preco": "115,42",
       "preco_original": "144,99",
-      "desconto_pct": "20",
+      "desconto_pct": "",
       "nota": "5.0",
       "avaliacoes": "3",
       "url": "https://api.acheiessebagulho.com.br/r/8733f773c1?url=https%3A%2F%2Fwww.amazon.com.br%2Fdp%2FB0HNLL898L%3Ftag%3Dacheiessebagu-20&src=site",
@@ -17484,6 +17484,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-11-13T18:13:20.777221",
+  "atualizado": "2026-11-13T18:13:29.721319",
   "_backfill_count": 25
 }
