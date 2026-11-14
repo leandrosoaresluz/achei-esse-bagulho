@@ -4,9 +4,9 @@
       "nome": "Downy Amaciante Concentrado Brisa de Verão 3L Rende 12L",
       "preco": "43,36",
       "preco_original": "73,75",
-      "desconto_pct": "41",
+      "desconto_pct": "",
       "nota": "4.9",
-      "avaliacoes": "45365",
+      "avaliacoes": "45,365",
       "url": "https://api.acheiessebagulho.com.br/r/b5c8dc174f?url=https%3A%2F%2Fwww.amazon.com.br%2Fdp%2FB07MBXDB51%3Ftag%3Dacheiessebagu-20&src=site",
       "url_afiliado": "https://www.amazon.com.br/dp/B07MBXDB51?tag=acheiessebagu-20",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B07MBXDB51.jpg",
@@ -17520,6 +17520,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-11-14T18:16:37.607279",
+  "atualizado": "2026-11-14T18:16:45.150529",
   "_backfill_count": 25
 }
