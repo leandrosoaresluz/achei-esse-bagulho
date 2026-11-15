@@ -1,7 +1,7 @@
 {
   "produtos": [
     {
-      "nome": "Antena de recepção de TV digital com suporte, faixas de recepção e amplificação",
+      "nome": "Antena de recepção de TV digital com suporte, faixas de recepção e amp…",
       "preco": "63,69",
       "preco_original": "",
       "desconto_pct": "",
@@ -17544,6 +17544,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-11-15T12:22:12.344274",
+  "atualizado": "2026-11-15T12:22:19.731053",
   "_backfill_count": 25
 }
