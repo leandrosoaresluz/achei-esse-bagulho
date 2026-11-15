@@ -1,7 +1,7 @@
 {
   "produtos": [
     {
-      "nome": "Kit Lavagem e Detalhamento Automotivo Completo Vonixx | V-Floc + V-Mol + Sintra Fast + Pneu Pretinho Vintex + Acessórios Yamase",
+      "nome": "Kit Lavagem e Detalhamento Automotivo Completo Vonixx | V-Floc + V-Mol…",
       "preco": "92,57",
       "preco_original": "",
       "desconto_pct": "",
@@ -17556,6 +17556,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-11-15T18:10:25.840011",
+  "atualizado": "2026-11-15T18:10:46.285363",
   "_backfill_count": 25
 }
