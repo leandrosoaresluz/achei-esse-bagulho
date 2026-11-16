@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Morte Súbita Máscara Super Hidratante 450g , Lola Cosmetics",
+      "preco": "30,17",
+      "preco_original": "64,90",
+      "desconto_pct": "54",
+      "nota": "4.8",
+      "avaliacoes": "83434",
+      "url": "https://api.acheiessebagulho.com.br/r/0dddf7ebf5?url=https%3A%2F%2Fwww.amazon.com.br%2Fdp%2FB074LTNQBP%3Ftag%3Dacheiessebagu-20&src=site",
+      "url_afiliado": "https://www.amazon.com.br/dp/B074LTNQBP?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B074LTNQBP.jpg",
+      "data": "2026-11-16"
+    },
+    {
       "nome": "Prateleira retrátil para pia de cozinha, Rack de armazenamento de pane…",
       "preco": "57,99",
       "preco_original": "",
@@ -16821,17 +16833,6 @@
       "data": "2026-08-16"
     },
     {
-      "nome": "Morte Súbita Máscara Super Hidratante 450g , Lola Cosmetics",
-      "preco": "39,67",
-      "preco_original": "64,90",
-      "desconto_pct": "39",
-      "nota": "4.8",
-      "avaliacoes": "80999",
-      "url": "https://www.amazon.com.br/dp/B074LTNQBP?tag=acheiessebagu-20",
-      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B074LTNQBP.jpg",
-      "data": "2026-08-16"
-    },
-    {
       "nome": "Snow Foam Pulverizador Manual Borrifador Alta Pressão 2 Litros Com 3 B…",
       "preco": "40,90",
       "preco_original": "",
@@ -17580,6 +17581,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-11-16T12:19:58.382097",
+  "atualizado": "2026-11-16T18:14:59.996999",
   "_backfill_count": 25
 }
