@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Lanterna Recarregável, 80-100 Lúmens, Bateria De Lítio, Lrv 100l, Vonder",
+      "preco": "34,64",
+      "preco_original": "49,28",
+      "desconto_pct": "30",
+      "nota": "4.8",
+      "avaliacoes": "1597",
+      "url": "https://api.acheiessebagulho.com.br/r/5635d46114?url=https%3A%2F%2Fwww.amazon.com.br%2Fdp%2FB08K3GS882%3Ftag%3Dacheiessebagu-20&src=site",
+      "url_afiliado": "https://www.amazon.com.br/dp/B08K3GS882?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B08K3GS882.jpg",
+      "data": "2026-11-17"
+    },
+    {
       "nome": "Suporte para Plantas Vertical,Plant support vertical garden shelf Esta…",
       "preco": "138,00",
       "preco_original": "",
@@ -17605,6 +17617,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-11-17T12:19:19.572426",
+  "atualizado": "2026-11-17T18:15:00.725992",
   "_backfill_count": 25
 }
