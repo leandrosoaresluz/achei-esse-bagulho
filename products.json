@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Amplificador de Sinal WiFi 300Mbps Repetidor de Internet Wireless Extensor WiFi com WPS",
+      "preco": "32,99",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.8",
+      "avaliacoes": "595",
+      "url": "https://api.acheiessebagulho.com.br/r/bc17e26408?url=https%3A%2F%2Fs.shopee.com.br%2F50ai3tmxMy&src=site",
+      "url_afiliado": "https://s.shopee.com.br/50ai3tmxMy",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_bc17e26408.jpg",
+      "data": "2026-11-17"
+    },
+    {
       "nome": "Lanterna Recarregável, 80-100 Lúmens, Bateria De Lítio, Lrv 100l, Vond…",
       "preco": "34,64",
       "preco_original": "49,28",
@@ -17617,6 +17629,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-11-17T18:15:10.519262",
+  "atualizado": "2026-11-17T20:17:44.732138",
   "_backfill_count": 25
 }
