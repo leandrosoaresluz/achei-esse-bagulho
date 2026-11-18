@@ -1,12 +1,12 @@
 {
   "produtos": [
     {
-      "nome": "Sérum Facial Medicube PDRN Pink Peptide Serum - 30 ml | Hidratação e luminosidade com peptídeos e niacinamida, para uma pele com aparência mais firme e tom uniforme",
+      "nome": "Sérum Facial Medicube PDRN Pink Peptide Serum - 30 ml | Hidratação e l…",
       "preco": "102,43",
       "preco_original": "179,90",
-      "desconto_pct": "43",
+      "desconto_pct": "",
       "nota": "4.6",
-      "avaliacoes": "27126",
+      "avaliacoes": "27,126",
       "url": "https://api.acheiessebagulho.com.br/r/9c374d4615?url=https%3A%2F%2Fwww.amazon.com.br%2Fdp%2FB0DBF65JYY%3Ftag%3Dacheiessebagu-20&src=site",
       "url_afiliado": "https://www.amazon.com.br/dp/B0DBF65JYY?tag=acheiessebagu-20",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B0DBF65JYY.jpg",
@@ -17653,6 +17653,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-11-18T18:12:11.291938",
+  "atualizado": "2026-11-18T18:12:21.031027",
   "_backfill_count": 25
 }
