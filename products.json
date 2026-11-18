@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Pager Botão De Chamada De Emergência Relógio Sem Fio SOS Para Idosos Crianças Sistema Paciente Eua Plug Branco",
+      "preco": "74,14",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.7",
+      "avaliacoes": "31",
+      "url": "https://api.acheiessebagulho.com.br/r/5b2e2f22b8?url=https%3A%2F%2Fs.shopee.com.br%2F7KyeR4a75v&src=site",
+      "url_afiliado": "https://s.shopee.com.br/7KyeR4a75v",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_5b2e2f22b8.jpg",
+      "data": "2026-11-18"
+    },
+    {
       "nome": "Sérum Facial Medicube PDRN Pink Peptide Serum - 30 ml | Hidratação e l…",
       "preco": "102,43",
       "preco_original": "179,90",
@@ -17653,6 +17665,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-11-18T18:12:21.031027",
+  "atualizado": "2026-11-18T20:12:42.497130",
   "_backfill_count": 25
 }
