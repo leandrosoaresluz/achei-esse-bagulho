@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Kit 6 Pares Meias Lupo 3245 Cano Médio Algodão - Sortido | Meias Masculino Cano Médio Meia Lupo Masculina Kit Meias Lupo Respirável Calcanhar Verdadeiro Não Escorrega Amortece Impacto",
+      "preco": "59,90",
+      "preco_original": "69,99",
+      "desconto_pct": "14",
+      "nota": "4.8",
+      "avaliacoes": "6978",
+      "url": "https://api.acheiessebagulho.com.br/r/9cbc7cc05f?url=https%3A%2F%2Fwww.amazon.com.br%2Fdp%2FB07RN15ZSD%3Ftag%3Dacheiessebagu-20&src=site",
+      "url_afiliado": "https://www.amazon.com.br/dp/B07RN15ZSD?tag=acheiessebagu-20",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B07RN15ZSD.jpg",
+      "data": "2026-11-19"
+    },
+    {
       "nome": "Kit Crochê Completo 53 Peças Para Fazer Amigurumi Agulhas Cabo Soft Te…",
       "preco": "28,79",
       "preco_original": "",
@@ -17677,6 +17689,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-11-19T12:15:23.507224",
+  "atualizado": "2026-11-19T18:12:50.512310",
   "_backfill_count": 25
 }
