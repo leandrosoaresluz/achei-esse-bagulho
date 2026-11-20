@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Escada de Alumínio 3 Ou 4 Degraus MOR Max 120Kg Dobrável Resistente Doméstica Flexível Reforçada Aço",
+      "preco": "119,99",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.9",
+      "avaliacoes": "852",
+      "url": "https://api.acheiessebagulho.com.br/r/73279374fa?url=https%3A%2F%2Fs.shopee.com.br%2F50alFjdHaX&src=site",
+      "url_afiliado": "https://s.shopee.com.br/50alFjdHaX",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_73279374fa.jpg",
+      "data": "2026-11-20"
+    },
+    {
       "nome": "Fechadura Eletrônica Digital Biométrica Com Senha Cartão Chave Preta |…",
       "preco": "180,40",
       "preco_original": "",
@@ -17725,6 +17737,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-11-20T18:10:50.944044",
+  "atualizado": "2026-11-20T20:06:11.200345",
   "_backfill_count": 25
 }
