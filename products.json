@@ -1,7 +1,7 @@
 {
   "produtos": [
     {
-      "nome": "Cortina Cozinha Lavanderia 2,50m x 1,25m Costela de Adão Folhas de Renda Elegante",
+      "nome": "Cortina Cozinha Lavanderia 2,50m x 1,25m Costela de Adão Folhas de Ren…",
       "preco": "49,90",
       "preco_original": "",
       "desconto_pct": "",
@@ -17713,6 +17713,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-11-20T12:08:10.090483",
+  "atualizado": "2026-11-20T12:08:26.138600",
   "_backfill_count": 25
 }
