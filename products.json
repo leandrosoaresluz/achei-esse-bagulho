@@ -4,7 +4,7 @@
       "nome": "Tênis Olympikus Corre Grafeno 3",
       "preco": "479,90",
       "preco_original": "799,99",
-      "desconto_pct": "40",
+      "desconto_pct": "",
       "nota": "4.5",
       "avaliacoes": "5",
       "url": "https://api.acheiessebagulho.com.br/r/c82b723d5b?url=https%3A%2F%2Fwww.amazon.com.br%2Fdp%2FB0HKKCPFKD%3Ftag%3Dacheiessebagu-20&src=site",
@@ -17761,6 +17761,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-11-21T18:11:42.509895",
+  "atualizado": "2026-11-21T18:11:51.103307",
   "_backfill_count": 25
 }
