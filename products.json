@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Multi-Inseticida AGE (Arraze) Tripla Ação – Spray 500ml - Único contra 15 Pragas",
+      "preco": "29,00",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.8",
+      "avaliacoes": "64",
+      "url": "https://api.acheiessebagulho.com.br/r/78f285a8c2?url=https%3A%2F%2Fs.shopee.com.br%2F7puyDoOazB&src=site",
+      "url_afiliado": "https://s.shopee.com.br/7puyDoOazB",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_78f285a8c2.jpg",
+      "data": "2026-11-21"
+    },
+    {
       "nome": "Escada de Alumínio 3 Ou 4 Degraus MOR Max 120Kg Dobrável Resistente Do…",
       "preco": "119,99",
       "preco_original": "",
@@ -17737,6 +17749,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-11-20T20:06:20.236955",
+  "atualizado": "2026-11-21T12:06:47.205853",
   "_backfill_count": 25
 }
