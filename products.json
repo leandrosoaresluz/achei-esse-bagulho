@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Tinta Epóxi Decortex Pronta para Uso – Resistência Industrial Premium",
+      "preco": "270,00",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.4",
+      "avaliacoes": "231",
+      "url": "https://api.acheiessebagulho.com.br/r/805d7c5a80?url=https%3A%2F%2Fs.shopee.com.br%2F5AuEdoPz1O&src=site",
+      "url_afiliado": "https://s.shopee.com.br/5AuEdoPz1O",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_805d7c5a80.jpg",
+      "data": "2026-11-22"
+    },
+    {
       "nome": "Revestimento Decorativo Pedra Natural 20kg VMAXXY Parede Interno Exter…",
       "preco": "209,90",
       "preco_original": "",
@@ -17773,6 +17785,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-11-21T20:07:08.773178",
+  "atualizado": "2026-11-22T12:06:47.289393",
   "_backfill_count": 25
 }
