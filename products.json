@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Gaabor Triturador Processador Carne Legumes 2L 4 Lâminas Aço Tigela Vidro Multifuncional MG-15M02A",
+      "preco": "169,00",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "5.0",
+      "avaliacoes": "584",
+      "url": "https://api.acheiessebagulho.com.br/r/019cd28653?url=https%3A%2F%2Fs.shopee.com.br%2F20xG3luzsu&src=site",
+      "url_afiliado": "https://s.shopee.com.br/20xG3luzsu",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_019cd28653.jpg",
+      "data": "2026-11-23"
+    },
+    {
       "nome": "Kit 12 Tampa Plástica ABS Universal para Válvula de Pneu - Preto | Tam…",
       "preco": "17,57",
       "preco_original": "",
@@ -17833,6 +17845,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-11-23T18:10:52.132464",
+  "atualizado": "2026-11-23T20:06:18.578534",
   "_backfill_count": 25
 }
