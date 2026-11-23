@@ -9,20 +9,63 @@
 <meta property="og:description" content="Receba os melhores achados direto no seu WhatsApp!">
 <meta property="og:image" content="https://acheiessebagulho.com.br/logo_ambos2.PNG">
 <meta property="og:url" content="https://acheiessebagulho.com.br/zap/">
-<noscript><meta http-equiv="refresh" content="0; url=https://chat.whatsapp.com/GOr02Ru7WEH80Gprbm4ICS"></noscript>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+<style>
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:#0f0f1a;color:#f0f0f0;font-family:'Inter',sans-serif;min-height:100vh;
+       display:flex;flex-direction:column;align-items:center;padding:36px 16px 40px}
+  .logo{width:120px;border-radius:24px;margin-bottom:14px;box-shadow:0 8px 32px rgba(249,115,22,.25)}
+  h1{font-size:1.25rem;font-weight:800;text-align:center;margin-bottom:6px}
+  .sub{color:#8888aa;font-size:.9rem;text-align:center;margin-bottom:26px}
+  .op{display:flex;align-items:center;gap:14px;width:100%;max-width:420px;text-decoration:none;
+      color:#0b1f12;background:#25D366;border-radius:14px;padding:16px 18px;margin-bottom:12px;
+      box-shadow:0 4px 20px rgba(37,211,102,.3);transition:transform .15s,opacity .2s}
+  .op.canal{background:#1a1a2e;color:#f0f0f0;border:2px solid #25D366;box-shadow:none}
+  .op:active{transform:scale(.98);opacity:.9}
+  .op .ic{font-size:1.8rem;flex-shrink:0}
+  .op b{display:block;font-size:1.05rem;font-weight:800}
+  .op span{display:block;font-size:.82rem;opacity:.85;margin-top:3px;line-height:1.35}
+  .rod{color:#8888aa;font-size:.75rem;text-align:center;margin-top:18px;max-width:420px;line-height:1.5}
+</style>
 <script>
-/* [rastreio_zap] conta a visita e segue pro convite da comunidade do WhatsApp */
+/* [rastreio_zap] conta a visita na página de escolha */
 (function () {
-  var src = "zap";
-  var destino = "https://chat.whatsapp.com/GOr02Ru7WEH80Gprbm4ICS";
+  try {
+    fetch("https://api.acheiessebagulho.com.br/r/zap?src=zap&url=" +
+          encodeURIComponent("https://acheiessebagulho.com.br/zap/"),
+          { mode: "no-cors", keepalive: true, credentials: "omit" });
+  } catch (e) {}
+})();
+/* conta qual opção foi escolhida e segue pro WhatsApp */
+function ir(src, destino) {
   try {
     fetch("https://api.acheiessebagulho.com.br/r/" + src + "?src=" + src +
           "&url=" + encodeURIComponent(destino),
           { mode: "no-cors", keepalive: true, credentials: "omit" });
   } catch (e) {}
-  location.replace(destino);
-})();
+  setTimeout(function () { location.href = destino; }, 120);
+  return false;
+}
 </script>
 </head>
-<body style="background:#0f0f14"></body>
+<body>
+  <img src="/logo_ambos2.PNG" alt="Achei Esse Bagulho" class="logo">
+  <h1>Achados no seu WhatsApp 🔥</h1>
+  <p class="sub">Escolha como prefere receber:</p>
+
+  <a class="op" href="https://chat.whatsapp.com/GOr02Ru7WEH80Gprbm4ICS"
+     onclick="return ir('zap_comunidade', this.href)">
+    <div class="ic">💬</div>
+    <div><b>Comunidade</b><span>As ofertas chegam como mensagem, junto das suas conversas</span></div>
+  </a>
+
+  <a class="op canal" href="https://whatsapp.com/channel/0029VbE9QGFGk1G1Zlmznw3U"
+     onclick="return ir('zap_canal', this.href)">
+    <div class="ic">📢</div>
+    <div><b>Canal</b><span>As ofertas ficam na aba Atualizações, sem notificação de grupo</span></div>
+  </a>
+
+  <p class="rod">Seu número não aparece pra ninguém no canal.<br>
+  Links de afiliado: você paga o mesmo preço e apoia o canal 🙏</p>
+</body>
 </html>
