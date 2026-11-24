@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Gabinete de Banheiro Premium Organizador Para Pia de Coluna - JM3 Móveis",
+      "preco": "187,60",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.8",
+      "avaliacoes": "419",
+      "url": "https://api.acheiessebagulho.com.br/r/cbd3c2cbb3?url=https%3A%2F%2Fs.shopee.com.br%2F9fMhBs5PMo&src=site",
+      "url_afiliado": "https://s.shopee.com.br/9fMhBs5PMo",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_cbd3c2cbb3.jpg",
+      "data": "2026-11-24"
+    },
+    {
       "nome": "Gaabor Triturador Processador Carne Legumes 2L 4 Lâminas Aço Tigela Vi…",
       "preco": "169,00",
       "preco_original": "",
@@ -17845,6 +17857,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-11-23T20:06:28.438194",
+  "atualizado": "2026-11-24T12:06:18.026741",
   "_backfill_count": 25
 }
