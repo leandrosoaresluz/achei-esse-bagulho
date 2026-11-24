@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Kit 4 Treliça Gradil Folhagem Planta Verde Cerca Expansível 2 metros",
+      "preco": "173,99",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.6",
+      "avaliacoes": "54",
+      "url": "https://api.acheiessebagulho.com.br/r/a431d63686?url=https%3A%2F%2Fs.shopee.com.br%2F5LDjclVsmB&src=site",
+      "url_afiliado": "https://s.shopee.com.br/5LDjclVsmB",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_a431d63686.jpg",
+      "data": "2026-11-24"
+    },
+    {
       "nome": "Capa de Chuva Kit 2 Unidades Transparente Unissex EVA Impermeável com …",
       "preco": "38,90",
       "preco_original": "",
@@ -17869,6 +17881,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-11-24T18:08:47.530692",
+  "atualizado": "2026-11-24T20:06:31.877661",
   "_backfill_count": 25
 }
