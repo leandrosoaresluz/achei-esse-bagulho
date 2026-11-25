@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Corretivo Hidratante 24h Una - LANÇAMENTO",
+      "preco": "57,90",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "5.0",
+      "avaliacoes": "12",
+      "url": "https://api.acheiessebagulho.com.br/r/7b1e0c9635?url=https%3A%2F%2Fs.shopee.com.br%2F6Amp1PjwDm&src=site",
+      "url_afiliado": "https://s.shopee.com.br/6Amp1PjwDm",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_7b1e0c9635.jpg",
+      "data": "2026-11-25"
+    },
+    {
       "nome": "Kit 3 Bolinha De Tênis Resistente Alta Performance Profissional Premiu…",
       "preco": "21,00",
       "preco_original": "",
@@ -17905,6 +17917,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-11-25T18:10:27.049029",
+  "atualizado": "2026-11-25T20:06:58.583564",
   "_backfill_count": 25
 }
