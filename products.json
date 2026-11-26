@@ -1,6 +1,18 @@
 {
   "produtos": [
     {
+      "nome": "Sapateira Suspenso de Porta Organizador Multiuso Divisória Vertical Chinelo",
+      "preco": "28,67",
+      "preco_original": "",
+      "desconto_pct": "",
+      "nota": "4.9",
+      "avaliacoes": "1163",
+      "url": "https://api.acheiessebagulho.com.br/r/8eb488e98c?url=https%3A%2F%2Fs.shopee.com.br%2F6VPjwEql2D&src=site",
+      "url_afiliado": "https://s.shopee.com.br/6VPjwEql2D",
+      "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/prod_8eb488e98c.jpg",
+      "data": "2026-11-26"
+    },
+    {
       "nome": "Corretivo Hidratante 24h Una - LANÇAMENTO",
       "preco": "57,90",
       "preco_original": "",
@@ -17917,6 +17929,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-11-25T20:07:07.389407",
+  "atualizado": "2026-11-26T12:06:44.115551",
   "_backfill_count": 25
 }
