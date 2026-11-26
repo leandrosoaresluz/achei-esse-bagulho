@@ -402,6 +402,32 @@
     .redes > .btn-wpp svg { width: 22px; height: 22px; }
     .redes + .tiktok-hint { margin-top: -10px; }
 
+    /* [banner_bf] Black Friday -> /zap (some sozinho depois de BF_FIM) */
+    .bf {
+      max-width: 420px; margin: 0 auto 18px; padding: 0 16px;
+    }
+    .bf a {
+      display: block; text-decoration: none; color: #fff;
+      background: linear-gradient(135deg, #000 0%, #1c1c1c 60%, #2a1405 100%);
+      border: 2px solid var(--accent); border-radius: var(--radius);
+      padding: 16px 18px; text-align: center;
+      box-shadow: 0 6px 28px rgba(249,115,22,.30);
+      animation: bfPulse 2.2s ease-in-out infinite;
+    }
+    .bf a:active { transform: scale(.98); }
+    .bf-tag { font-family: 'Bebas Neue', sans-serif; font-size: 1.9rem; letter-spacing: 3px; line-height: 1; }
+    .bf-tag b { color: var(--accent); }
+    .bf-sub { font-size: .9rem; color: #ddd; margin: 6px 0 12px; line-height: 1.4; }
+    .bf-btn {
+      display: inline-block; background: #25D366; color: #0b1f12; font-weight: 800;
+      font-size: 1rem; padding: 12px 20px; border-radius: 10px;
+    }
+    .bf-tempo { font-size: .75rem; color: var(--muted); margin-top: 10px; }
+    @keyframes bfPulse {
+      0%,100% { box-shadow: 0 6px 28px rgba(249,115,22,.25); }
+      50%     { box-shadow: 0 6px 36px rgba(249,115,22,.55); }
+    }
+
     .footer {
       text-align: center;
       color: var(--muted);
@@ -418,6 +444,16 @@
   </div>
 
 
+
+  <!-- [banner_bf] aparece só até BF_FIM (ver script no fim da página) -->
+  <div class="bf" id="bf" hidden>
+    <a href="/zap/" onclick="return irBF(this.href)">
+      <div class="bf-tag">🖤 BLACK <b>FRIDAY</b></div>
+      <div class="bf-sub">Ofertas com desconto de verdade<br>direto no seu WhatsApp</div>
+      <span class="bf-btn">📲 Quero receber</span>
+      <div class="bf-tempo" id="bf-tempo"></div>
+    </a>
+  </div>
 
   <!-- [botoes_grade] -->
   <nav class="redes">
@@ -689,6 +725,30 @@
 
     init();
   </script>
+<script>
+/* [banner_bf] mostra o banner até o fim da Cyber Monday (horário de Brasília) */
+var BF_FIM = new Date("2026-12-01T03:00:00Z").getTime();  // 01/12 00:00 BRT
+(function () {
+  var agora = Date.now();
+  if (agora >= BF_FIM) return;
+  var el = document.getElementById("bf");
+  if (!el) return;
+  el.hidden = false;
+  var w = document.querySelector(".redes > .btn-wpp");  // evita 2 botões verdes iguais
+  if (w) w.style.display = "none";
+  var dias = Math.ceil((BF_FIM - agora) / 86400000);
+  var t = document.getElementById("bf-tempo");
+  if (t) t.textContent = dias <= 1 ? "⏰ Último dia!" : "⏰ Termina em " + dias + " dias";
+})();
+function irBF(destino) {
+  try {
+    fetch("https://api.acheiessebagulho.com.br/r/site_bf?src=site_bf&url=" + encodeURIComponent(destino),
+          { mode: "no-cors", keepalive: true, credentials: "omit" });
+  } catch (e) {}
+  setTimeout(function () { location.href = destino; }, 120);
+  return false;
+}
+</script>
 <script>
 /* [rastreio_visita] visita que chega direto na página inicial (domínio puro na bio,
    link digitado, etc.): conta 1x por sessão, com a origem provável. Quem passou
