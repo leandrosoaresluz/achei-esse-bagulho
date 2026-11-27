@@ -4,9 +4,9 @@
       "nome": "Sparta Maleta de ferramentas kit com 129 peças",
       "preco": "87,56",
       "preco_original": "140,45",
-      "desconto_pct": "38",
+      "desconto_pct": "",
       "nota": "4.7",
-      "avaliacoes": "18930",
+      "avaliacoes": "18,930",
       "url": "https://api.acheiessebagulho.com.br/r/780aafef5e?url=https%3A%2F%2Fwww.amazon.com.br%2Fdp%2FB076N2S8FV%3Ftag%3Dacheiessebagu-20&src=site",
       "url_afiliado": "https://www.amazon.com.br/dp/B076N2S8FV?tag=acheiessebagu-20",
       "imagem": "https://raw.githubusercontent.com/leandrosoaresluz/achei-esse-bagulho/main/images/B076N2S8FV.jpg",
@@ -17944,6 +17944,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-11-27T18:17:34.303191",
+  "atualizado": "2026-11-27T18:17:42.315898",
   "_backfill_count": 25
 }
