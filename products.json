@@ -1,10 +1,10 @@
 {
   "produtos": [
     {
-      "nome": "Kit Varão com Suporte Autocolante para Porta Banheiro Cozinha Prático sem Furos",
+      "nome": "Kit Varão com Suporte Autocolante para Porta Banheiro Cozinha Prático …",
       "preco": "24,39",
       "preco_original": "62,54",
-      "desconto_pct": "61",
+      "desconto_pct": "",
       "nota": "4.7",
       "avaliacoes": "627",
       "url": "https://api.acheiessebagulho.com.br/r/afa4a718e5?url=https%3A%2F%2Fs.shopee.com.br%2F1gKWJDbt0L&src=site",
@@ -17956,6 +17956,6 @@
       "data": "2026-08-26"
     }
   ],
-  "atualizado": "2026-11-27T20:07:49.670123",
+  "atualizado": "2026-11-27T20:07:57.385150",
   "_backfill_count": 25
 }
